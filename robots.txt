@@ -1,0 +1,12 @@
+---
+layout: null
+---
+{% if site.site_noindex == true %}
+User-agent: *
+Disallow: /
+{% else %}
+User-agent: *
+Allow: /
+
+Sitemap: {{ site.url }}/sitemap.xml
+{% endif %}

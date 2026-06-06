@@ -1,0 +1,38 @@
+Configuration file: C:/Users/Usuario/Desktop/Abogado penalista web/_config.yml
+            Source: C:/Users/Usuario/Desktop/Abogado penalista web
+       Destination: C:/Users/Usuario/Desktop/Abogado penalista web/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.453 seconds.
+ Auto-regeneration: disabled. Use --watch to enable.
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+[2026-06-04 22:08:07] ERROR Errno::ECONNRESET: Se ha forzado la interrupción de una conexión existente por el host remoto. @ io_fillbuf - fd:6 
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/server.rb:309:in `block in start_thread'
+[2026-06-04 22:11:00] ERROR '/favicon.ico' not found.
+[2026-06-05 20:37:28] ERROR Errno::ECONNRESET: Se ha forzado la interrupción de una conexión existente por el host remoto. @ io_fillbuf - fd:6 
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/server.rb:309:in `block in start_thread'
+[2026-06-05 21:06:16] ERROR Errno::ECONNRESET: Se ha forzado la interrupción de una conexión existente por el host remoto. @ io_fillbuf - fd:6 
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/server.rb:309:in `block in start_thread'
+[2026-06-05 21:07:26] ERROR Errno::ECONNRESET: Se ha forzado la interrupción de una conexión existente por el host remoto. @ io_fillbuf - fd:6 
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/server.rb:309:in `block in start_thread'
+[2026-06-05 21:07:26] ERROR Errno::ECONNRESET: Se ha forzado la interrupción de una conexión existente por el host remoto. @ io_fillbuf - fd:7 
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/server.rb:309:in `block in start_thread'
+[2026-06-05 21:08:44] ERROR Errno::ECONNRESET: Se ha forzado la interrupción de una conexión existente por el host remoto. @ io_fillbuf - fd:6 
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/server.rb:309:in `block in start_thread'
+[2026-06-05 21:08:45] ERROR Errno::ECONNRESET: Se ha forzado la interrupción de una conexión existente por el host remoto. @ io_fillbuf - fd:7 
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/httpserver.rb:82:in `eof?'
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/httpserver.rb:82:in `run'
+	C:/Ruby33-x64/lib/ruby/gems/3.3.0/gems/webrick-1.9.2/lib/webrick/server.rb:309:in `block in start_thread'
