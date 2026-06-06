@@ -1,0 +1,50 @@
+<section class="contact-panel border rounded-3 p-3 p-md-4 mb-4" id="consulta-penal">
+  <div class="row g-4">
+    <div class="col-lg-5">
+      <h2 class="h4 mb-2">Enviar consulta confidencial</h2>
+      <p class="text-muted mb-3">La consulta es confidencial. No envies documentacion sensible sin coordinacion previa.</p>
+      <div class="d-grid gap-2">
+        <a class="btn btn-primary" href="{{ include.whatsapp_href | default: site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-track="contact-whatsapp">WhatsApp {{ site.contact.phone_display }}</a>
+        <a class="btn btn-outline-primary" href="tel:{{ site.contact.phone_tel }}" data-track="contact-phone">Llamar</a>
+        <a class="btn btn-outline-primary" href="{{ site.contact.email_url }}" data-track="contact-email">Email</a>
+      </div>
+    </div>
+    <div class="col-lg-7">
+      <form class="contact-form" action="{{ site.contact.email_url }}" method="post" enctype="text/plain" data-track="contact-form">
+        <div class="row g-3">
+          <div class="col-md-6">
+            <label class="form-label" for="nombre">Nombre</label>
+            <input class="form-control" id="nombre" name="Nombre" autocomplete="name" required />
+          </div>
+          <div class="col-md-6">
+            <label class="form-label" for="telefono">Telefono</label>
+            <input class="form-control" id="telefono" name="Telefono" autocomplete="tel" required />
+          </div>
+          <div class="col-md-6">
+            <label class="form-label" for="ciudad">Ciudad</label>
+            <input class="form-control" id="ciudad" name="Ciudad" autocomplete="address-level2" />
+          </div>
+          <div class="col-md-6">
+            <label class="form-label" for="situacion">Tipo de situacion</label>
+            <select class="form-select" id="situacion" name="Tipo de situacion">
+              <option>Detenido</option>
+              <option>Citacion</option>
+              <option>Imputacion</option>
+              <option>Prision preventiva</option>
+              <option>Excarcelacion</option>
+              <option>Recurso</option>
+              <option>Otra</option>
+            </select>
+          </div>
+          <div class="col-12">
+            <label class="form-label" for="mensaje">Mensaje breve</label>
+            <textarea class="form-control" id="mensaje" name="Mensaje" rows="5" required></textarea>
+          </div>
+          <div class="col-12">
+            <button class="btn btn-primary" type="submit" data-track="contact-form-submit">Enviar consulta</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>

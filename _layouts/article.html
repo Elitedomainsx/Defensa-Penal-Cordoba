@@ -1,0 +1,65 @@
+---
+layout: default
+---
+{%- assign page_context = page.h1 | default: page.title | url_encode -%}
+{%- assign whatsapp_href = site.contact.whatsapp_base_url | append: "Hola%2C%20necesito%20asesoramiento%20penal%20en%20Cordoba.%20Consulta%3A%20" | append: page_context -%}
+{%- assign primary_cta = "Solicitar consulta penal" -%}
+{%- case page.url -%}
+  {%- when "/urgencias-penales-cordoba/" -%}{%- assign primary_cta = "Hablar por WhatsApp ahora" -%}
+  {%- when "/familiar-detenido-cordoba/" -%}{%- assign primary_cta = "Consultar por un familiar detenido" -%}
+  {%- when "/citacion-a-declarar-cordoba/" -%}{%- assign primary_cta = "Consultar antes de declarar" -%}
+  {%- when "/imputado-cordoba/" -%}{%- assign primary_cta = "Consultar mi situacion penal" -%}
+  {%- when "/prision-preventiva-cordoba/" -%}{%- assign primary_cta = "Solicitar analisis del caso" -%}
+  {%- when "/excarcelacion-cordoba/" -%}{%- assign primary_cta = "Consultar pedido de libertad" -%}
+  {%- when "/habeas-corpus-cordoba/" -%}{%- assign primary_cta = "Consultar asistencia penal urgente" -%}
+  {%- when "/recursos-penales-cordoba/" -%}{%- assign primary_cta = "Solicitar revision de la resolucion" -%}
+  {%- when "/contacto/" -%}{%- assign primary_cta = "Enviar consulta confidencial" -%}
+{%- endcase -%}
+
+<main class="page-section article-page">
+  <div class="container px-4 px-lg-5">
+    <article class="article mx-auto">
+      {% include breadcrumbs.html %}
+      <header class="article-hero mb-4">
+        <h1 class="display-6 fw-bold">{{ page.h1 | default: page.title }}</h1>
+        {% if page.quick %}
+          <div class="quick-box mt-3">
+            <div class="quick-label">Respuesta rapida</div>
+            <p>{{ page.quick }}</p>
+          </div>
+        {% endif %}
+        <div class="d-flex flex-wrap gap-2 mt-3">
+          <a class="btn btn-primary" href="{{ whatsapp_href }}" target="_blank" rel="noopener" data-track="hero-whatsapp">{{ primary_cta }}</a>
+          <a class="btn btn-outline-primary" href="/contacto/" data-track="hero-contact">Consulta penal</a>
+        </div>
+      </header>
+
+      {% unless page.hide_attorneys_trust_box == true %}
+        {% include attorneys-trust-box.html %}
+      {% endunless %}
+
+      {%- if page.url == "/contacto/" -%}
+        {% include contact-form.html whatsapp_href=whatsapp_href %}
+      {%- endif -%}
+
+      <div class="article-body">
+        {{ content }}
+      </div>
+
+      {%- if page.faq and page.faq.size > 0 -%}
+        {% include faq.html items=page.faq %}
+      {%- endif -%}
+
+      <hr class="my-4" />
+
+      <div class="cta-box p-3 p-md-4 border rounded-3">
+        <div class="fw-semibold">Consulta penal confidencial</div>
+        <div class="small text-muted">No envies documentacion sensible sin coordinacion previa. La informacion del sitio es general y no reemplaza el analisis del expediente.</div>
+        <div class="d-flex flex-wrap gap-2 mt-2">
+          <a class="btn btn-primary" href="{{ whatsapp_href }}" target="_blank" rel="noopener" data-track="final-whatsapp">{{ primary_cta }}</a>
+          <a class="btn btn-outline-primary" href="/contacto/" data-track="final-contact">Ver otras vias de contacto</a>
+        </div>
+      </div>
+    </article>
+  </div>
+</main>

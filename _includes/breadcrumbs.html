@@ -1,0 +1,51 @@
+{%- unless page.url == "/" -%}
+{%- assign current_title = page.h1 | default: page.title -%}
+{%- assign parent_title = nil -%}
+{%- assign parent_url = nil -%}
+{%- if page.url contains "/orientacion-penal/" and page.url != "/orientacion-penal/" -%}
+  {%- assign parent_title = "Orientacion penal" -%}
+  {%- assign parent_url = "/orientacion-penal/" -%}
+{%- elsif page.url contains "villa-maria" or page.url contains "rio-cuarto" or page.url contains "san-francisco" or page.url contains "villa-carlos-paz" -%}
+  {%- assign parent_title = "Localidades" -%}
+  {%- assign parent_url = nil -%}
+{%- endif -%}
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <ol>
+    <li><a href="/">Inicio</a></li>
+    {%- if parent_title -%}
+      {%- if parent_url -%}
+      <li><a href="{{ parent_url }}">{{ parent_title }}</a></li>
+      {%- else -%}
+      <li>{{ parent_title }}</li>
+      {%- endif -%}
+    {%- endif -%}
+    <li aria-current="page">{{ current_title }}</li>
+  </ol>
+</nav>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Inicio",
+      "item": "{{ site.url }}/"
+    }{%- assign pos = 2 -%}{%- if parent_title -%},
+    {
+      "@type": "ListItem",
+      "position": {{ pos }},
+      "name": {{ parent_title | jsonify }}{%- if parent_url -%},
+      "item": "{{ site.url }}{{ parent_url }}"{%- endif -%}
+    }{%- assign pos = 3 -%}{%- endif -%},
+    {
+      "@type": "ListItem",
+      "position": {{ pos }},
+      "name": {{ current_title | jsonify }},
+      "item": "{{ site.url }}{{ page.url }}"
+    }
+  ]
+}
+</script>
+{%- endunless -%}

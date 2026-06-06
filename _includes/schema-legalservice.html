@@ -1,0 +1,34 @@
+{%- if page.url == "/" or page.url == "/abogado-penalista-cordoba/" or page.url == "/urgencias-penales-cordoba/" or page.url == "/contacto/" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "Defensa Penal Córdoba",
+  "url": "{{ site.url }}{{ page.url }}",
+  "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "Córdoba, Argentina"
+  },
+  "description": {{ site.description | jsonify }},
+  "telephone": {{ site.contact.phone_tel | jsonify }},
+  "email": {{ site.contact.email | jsonify }},
+  "priceRange": "$$",
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Pablo Arias",
+      "jobTitle": "Abogado"
+    }
+  ],
+  "knowsAbout": [
+    "Defensa penal",
+    "Urgencias penales",
+    "Personas detenidas",
+    "Citaciones penales",
+    "Prision preventiva",
+    "Excarcelacion",
+    "Recursos penales"
+  ]
+}
+</script>
+{%- endif -%}

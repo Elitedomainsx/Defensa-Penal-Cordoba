@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'es-AR' }}">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    {% seo %}
+
+    {%- if site.site_noindex == true and page.noindex != false -%}
+    <meta name="robots" content="noindex,nofollow" />
+    {%- endif -%}
+
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link href="/assets/creative/css/styles.css" rel="stylesheet" />
+    <link rel="stylesheet" href="/assets/css/site.css" />
+
+    {% include schema-legalservice.html %}
+  </head>
+  <body id="page-top" class="{% if page.url == '/' %}page-home{% else %}page-internal{% endif %}">
+    {% include nav.html %}
+    {{ content }}
+    {% include footer.html %}
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/creative/js/scripts.js"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      document.addEventListener('click', function (event) {
+        var target = event.target.closest('a[data-track], a[href^="tel:"], a[href*="wa.me"]');
+        if (!target) return;
+        window.dataLayer.push({
+          event: 'site_cta_click',
+          cta: target.getAttribute('data-track') || target.textContent.trim(),
+          href: target.href,
+          page_path: window.location.pathname
+        });
+      });
+    </script>
+  </body>
+</html>

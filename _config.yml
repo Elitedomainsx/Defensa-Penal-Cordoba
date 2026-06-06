@@ -1,0 +1,69 @@
+title: "Defensa Penal Córdoba"
+description: "Defensa penal en Córdoba para personas imputadas, detenidas, citadas a declarar o con causas penales urgentes. Consulta confidencial."
+url: "https://defensapenalcordoba.com.ar"
+lang: "es-AR"
+timezone: "America/Argentina/Cordoba"
+
+site_noindex: false
+
+permalink: /:slug/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - "_modelo_sucesiones"
+  - "sucesionescordoba-main (2).zip"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "serve-local.cmd"
+  - "jekyll-server.log"
+
+contact:
+  whatsapp_number: "543513772921"
+  whatsapp_url: "https://wa.me/543513772921"
+  whatsapp_base_url: "https://wa.me/543513772921?text="
+  phone_display: "543513772921"
+  phone_tel: "+543513772921"
+  email: "info@defensapenalcordoba.com.ar"
+  email_url: "mailto:info@defensapenalcordoba.com.ar"
+
+professionals:
+  - name: "Pablo Arias"
+    label: "Abog. Pablo Arias"
+    registration: "M.P. 1-43613"
+
+defaults:
+  - scope:
+      path: "que-hacer-si-detienen-a-un-familiar.md"
+    values:
+      permalink: /orientacion-penal/que-hacer-si-detienen-a-un-familiar/
+  - scope:
+      path: "derechos-persona-detenida.md"
+    values:
+      permalink: /orientacion-penal/derechos-persona-detenida/
+  - scope:
+      path: "errores-ante-una-detencion.md"
+    values:
+      permalink: /orientacion-penal/errores-ante-una-detencion/
+  - scope:
+      path: "que-significa-estar-imputado.md"
+    values:
+      permalink: /orientacion-penal/que-significa-estar-imputado/
+  - scope:
+      path: "que-pasa-despues-de-una-citacion.md"
+    values:
+      permalink: /orientacion-penal/que-pasa-despues-de-una-citacion/
+  - scope:
+      path: "puedo-declarar-sin-abogado.md"
+    values:
+      permalink: /orientacion-penal/puedo-declarar-sin-abogado/
+  - scope:
+      path: "cuando-puede-pedirse-excarcelacion.md"
+    values:
+      permalink: /orientacion-penal/cuando-puede-pedirse-excarcelacion/
+  - scope:
+      path: "como-se-revisa-prision-preventiva.md"
+    values:
+      permalink: /orientacion-penal/como-se-revisa-prision-preventiva/
