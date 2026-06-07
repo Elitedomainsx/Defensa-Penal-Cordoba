@@ -23,7 +23,6 @@ Una causa penal requiere actuar con rapidez, pero también con prudencia. Antes 
 
 Desde esta página podés solicitar una **consulta penal confidencial en Córdoba** por una denuncia, citación, imputación, detención, prisión preventiva, excarcelación, recurso o urgencia penal.
 
-👉 **[Hablar por WhatsApp](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20necesito%20asesoramiento%20penal%20en%20C%C3%B3rdoba.%20Quiero%20consultar%20por%20una%20situaci%C3%B3n%20penal%20y%20saber%20qu%C3%A9%20informaci%C3%B3n%20debo%20enviar.)**  
 👉 **[Consultar con un abogado penalista en Córdoba](/abogado-penalista-cordoba/)**
 
 > **Disclaimer:** Esta página brinda información general y no reemplaza el análisis profesional del expediente. En materia penal no se prometen resultados, libertades, sobreseimientos ni absoluciones. Cada caso depende de la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
@@ -180,7 +179,6 @@ Para una visión general de los servicios, podés ingresar en **[abogado penalis
 
 Para solicitar una consulta, enviá un mensaje breve con la situación principal. No hace falta remitir toda la documentación en el primer contacto.
 
-👉 **[Hablar por WhatsApp](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20necesito%20hacer%20una%20consulta%20penal%20confidencial%20en%20C%C3%B3rdoba.%20Mi%20situaci%C3%B3n%20es%3A%20____.%20Quiero%20saber%20qu%C3%A9%20datos%20debo%20enviar%20para%20analizar%20el%20caso.)**  
 👉 **[Ver urgencias penales](/urgencias-penales-cordoba/)**  
 👉 **[Consultar antes de declarar](/citacion-a-declarar-cordoba/)**
 

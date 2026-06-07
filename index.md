@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: "Defensa penal en Córdoba"
-description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, prision preventiva, excarcelaciones, recursos y urgencias penales. Consulta confidencial."
+description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, prisión preventiva, excarcelaciones, recursos y urgencias penales. Consulta confidencial."
 ---
 
 <header class="masthead">
@@ -12,7 +12,7 @@ description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, p
         <hr class="divider" />
       </div>
       <div class="col-lg-8 align-self-baseline">
-        <p class="text-white-75 mb-4">Asesoramiento para personas imputadas, detenidas, citadas a declarar o con riesgo de prision preventiva en Córdoba. Consulta confidencial y defensa penal estrategica.</p>
+        <p class="text-white-75 mb-4">Asesoramiento para personas imputadas, detenidas, citadas a declarar o con riesgo de prisión preventiva en Córdoba. Consulta confidencial y defensa penal estratégica.</p>
         <div class="d-flex flex-wrap justify-content-center gap-2">
           <a class="btn btn-primary btn-xl" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-track="home-hero-whatsapp">WhatsApp {{ site.contact.phone_display }}</a>
           <a class="btn btn-light btn-xl" href="/contacto/" data-track="home-hero-contact">Solicitar consulta penal</a>
@@ -25,15 +25,15 @@ description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, p
 
 <section class="page-section quick-access">
   <div class="container px-4 px-lg-5">
-    <h2 class="text-center mt-0">Accesos rapidos</h2>
+    <h2 class="text-center mt-0">Accesos rápidos</h2>
     <hr class="divider" />
     <div class="row g-3">
       <div class="col-md-6 col-lg-4"><a class="quick-card" href="/familiar-detenido-cordoba/">Tengo un familiar detenido</a></div>
-      <div class="col-md-6 col-lg-4"><a class="quick-card" href="/citacion-a-declarar-cordoba/">Recibi una citacion</a></div>
+      <div class="col-md-6 col-lg-4"><a class="quick-card" href="/citacion-a-declarar-cordoba/">Recibí una citación</a></div>
       <div class="col-md-6 col-lg-4"><a class="quick-card" href="/imputado-cordoba/">Fui imputado</a></div>
-      <div class="col-md-6 col-lg-4"><a class="quick-card" href="/prision-preventiva-cordoba/">Hay riesgo de prision preventiva</a></div>
-      <div class="col-md-6 col-lg-4"><a class="quick-card" href="/excarcelacion-cordoba/">Quiero pedir excarcelacion</a></div>
-      <div class="col-md-6 col-lg-4"><a class="quick-card" href="/recursos-penales-cordoba/">Necesito revisar una resolucion</a></div>
+      <div class="col-md-6 col-lg-4"><a class="quick-card" href="/prision-preventiva-cordoba/">Hay riesgo de prisión preventiva</a></div>
+      <div class="col-md-6 col-lg-4"><a class="quick-card" href="/excarcelacion-cordoba/">Quiero pedir excarcelación</a></div>
+      <div class="col-md-6 col-lg-4"><a class="quick-card" href="/recursos-penales-cordoba/">Necesito revisar una resolución</a></div>
     </div>
   </div>
 </section>
@@ -48,10 +48,10 @@ description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, p
       <a href="/familiar-detenido-cordoba/">Detenidos</a>
       <a href="/citacion-a-declarar-cordoba/">Citaciones</a>
       <a href="/imputado-cordoba/">Imputaciones</a>
-      <a href="/prision-preventiva-cordoba/">Prision preventiva</a>
-      <a href="/excarcelacion-cordoba/">Excarcelacion</a>
+      <a href="/prision-preventiva-cordoba/">Prisión preventiva</a>
+      <a href="/excarcelacion-cordoba/">Excarcelación</a>
       <a href="/recursos-penales-cordoba/">Recursos penales</a>
-      <a href="/habeas-corpus-cordoba/">Habeas corpus</a>
+      <a href="/habeas-corpus-cordoba/">Hábeas corpus</a>
     </div>
   </div>
 </section>
@@ -60,13 +60,13 @@ description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, p
   <div class="container px-4 px-lg-5">
     <div class="row g-4 align-items-start">
       <div class="col-lg-6">
-        <h2>Metodo de trabajo</h2>
+        <h2>Método de trabajo</h2>
         <ul class="method-list">
-          <li>Analisis del caso.</li>
-          <li>Revision del expediente.</li>
-          <li>Evaluacion de riesgos.</li>
+          <li>Análisis del caso.</li>
+          <li>Revisión del expediente.</li>
+          <li>Evaluación de riesgos.</li>
           <li>Estrategia de defensa.</li>
-          <li>Acompanamiento profesional.</li>
+          <li>Acompañamiento profesional.</li>
         </ul>
       </div>
       <div class="col-lg-6">
@@ -84,11 +84,11 @@ description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, p
             <div class="col-12 col-sm-8">
               <div class="small text-uppercase text-muted fw-semibold mb-2">Profesionales responsables</div>
               <h2 class="h4">Pablo Arias</h2>
-              <p class="text-muted mb-3">Atencion en Córdoba Capital e interior, presencial o remota segun corresponda. Reserva profesional y analisis prudente de cada causa.</p>
+              <p class="text-muted mb-3">Atención en Córdoba Capital e interior, presencial o remota según corresponda. Reserva profesional y análisis prudente de cada causa.</p>
               <ul class="mb-3">
                 <li>Abog. Pablo Arias - M.P. 1-43613</li>
               </ul>
-              <a class="btn btn-outline-primary" href="/orientacion-penal/">Centro de orientacion penal</a>
+              <a class="btn btn-outline-primary" href="/orientacion-penal/">Centro de orientación penal</a>
             </div>
           </div>
         </div>
@@ -100,7 +100,7 @@ description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, p
 <section class="page-section bg-dark text-white">
   <div class="container px-4 px-lg-5 text-center">
     <h2 class="mb-3">Consulta penal confidencial</h2>
-    <p class="text-white-50 mb-4">Un primer contacto permite ordenar la urgencia, conocer la situacion y definir que informacion conviene revisar.</p>
+    <p class="text-white-50 mb-4">Un primer contacto permite ordenar la urgencia, conocer la situación y definir qué información conviene revisar.</p>
     <div class="d-flex flex-wrap justify-content-center gap-2">
       <a class="btn btn-light btn-xl" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-track="home-final-whatsapp">WhatsApp {{ site.contact.phone_display }}</a>
       <a class="btn btn-outline-light btn-xl" href="/contacto/" data-track="home-final-contact">Contacto</a>
