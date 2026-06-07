@@ -2,11 +2,11 @@
 {%- unless page.url == "/" -%}
   {%- assign nav_classes = nav_classes | append: " navbar-shrink" -%}
 {%- endunless -%}
-<nav class="{{ nav_classes }}" id="mainNav" aria-label="Navegacion principal">
+<nav class="{{ nav_classes }}" id="mainNav" aria-label="Navegación principal">
   <div class="container px-4 px-lg-5">
     <a class="navbar-brand" href="/" aria-label="Defensa Penal Córdoba">Defensa Penal Córdoba</a>
     <a class="btn btn-primary btn-sm d-lg-none ms-auto me-2" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-track="header-whatsapp">WhatsApp {{ site.contact.phone_display }}</a>
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Abrir menu">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Abrir menú">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -18,19 +18,19 @@
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navCitaciones" role="button" data-bs-toggle="dropdown" aria-expanded="false">Imputaciones</a>
           <ul class="dropdown-menu" aria-labelledby="navCitaciones">
-            <li><a class="dropdown-item" href="/citacion-a-declarar-cordoba/">Citacion a declarar</a></li>
+            <li><a class="dropdown-item" href="/citacion-a-declarar-cordoba/">Citación a declarar</a></li>
             <li><a class="dropdown-item" href="/imputado-cordoba/">Imputado en Córdoba</a></li>
             <li><a class="dropdown-item" href="/orientacion-penal/puedo-declarar-sin-abogado/">Puedo declarar sin abogado</a></li>
-            <li><a class="dropdown-item" href="/orientacion-penal/que-pasa-despues-de-una-citacion/">Que pasa despues de una citacion</a></li>
+            <li><a class="dropdown-item" href="/orientacion-penal/que-pasa-despues-de-una-citacion/">Qué pasa después de una citación</a></li>
           </ul>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navLibertad" role="button" data-bs-toggle="dropdown" aria-expanded="false">Prision preventiva</a>
+          <a class="nav-link dropdown-toggle" href="#" id="navLibertad" role="button" data-bs-toggle="dropdown" aria-expanded="false">Prisión preventiva</a>
           <ul class="dropdown-menu" aria-labelledby="navLibertad">
-            <li><a class="dropdown-item" href="/prision-preventiva-cordoba/">Prision preventiva</a></li>
-            <li><a class="dropdown-item" href="/excarcelacion-cordoba/">Excarcelacion</a></li>
-            <li><a class="dropdown-item" href="/orientacion-penal/como-se-revisa-prision-preventiva/">Como revisar prision preventiva</a></li>
-            <li><a class="dropdown-item" href="/orientacion-penal/cuando-puede-pedirse-excarcelacion/">Cuando puede pedirse excarcelacion</a></li>
+            <li><a class="dropdown-item" href="/prision-preventiva-cordoba/">Prisión preventiva</a></li>
+            <li><a class="dropdown-item" href="/excarcelacion-cordoba/">Excarcelación</a></li>
+            <li><a class="dropdown-item" href="/orientacion-penal/como-se-revisa-prision-preventiva/">Cómo revisar prisión preventiva</a></li>
+            <li><a class="dropdown-item" href="/orientacion-penal/cuando-puede-pedirse-excarcelacion/">Cuándo puede pedirse excarcelación</a></li>
           </ul>
         </li>
         <li class="nav-item"><a class="nav-link" href="/orientacion-penal/">Recursos</a></li>
