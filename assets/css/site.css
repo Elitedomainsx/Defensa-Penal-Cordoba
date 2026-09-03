@@ -1562,7 +1562,7 @@ address {
   align-items: center;
   margin-top: 2.3rem;
   padding-top: 1rem;
-  color: rgba(255, 255, 255, 0.4);
+  color: #aeb8c1;
   border-top: 1px solid rgba(255, 255, 255, 0.12);
   font-size: 0.78rem;
 }
@@ -1575,7 +1575,7 @@ address {
 }
 
 .footer-legal a {
-  color: rgba(255, 255, 255, 0.5);
+  color: #aeb8c1;
   text-decoration: none;
 }
 
