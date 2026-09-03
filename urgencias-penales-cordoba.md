@@ -27,7 +27,7 @@ Si la situación es urgente, podés solicitar una consulta para analizar qué oc
 👉 **[Hablar por WhatsApp ahora](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20necesito%20asesoramiento%20por%20una%20urgencia%20penal%20en%20C%C3%B3rdoba.%20La%20situaci%C3%B3n%20es%3A%20____)**  
 👉 **[Contacto](/contacto/)**
 
-> **Disclaimer (YMYL):** Esta página brinda orientación general y no reemplaza el análisis profesional del expediente. No se prometen resultados, libertad, archivo, sobreseimiento ni éxito procesal. Cada caso depende de la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
+> **Información general:** Esta página brinda orientación general y no reemplaza el análisis profesional del expediente. No se prometen resultados, libertad, archivo, sobreseimiento ni éxito procesal. Cada caso depende de la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
 
 ---
 
@@ -211,11 +211,3 @@ No envíes documentación sensible sin criterio desde el primer mensaje. Contá 
 
 👉 **[Hablar por WhatsApp ahora](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20necesito%20asesoramiento%20por%20una%20urgencia%20penal%20en%20C%C3%B3rdoba.%20La%20situaci%C3%B3n%20es%3A%20____)**  
 👉 **[Contacto](/contacto/)**
-
----
-
-## Señales de confianza
-**Abog. Pablo Arias** – M.P. 1-43613  
-Atención en Córdoba Capital y consultas penales en la Provincia de Córdoba, según el caso y la cobertura profesional disponible.  
-Más info: **[Sobre nosotros](/sobre-nosotros/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

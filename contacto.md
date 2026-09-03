@@ -25,7 +25,7 @@ Desde esta página podés solicitar una **consulta penal confidencial en Córdob
 
 👉 **[Consultar con un abogado penalista en Córdoba](/abogado-penalista-cordoba/)**
 
-> **Disclaimer:** Esta página brinda información general y no reemplaza el análisis profesional del expediente. En materia penal no se prometen resultados, libertades, sobreseimientos ni absoluciones. Cada caso depende de la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
+> **Información general:** Esta página brinda información general y no reemplaza el análisis profesional del expediente. En materia penal no se prometen resultados, libertades, sobreseimientos ni absoluciones. Cada caso depende de la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
 
 ---
 
@@ -181,12 +181,3 @@ Para solicitar una consulta, enviá un mensaje breve con la situación principal
 
 👉 **[Ver urgencias penales](/urgencias-penales-cordoba/)**  
 👉 **[Consultar antes de declarar](/citacion-a-declarar-cordoba/)**
-
----
-
-## Señales de confianza
-
-**Abog. Pablo Arias** – M.P. 1-43613  
-Atención penal en Córdoba Capital e interior, con consulta confidencial y análisis profesional del caso.  
-Más info: **[Sobre nosotros](/sobre-nosotros/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

@@ -27,7 +27,7 @@ No debe confundirse con cualquier pedido de libertad dentro de una causa penal. 
 
 Si la situación es urgente y hay una persona detenida, también podés revisar **[urgencias penales en Córdoba](/urgencias-penales-cordoba/)** y **[abogado para detenido en Córdoba](/familiar-detenido-cordoba/)**.
 
-> **Disclaimer (YMYL):** Esta guía brinda orientación general y no reemplaza el asesoramiento jurídico personalizado. Cada caso depende del expediente, la autoridad interviniente, la prueba disponible, la situación de la persona detenida y las decisiones judiciales.
+> **Información general:** Esta guía brinda orientación general y no reemplaza el asesoramiento jurídico personalizado. Cada caso depende del expediente, la autoridad interviniente, la prueba disponible, la situación de la persona detenida y las decisiones judiciales.
 
 ---
 
@@ -167,15 +167,3 @@ La consulta permite ordenar la información disponible, identificar la autoridad
 
 👉 **[Consultar asistencia penal urgente](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20necesito%20consultar%20por%20una%20situaci%C3%B3n%20urgente%20vinculada%20a%20una%20detenci%C3%B3n%20o%20posible%20h%C3%A1beas%20corpus%20en%20C%C3%B3rdoba.)**  
 👉 **[Contacto](/contacto/)**
-
----
-
-## Señales de confianza
-
-**Abog. Pablo Arias** – M.P. 1-43613  
-
-Atención penal en Córdoba Capital e interior, con modalidad presencial y remota según el caso.  
-Consulta profesional, confidencial y orientada al análisis concreto de la situación.
-
-Más info: **[Sobre nosotros](/sobre-nosotros/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

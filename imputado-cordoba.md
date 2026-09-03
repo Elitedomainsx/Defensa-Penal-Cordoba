@@ -25,7 +25,7 @@ En una causa penal, no conviene responder por impulso ni presentarse a declarar 
 
 Si recibiste una notificación o una citación vinculada a una causa penal, también puede servirte revisar **[citación a declarar en Córdoba](/citacion-a-declarar-cordoba/)**.
 
-> **Disclaimer (YMYL):** Esta guía brinda orientación general y no reemplaza el asesoramiento jurídico personalizado. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
+> **Información general:** Esta guía brinda orientación general y no reemplaza el asesoramiento jurídico personalizado. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
 
 ---
 
@@ -215,15 +215,3 @@ La defensa penal requiere revisar el expediente, entender el hecho atribuido, ev
 
 👉 **[Consultar mi situación penal](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20fui%20imputado%2Fa%20o%20tengo%20una%20causa%20penal%20en%20C%C3%B3rdoba.%20Quiero%20consultar%20mi%20situaci%C3%B3n%20antes%20de%20declarar%20o%20presentar%20un%20escrito.)**  
 👉 **[Contacto](/contacto/)**
-
----
-
-## Señales de confianza
-
-**Abog. Pablo Arias** – M.P. 1-43613  
-
-Atención penal en Córdoba Capital e interior, con modalidad presencial y remota según el caso.  
-Consulta profesional, confidencial y orientada al análisis concreto del expediente.
-
-Más info: **[Sobre nosotros](/sobre-nosotros/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

@@ -10,8 +10,12 @@
     <meta name="robots" content="noindex,nofollow" />
     {%- endif -%}
 
+    {%- if page.url == "/" -%}
+    <link rel="preload" as="image" href="/assets/creative/assets/img/bg-masthead-mobile.webp" media="(max-width: 767.98px)" fetchpriority="high" />
+    <link rel="preload" as="image" href="/assets/creative/assets/img/bg-masthead.webp" media="(min-width: 768px)" fetchpriority="high" />
+    {%- endif -%}
+
     <link rel="preconnect" href="https://cdn.jsdelivr.net" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />

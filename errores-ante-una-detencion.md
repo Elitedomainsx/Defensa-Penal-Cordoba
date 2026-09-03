@@ -26,7 +26,7 @@ Esta guía explica **qué errores conviene evitar ante una detención en Córdob
 
 Si la situación es actual o urgente, podés consultar por **[urgencias penales en Córdoba](/urgencias-penales-cordoba/)** o por un **[familiar detenido en Córdoba](/familiar-detenido-cordoba/)**.
 
-> **Disclaimer legal:** Esta información es general y no reemplaza asesoramiento jurídico personalizado. No se prometen resultados, libertad, excarcelación, sobreseimiento ni decisiones judiciales favorables. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones de la autoridad interviniente.
+> **Información general:** Esta información es general y no reemplaza asesoramiento jurídico personalizado. No se prometen resultados, libertad, excarcelación, sobreseimiento ni decisiones judiciales favorables. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones de la autoridad interviniente.
 
 ---
 
@@ -238,11 +238,3 @@ Si detuvieron a un familiar en Córdoba, podés pedir asesoramiento confidencial
 👉 **[Hablar por WhatsApp](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20necesito%20asesoramiento%20penal.%20Detuvieron%20a%20un%20familiar%20en%20C%C3%B3rdoba%20y%20quiero%20consultar%20antes%20de%20actuar.%20Tengo%20estos%20datos%3A%20lugar%2C%20hora%2C%20motivo%20informado%20y%20autoridad%20interviniente.)**  
 👉 **[Contacto](/contacto/)**  
 👉 **[Familiar detenido en Córdoba](/familiar-detenido-cordoba/)**
-
----
-
-## Señales de confianza
-**Abog. Pablo Arias** – M.P. 1-43613  
-Atención penal en Córdoba Capital e interior, con modalidad presencial y remota según el caso.  
-Más info: **[Sobre nosotros](/sobre-nosotros/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

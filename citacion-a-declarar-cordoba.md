@@ -38,7 +38,7 @@ Si la citación está vinculada a una causa penal en Córdoba, podés pedir una 
 
 👉 **[Consultar antes de declarar](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20recib%C3%AD%20una%20citaci%C3%B3n%20penal%20en%20C%C3%B3rdoba.%20Quiero%20consultar%20antes%20de%20declarar.%20%C2%BFPodemos%20analizar%20el%20caso%3F)**
 
-> **Disclaimer (YMYL):** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. Cada citación debe analizarse según la causa, la autoridad interviniente, el carácter de la persona citada, la etapa procesal y el contenido del expediente.
+> **Información general:** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. Cada citación debe analizarse según la causa, la autoridad interviniente, el carácter de la persona citada, la etapa procesal y el contenido del expediente.
 
 ---
 
@@ -57,7 +57,7 @@ Consultar antes de declarar permite:
 
 No se trata de ocultar información ni de entorpecer el proceso. Se trata de ejercer adecuadamente el derecho de defensa y evitar decisiones que puedan perjudicar la situación procesal.
 
-Si la citación se relaciona con una causa ya iniciada, también puede ser útil revisar la página sobre **[estar imputado en una causa penal](/imputado-cordoba)**.
+Si la citación se relaciona con una causa ya iniciada, también puede ser útil revisar la página sobre **[estar imputado en una causa penal](/imputado-cordoba/)**.
 
 ---
 
@@ -94,7 +94,7 @@ Antes de una declaración de este tipo, la defensa debe analizar:
 
 En algunos casos, puede convenir declarar. En otros, puede ser prudente reservar la declaración para otro momento o ejercer derechos procesales específicos. Esa decisión no debe tomarse en abstracto: depende del expediente y de la estrategia defensiva.
 
-Para una mirada más amplia sobre defensa técnica, podés ver **[abogado penalista en Córdoba](/abogado-penalista-cordoba)**.
+Para una mirada más amplia sobre defensa técnica, podés ver **[abogado penalista en Córdoba](/abogado-penalista-cordoba/)**.
 
 ---
 
@@ -133,7 +133,7 @@ La intervención previa a una declaración permite ordenar el caso y evitar impr
 
 La defensa penal no consiste en repetir fórmulas. Cada decisión debe tomarse a partir del caso concreto.
 
-Si la citación aparece dentro de una situación urgente, también podés consultar la página sobre **[urgencias penales en Córdoba](/urgencias-penales-cordoba)**.
+Si la citación aparece dentro de una situación urgente, también podés consultar la página sobre **[urgencias penales en Córdoba](/urgencias-penales-cordoba/)**.
 
 ---
 
@@ -171,9 +171,9 @@ Puede ser necesario evaluar:
 
 Para esos supuestos, podés ver también:
 
-- **[Abogado para detenido en Córdoba](/familiar-detenido-cordoba)**.
-- **[Prisión preventiva en Córdoba](/prision-preventiva-cordoba)**.
-- **[Pedido de excarcelación en Córdoba](/excarcelacion-cordoba)**.
+- **[Abogado para detenido en Córdoba](/familiar-detenido-cordoba/)**.
+- **[Prisión preventiva en Córdoba](/prision-preventiva-cordoba/)**.
+- **[Pedido de excarcelación en Córdoba](/excarcelacion-cordoba/)**.
 
 ---
 
@@ -190,19 +190,11 @@ Pero sí puede trabajarse con seriedad desde el inicio: revisar la citación, or
 ---
 
 ## Enlaces internos útiles
-- **[Abogado penalista en Córdoba](/abogado-penalista-cordoba)**
-- **[Urgencias penales en Córdoba](/urgencias-penales-cordoba)**
-- **[Abogado para detenido en Córdoba](/familiar-detenido-cordoba)**
-- **[Estar imputado en una causa penal](/imputado-cordoba)**
-- **[Prisión preventiva en Córdoba](/prision-preventiva-cordoba)**
-- **[Pedido de excarcelación en Córdoba](/excarcelacion-cordoba)**
-- **[Recursos penales en Córdoba](/recursos-penales-cordoba)**
+- **[Abogado penalista en Córdoba](/abogado-penalista-cordoba/)**
+- **[Urgencias penales en Córdoba](/urgencias-penales-cordoba/)**
+- **[Abogado para detenido en Córdoba](/familiar-detenido-cordoba/)**
+- **[Estar imputado en una causa penal](/imputado-cordoba/)**
+- **[Prisión preventiva en Córdoba](/prision-preventiva-cordoba/)**
+- **[Pedido de excarcelación en Córdoba](/excarcelacion-cordoba/)**
+- **[Recursos penales en Córdoba](/recursos-penales-cordoba/)**
 - **[Contacto](/contacto/)**
-
----
-
-## Señales de confianza
-**Abog. Pablo Arias** – M.P. 1-43613  
-Atención penal en Córdoba Capital e interior, con consulta confidencial y análisis profesional del caso.  
-Más info: **[Sobre nosotros](/sobre-nosotros/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

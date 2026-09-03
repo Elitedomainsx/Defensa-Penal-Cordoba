@@ -17,7 +17,7 @@ No se garantizan libertades, absoluciones, sobreseimientos, archivos, excarcelac
 
 ## Profesionales responsables
 
-- Abog. Pablo Arias - M.P. 1-43613
+- Abog. Pablo Jorge Arias Visconti - M.P. 1-43613
 
 ## Contacto
 
