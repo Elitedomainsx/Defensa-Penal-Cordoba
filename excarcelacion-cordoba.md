@@ -22,9 +22,9 @@ La excarcelación es una herramienta procesal que puede analizarse cuando una pe
 
 No es una respuesta automática ni depende solo de la voluntad de la familia. Para evaluar un pedido de libertad, es necesario revisar el expediente, la imputación, la prueba disponible, los antecedentes, la etapa procesal, los riesgos invocados y las decisiones judiciales ya adoptadas.
 
-Si la persona fue detenida recientemente, también puede ser útil revisar la página sobre **[abogado para detenido en Córdoba](/familiar-detenido-cordoba)**. Si el problema es urgente y todavía no hay información clara, podés ver **[urgencias penales en Córdoba](/urgencias-penales-cordoba)**.
+Si la persona fue detenida recientemente, también puede ser útil revisar la página sobre **[abogado para detenido en Córdoba](/familiar-detenido-cordoba/)**. Si el problema es urgente y todavía no hay información clara, podés ver **[urgencias penales en Córdoba](/urgencias-penales-cordoba/)**.
 
-> **Disclaimer (YMYL):** Esta información es general y no reemplaza asesoramiento jurídico personalizado. No se prometen resultados, libertades, plazos ni decisiones favorables. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
+> **Información general:** Esta información es general y no reemplaza asesoramiento jurídico personalizado. No se prometen resultados, libertades, plazos ni decisiones favorables. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
 
 ---
 
@@ -41,7 +41,7 @@ Conviene consultar con rapidez cuando una persona:
 
 En estos casos, la defensa debe actuar con prudencia y método. La urgencia no significa improvisar: significa obtener información confiable, revisar el expediente y definir una estrategia procesal concreta.
 
-Si el problema principal es el riesgo o dictado de una medida de coerción, también puede corresponder revisar **[prisión preventiva en Córdoba](/prision-preventiva-cordoba)**.
+Si el problema principal es el riesgo o dictado de una medida de coerción, también puede corresponder revisar **[prisión preventiva en Córdoba](/prision-preventiva-cordoba/)**.
 
 ---
 
@@ -70,10 +70,10 @@ Aunque pueden aparecer en situaciones parecidas, no significan lo mismo.
 Es un pedido orientado a que una persona detenida pueda recuperar la libertad durante el proceso, cuando existan fundamentos para solicitarlo.
 
 ### Prisión preventiva
-Es una medida de coerción que puede afectar la libertad de una persona imputada mientras la causa sigue en trámite. Si existe riesgo de prisión preventiva o ya fue dictada, conviene analizar sus fundamentos. Más información: **[prisión preventiva en Córdoba](/prision-preventiva-cordoba)**.
+Es una medida de coerción que puede afectar la libertad de una persona imputada mientras la causa sigue en trámite. Si existe riesgo de prisión preventiva o ya fue dictada, conviene analizar sus fundamentos. Más información: **[prisión preventiva en Córdoba](/prision-preventiva-cordoba/)**.
 
 ### Hábeas corpus
-Puede corresponder en situaciones específicas vinculadas a privaciones de libertad que requieren revisión urgente, especialmente cuando se alegan irregularidades o afectaciones graves. No todo caso de detención se resuelve por hábeas corpus; debe evaluarse con prudencia. Más información: **[hábeas corpus en Córdoba](/habeas-corpus-cordoba)**.
+Puede corresponder en situaciones específicas vinculadas a privaciones de libertad que requieren revisión urgente, especialmente cuando se alegan irregularidades o afectaciones graves. No todo caso de detención se resuelve por hábeas corpus; debe evaluarse con prudencia. Más información: **[hábeas corpus en Córdoba](/habeas-corpus-cordoba/)**.
 
 > **Idea clave:** la defensa debe elegir la vía adecuada. Presentar cualquier pedido sin analizar el expediente puede perjudicar la estrategia.
 
@@ -129,7 +129,7 @@ Se estudia si los riesgos procesales invocados tienen sustento y si existen elem
 Si corresponde, se prepara una solicitud técnica, prudente y ajustada al expediente. No alcanza con pedir la libertad: hay que fundamentarla.
 
 ### 5) Seguimiento y revisión
-Si el pedido es rechazado o existe una resolución desfavorable, puede ser necesario analizar vías de revisión o recursos. En ese caso, también puede ser útil consultar **[recursos penales en Córdoba](/recursos-penales-cordoba)**.
+Si el pedido es rechazado o existe una resolución desfavorable, puede ser necesario analizar vías de revisión o recursos. En ese caso, también puede ser útil consultar **[recursos penales en Córdoba](/recursos-penales-cordoba/)**.
 
 ---
 
@@ -138,7 +138,7 @@ Cuando ya existe una prisión preventiva, la defensa debe revisar los fundamento
 
 No toda resolución se combate de la misma manera. A veces corresponde revisar la medida, a veces recurrir, y en otros casos puede ser necesario producir o acercar elementos nuevos que fortalezcan el planteo defensivo.
 
-Para profundizar este tema, podés ver **[prisión preventiva en Córdoba](/prision-preventiva-cordoba)** y **[revisión de resoluciones penales](/recursos-penales-cordoba)**.
+Para profundizar este tema, podés ver **[prisión preventiva en Córdoba](/prision-preventiva-cordoba/)** y **[revisión de resoluciones penales](/recursos-penales-cordoba/)**.
 
 ---
 
@@ -146,22 +146,14 @@ Para profundizar este tema, podés ver **[prisión preventiva en Córdoba](/pris
 Si tenés un familiar detenido o necesitás evaluar un pedido de libertad, podés solicitar una consulta confidencial. La primera orientación permite ordenar la información, identificar la autoridad interviniente y definir si corresponde actuar con urgencia.
 
 👉 **[Consultar por pedido de libertad](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20necesito%20consultar%20por%20un%20pedido%20de%20excarcelaci%C3%B3n%20o%20libertad%20en%20una%20causa%20penal%20en%20C%C3%B3rdoba.%20Quiero%20saber%20qu%C3%A9%20datos%20necesit%C3%A1s%20para%20analizar%20el%20caso.)**  
-👉 **[Contacto](/contacto)**
+👉 **[Contacto](/contacto/)**
 
 ---
 
 ## Enlaces internos útiles
-- **[Abogado penalista en Córdoba](/abogado-penalista-cordoba)**
-- **[Urgencias penales en Córdoba](/urgencias-penales-cordoba)**
-- **[Abogado para detenido en Córdoba](/familiar-detenido-cordoba)**
-- **[Prisión preventiva en Córdoba](/prision-preventiva-cordoba)**
-- **[Hábeas corpus en Córdoba](/habeas-corpus-cordoba)**
-- **[Recursos penales en Córdoba](/recursos-penales-cordoba)**
-
----
-
-## Señales de confianza
-**Abog. Pablo Arias** – M.P. 1-43613  
-Atención penal en Córdoba Capital e interior, con modalidad presencial y coordinación remota cuando la situación lo permite.  
-Más info: **[Sobre nosotros](/sobre-nosotros)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad)** – Legal: **[Aviso legal](/aviso-legal)**
+- **[Abogado penalista en Córdoba](/abogado-penalista-cordoba/)**
+- **[Urgencias penales en Córdoba](/urgencias-penales-cordoba/)**
+- **[Abogado para detenido en Córdoba](/familiar-detenido-cordoba/)**
+- **[Prisión preventiva en Córdoba](/prision-preventiva-cordoba/)**
+- **[Hábeas corpus en Córdoba](/habeas-corpus-cordoba/)**
+- **[Recursos penales en Córdoba](/recursos-penales-cordoba/)**

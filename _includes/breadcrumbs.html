@@ -3,11 +3,11 @@
 {%- assign parent_title = nil -%}
 {%- assign parent_url = nil -%}
 {%- if page.url contains "/orientacion-penal/" and page.url != "/orientacion-penal/" -%}
-  {%- assign parent_title = "Orientacion penal" -%}
+  {%- assign parent_title = "Orientación penal" -%}
   {%- assign parent_url = "/orientacion-penal/" -%}
 {%- elsif page.url contains "villa-maria" or page.url contains "rio-cuarto" or page.url contains "san-francisco" or page.url contains "villa-carlos-paz" -%}
   {%- assign parent_title = "Localidades" -%}
-  {%- assign parent_url = nil -%}
+  {%- assign parent_url = "/localidades/" -%}
 {%- endif -%}
 <nav class="breadcrumbs" aria-label="Breadcrumb">
   <ol>

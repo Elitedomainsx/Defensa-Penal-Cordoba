@@ -29,7 +29,7 @@ En Córdoba, como en cualquier causa penal, el análisis debe hacerse sobre el e
 
 Para una página específica sobre este tema, podés ver **[excarcelación en Córdoba](/excarcelacion-cordoba/)**.
 
-> **Disclaimer:** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. No se prometen libertades, plazos ni resultados. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
+> **Información general:** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. No se prometen libertades, plazos ni resultados. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
 
 ---
 
@@ -215,12 +215,3 @@ Podés escribirnos con una descripción breve de la situación: quién está det
 
 👉 **[Hablar por WhatsApp](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20tengo%20un%20familiar%20detenido%20en%20C%C3%B3rdoba%20y%20quiero%20consultar%20si%20puede%20pedirse%20una%20excarcelaci%C3%B3n%20o%20pedido%20de%20libertad.%20%C2%BFPodemos%20revisar%20el%20caso%3F)**  
 👉 **[Contacto](/contacto/)**
-
----
-
-## Señales de confianza
-
-**Abog. Pablo Arias** – M.P. 1-43613  
-Defensa penal en Córdoba. Atención presencial y remota según la urgencia y características del caso.  
-Más info: **[Excarcelación en Córdoba](/excarcelacion-cordoba/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

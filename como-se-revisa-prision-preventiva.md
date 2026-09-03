@@ -29,7 +29,7 @@ En algunos casos puede evaluarse un pedido de libertad. En otros, un recurso con
 
 Para entender el tema principal, podés ver también **[prisión preventiva en Córdoba](/prision-preventiva-cordoba/)**.
 
-> **Disclaimer:** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. No se prometen resultados, libertades ni plazos. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
+> **Información general:** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. No se prometen resultados, libertades ni plazos. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
 
 ---
 
@@ -253,12 +253,3 @@ Podés escribirnos con una descripción breve de la situación: quién está det
 
 👉 **[Hablar por WhatsApp](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20quiero%20consultar%20por%20una%20prisi%C3%B3n%20preventiva%20en%20C%C3%B3rdoba.%20Necesito%20revisar%20la%20resoluci%C3%B3n%20y%20evaluar%20si%20corresponde%20un%20pedido%20de%20libertad%2C%20revisi%C3%B3n%20o%20recurso.)**  
 👉 **[Contacto](/contacto/)**
-
----
-
-## Señales de confianza
-
-**Abog. Pablo Arias** – M.P. 1-43613  
-Defensa penal en Córdoba. Atención presencial y remota según la urgencia y características del caso.  
-Más info: **[Prisión preventiva en Córdoba](/prision-preventiva-cordoba/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

@@ -25,9 +25,9 @@ Esta sección de **orientación penal en Córdoba** está pensada para explicar,
 
 La finalidad no es reemplazar una consulta profesional, sino ayudarte a ordenar la situación y detectar cuándo conviene pedir asesoramiento.
 
-Si necesitás una revisión concreta, podés consultar con un **[abogado penalista en Córdoba](/abogado-penalista-cordoba)**.
+Si necesitás una revisión concreta, podés consultar con un **[abogado penalista en Córdoba](/abogado-penalista-cordoba/)**.
 
-> **Disclaimer legal:** Esta información es general y no reemplaza asesoramiento jurídico personalizado. No se prometen resultados, libertades, sobreseimientos ni decisiones judiciales favorables. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones de la autoridad interviniente.
+> **Información general:** Esta información es general y no reemplaza asesoramiento jurídico personalizado. No se prometen resultados, libertades, sobreseimientos ni decisiones judiciales favorables. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones de la autoridad interviniente.
 
 ---
 
@@ -39,37 +39,37 @@ No todas las consultas penales tienen la misma urgencia. Algunas requieren actua
 
 Puede haber urgencia cuando existe una detención, un allanamiento, una citación inmediata, una audiencia cercana, una medida restrictiva de libertad o una situación que necesita respuesta rápida.
 
-En esos casos, conviene consultar por **[urgencias penales en Córdoba](/urgencias-penales-cordoba)**.
+En esos casos, conviene consultar por **[urgencias penales en Córdoba](/urgencias-penales-cordoba/)**.
 
 También puede ser útil revisar:
 
-- **[Abogado para detenido en Córdoba](/familiar-detenido-cordoba)**.
-- **[Hábeas corpus en Córdoba](/habeas-corpus-cordoba)**.
-- **[Excarcelación en Córdoba](/excarcelacion-cordoba)**.
+- **[Abogado para detenido en Córdoba](/familiar-detenido-cordoba/)**.
+- **[Hábeas corpus en Córdoba](/habeas-corpus-cordoba/)**.
+- **[Excarcelación en Córdoba](/excarcelacion-cordoba/)**.
 
 ### Si recibiste una citación
 
 Una citación penal no debería tomarse a la ligera. Antes de presentarte, conviene saber en qué carácter fuiste citado, qué autoridad interviene, qué hecho se investiga y si existe riesgo de imputación.
 
-Podés leer: **[citación a declarar en Córdoba](/citacion-a-declarar-cordoba)**.
+Podés leer: **[citación a declarar en Córdoba](/citacion-a-declarar-cordoba/)**.
 
 ### Si fuiste imputado
 
 Estar imputado no significa estar condenado, pero sí implica que una persona quedó formalmente vinculada a una investigación penal. Desde ese momento, la defensa debe revisar el hecho atribuido, la prueba disponible, la etapa procesal y los riesgos concretos.
 
-Más información: **[imputado en Córdoba](/imputado-cordoba)**.
+Más información: **[imputado en Córdoba](/imputado-cordoba/)**.
 
 ### Si existe riesgo de prisión preventiva
 
 La prisión preventiva es una de las situaciones más delicadas del proceso penal, porque puede afectar la libertad antes de una sentencia definitiva. La defensa debe analizar los fundamentos, los riesgos procesales invocados, la prueba y las alternativas posibles.
 
-Ver: **[prisión preventiva en Córdoba](/prision-preventiva-cordoba)**.
+Ver: **[prisión preventiva en Córdoba](/prision-preventiva-cordoba/)**.
 
 ### Si ya hay una resolución desfavorable
 
 Cuando existe una decisión penal que perjudica a la persona imputada, detenida o condenada, puede corresponder revisar si existe una vía de impugnación. En estos casos los plazos son importantes.
 
-Ver: **[recursos penales en Córdoba](/recursos-penales-cordoba)**.
+Ver: **[recursos penales en Córdoba](/recursos-penales-cordoba/)**.
 
 ---
 
@@ -83,9 +83,11 @@ En estas situaciones es importante actuar con rapidez, pero sin improvisar. La d
 
 Guías recomendadas:
 
-- **[Qué hacer si detuvieron a un familiar en Córdoba](/familiar-detenido-cordoba)**.
-- **[Urgencias penales en Córdoba](/urgencias-penales-cordoba)**.
-- **[Hábeas corpus en Córdoba](/habeas-corpus-cordoba)**.
+- **[Qué hacer si detuvieron a un familiar en Córdoba](/orientacion-penal/que-hacer-si-detienen-a-un-familiar/)**.
+- **[Derechos de una persona detenida](/orientacion-penal/derechos-persona-detenida/)**.
+- **[Errores que conviene evitar ante una detención](/orientacion-penal/errores-ante-una-detencion/)**.
+- **[Urgencias penales en Córdoba](/urgencias-penales-cordoba/)**.
+- **[Hábeas corpus en Córdoba](/habeas-corpus-cordoba/)**.
 
 ### Citaciones, declaraciones e imputaciones
 
@@ -95,9 +97,9 @@ También es importante evitar declaraciones apresuradas, explicaciones informale
 
 Guías recomendadas:
 
-- **[Citación a declarar en Córdoba](/citacion-a-declarar-cordoba)**.
-- **[Imputado en Córdoba](/imputado-cordoba)**.
-- **[Abogado penalista en Córdoba](/abogado-penalista-cordoba)**.
+- **[Citación a declarar en Córdoba](/citacion-a-declarar-cordoba/)**.
+- **[Imputado en Córdoba](/imputado-cordoba/)**.
+- **[Abogado penalista en Córdoba](/abogado-penalista-cordoba/)**.
 
 ### Libertad durante el proceso
 
@@ -107,9 +109,11 @@ No puede prometerse un resultado, pero sí puede trabajarse una presentación se
 
 Guías recomendadas:
 
-- **[Prisión preventiva en Córdoba](/prision-preventiva-cordoba)**.
-- **[Excarcelación en Córdoba](/excarcelacion-cordoba)**.
-- **[Recursos penales en Córdoba](/recursos-penales-cordoba)**.
+- **[Prisión preventiva en Córdoba](/prision-preventiva-cordoba/)**.
+- **[Excarcelación en Córdoba](/excarcelacion-cordoba/)**.
+- **[Cómo se revisa una prisión preventiva](/orientacion-penal/como-se-revisa-prision-preventiva/)**.
+- **[Cuándo puede pedirse una excarcelación](/orientacion-penal/cuando-puede-pedirse-excarcelacion/)**.
+- **[Recursos penales en Córdoba](/recursos-penales-cordoba/)**.
 
 ### Recursos y revisión de resoluciones
 
@@ -117,7 +121,7 @@ No toda resolución penal se revisa de la misma manera. Puede haber apelaciones,
 
 Por eso, ante una resolución desfavorable, conviene consultar rápido y con la documentación disponible.
 
-Guía recomendada: **[recursos penales en Córdoba](/recursos-penales-cordoba)**.
+Guía recomendada: **[recursos penales en Córdoba](/recursos-penales-cordoba/)**.
 
 ---
 
@@ -138,7 +142,7 @@ Algunos errores comunes son:
 
 Una consulta temprana puede ayudar a ordenar la información y evitar decisiones que compliquen la defensa.
 
-👉 **[Consultar mi situación penal](/contacto)**
+👉 **[Consultar mi situación penal](/contacto/)**
 
 ---
 
@@ -165,7 +169,7 @@ No conviene enviar documentación sensible sin ordenar antes qué hace falta y p
 
 En una causa penal puede intervenir la defensa pública/oficial o un abogado particular. No se trata de desmerecer ninguna opción, sino de entender diferencias prácticas: disponibilidad, forma de trabajo, comunicación, estrategia, seguimiento del expediente y posibilidad de elección profesional.
 
-Si tenés dudas sobre qué opción corresponde en tu caso, podés leer: **[defensa pública o abogado particular en Córdoba](/defensa-penal-publica-vs-abogado-particular)**.
+Si tenés dudas sobre qué opción corresponde en tu caso, podés leer: **[defensa pública o abogado particular en Córdoba](/defensa-penal-publica-vs-abogado-particular/)**.
 
 ---
 
@@ -182,7 +186,7 @@ Conviene pedir asesoramiento penal urgente si:
 - La familia no sabe dónde está alojada una persona detenida.
 - Hay dudas sobre si corresponde un pedido de libertad o un hábeas corpus.
 
-En esos casos, podés ir directamente a **[urgencias penales en Córdoba](/urgencias-penales-cordoba)** o **[contactar por una consulta confidencial](/contacto)**.
+En esos casos, podés ir directamente a **[urgencias penales en Córdoba](/urgencias-penales-cordoba/)** o **[contactar por una consulta confidencial](/contacto/)**.
 
 ---
 
@@ -192,29 +196,21 @@ Si estás atravesando una causa penal, recibiste una citación, fuiste imputado,
 
 La orientación general ayuda a entender el problema. La estrategia defensiva requiere analizar el caso concreto.
 
-👉 **[Hablar por WhatsApp](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20quiero%20hacer%20una%20consulta%20penal%20en%20C%C3%B3rdoba.%20La%20situaci%C3%B3n%20es%3A%20____.%20Necesito%20orientaci%C3%B3n%20sobre%20los%20pr%C3%B3ximos%20pasos.)**  
-👉 **[Contacto](/contacto)**
+👉 **[Hablar por WhatsApp](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20quiero%20hacer%20una%20consulta%20penal%20en%20C%C3%B3rdoba.%20La%20situaci%C3%B3n%20es%3A%20____.%20Necesito%20orientaci%C3%B3n%20sobre%20los%20pr%C3%B3ximos%20pasos.)**
+👉 **[Contacto](/contacto/)**
 
 ---
 
 ## Guías de defensa penal
 
-- **[Abogado penalista en Córdoba](/abogado-penalista-cordoba)**.
-- **[Urgencias penales en Córdoba](/urgencias-penales-cordoba)**.
-- **[Abogado para detenido en Córdoba](/familiar-detenido-cordoba)**.
-- **[Citación a declarar en Córdoba](/citacion-a-declarar-cordoba)**.
-- **[Imputado en Córdoba](/imputado-cordoba)**.
-- **[Prisión preventiva en Córdoba](/prision-preventiva-cordoba)**.
-- **[Excarcelación en Córdoba](/excarcelacion-cordoba)**.
-- **[Hábeas corpus en Córdoba](/habeas-corpus-cordoba)**.
-- **[Recursos penales en Córdoba](/recursos-penales-cordoba)**.
-- **[Defensa pública o abogado particular](/defensa-penal-publica-vs-abogado-particular)**.
-
----
-
-## Señales de confianza
-
-**Abog. Pablo Arias** – M.P. 1-43613  
-Atención penal en Córdoba Capital y provincia, con consulta confidencial presencial o remota según el caso.  
-Más info: **[Sobre nosotros](/sobre-nosotros)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad)** – Legal: **[Aviso legal](/aviso-legal)**
+- **[Abogado penalista en Córdoba](/abogado-penalista-cordoba/)**.
+- **[Urgencias penales en Córdoba](/urgencias-penales-cordoba/)**.
+- **[Abogado para detenido en Córdoba](/familiar-detenido-cordoba/)**.
+- **[Citación a declarar en Córdoba](/citacion-a-declarar-cordoba/)**.
+- **[Imputado en Córdoba](/imputado-cordoba/)**.
+- **[Prisión preventiva en Córdoba](/prision-preventiva-cordoba/)**.
+- **[Excarcelación en Córdoba](/excarcelacion-cordoba/)**.
+- **[Hábeas corpus en Córdoba](/habeas-corpus-cordoba/)**.
+- **[Recursos penales en Córdoba](/recursos-penales-cordoba/)**.
+- **[Defensa pública o abogado particular](/defensa-penal-publica-vs-abogado-particular/)**.
+- **[Errores que conviene evitar ante una detención](/orientacion-penal/errores-ante-una-detencion/)**.

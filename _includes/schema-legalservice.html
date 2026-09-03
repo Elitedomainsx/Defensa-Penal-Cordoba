@@ -3,23 +3,38 @@
 {
   "@context": "https://schema.org",
   "@type": "LegalService",
+  "@id": "{{ site.url }}/#legalservice",
   "name": "Defensa Penal Córdoba",
-  "url": "{{ site.url }}{{ page.url }}",
-  "areaServed": {
-    "@type": "AdministrativeArea",
-    "name": "Córdoba, Argentina"
+  "url": "{{ site.url }}/",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
   },
+  "image": "{{ site.url }}/assets/img/pablo-jorge-arias-visconti.webp",
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Córdoba Capital, Argentina"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Provincia de Córdoba, Argentina"
+    }
+  ],
   "description": {{ site.description | jsonify }},
   "telephone": {{ site.contact.phone_tel | jsonify }},
   "email": {{ site.contact.email | jsonify }},
-  "priceRange": "$$",
-  "founder": [
-    {
-      "@type": "Person",
-      "name": "Pablo Arias",
-      "jobTitle": "Abogado"
-    }
-  ],
+  "founder": {
+    "@type": "Person",
+    "@id": "{{ site.url }}/sobre-nosotros/#pablo-jorge-arias-visconti",
+    "name": "Pablo Jorge Arias Visconti",
+    "honorificPrefix": "Abog.",
+    "jobTitle": "Abogado",
+    "identifier": "M.P. 1-43613",
+    "url": "{{ site.url }}/sobre-nosotros/",
+    "image": "{{ site.url }}/assets/img/pablo-jorge-arias-visconti.webp"
+  },
+  "serviceType": "Defensa penal",
   "knowsAbout": [
     "Defensa penal",
     "Urgencias penales",

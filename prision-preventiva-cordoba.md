@@ -27,7 +27,7 @@ Si existe riesgo de que se solicite la medida, o si ya fue dictada, podés pedir
 👉 **[Solicitar análisis del caso](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20necesito%20consultar%20por%20una%20situaci%C3%B3n%20de%20prisi%C3%B3n%20preventiva%20en%20C%C3%B3rdoba.%20La%20causa%20est%C3%A1%20en%3A%20____)**  
 👉 **[Contacto](/contacto/)**
 
-> **Disclaimer (YMYL):** Esta página brinda orientación general y no reemplaza el análisis profesional del expediente. No se prometen libertades, excarcelaciones, sobreseimientos, absoluciones ni resultados. Cada caso depende de la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
+> **Información general:** Esta página brinda orientación general y no reemplaza el análisis profesional del expediente. No se prometen libertades, excarcelaciones, sobreseimientos, absoluciones ni resultados. Cada caso depende de la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
 
 ---
 
@@ -174,11 +174,3 @@ El objetivo es revisar el expediente, entender los fundamentos de la medida, eva
 👉 **[Solicitar análisis del caso](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20quiero%20consultar%20por%20una%20prisi%C3%B3n%20preventiva%20o%20riesgo%20de%20prisi%C3%B3n%20preventiva%20en%20C%C3%B3rdoba.%20La%20situaci%C3%B3n%20es%3A%20____)**  
 👉 **[Consultar por pedido de libertad](/excarcelacion-cordoba/)**  
 👉 **[Contacto](/contacto/)**
-
----
-
-## Señales de confianza
-**Abog. Pablo Arias** – M.P. 1-43613  
-Atención penal en Córdoba Capital e interior, con modalidad presencial y remota según la urgencia y las características del caso.  
-Más info: **[Sobre nosotros](/sobre-nosotros/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

@@ -26,7 +26,7 @@ La intervención de un **abogado para detenido en Córdoba** permite ordenar la 
 
 Si la situación requiere asistencia inmediata, también podés ver **[urgencias penales en Córdoba](/urgencias-penales-cordoba/)**.
 
-> **Disclaimer (YMYL):** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. No se garantizan libertades, excarcelaciones, sobreseimientos ni resultados. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
+> **Información general:** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. No se garantizan libertades, excarcelaciones, sobreseimientos ni resultados. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
 
 ---
 
@@ -175,11 +175,3 @@ La defensa penal debe actuar con rapidez, pero también con estrategia y prudenc
 **Consultar por un familiar detenido**  
 **Enviar datos del caso**  
 **Hablar por WhatsApp**
-
----
-
-## Señales de confianza
-**Abog. Pablo Arias** – M.P. 1-43613  
-Atención penal en Córdoba Capital e interior, con modalidad presencial y remota según la urgencia y las necesidades del caso.  
-Más info: **[Sobre nosotros](/sobre-nosotros/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

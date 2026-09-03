@@ -74,25 +74,40 @@ description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, p
           <div class="row g-3 align-items-center">
             <div class="col-12 col-sm-4">
               <figure class="attorney-photo-card mb-0">
-                <img class="attorneys-trust-photo" src="/assets/img/pablo-jorge-arias-visconti.webp" alt="Abog. Pablo Arias, abogado penalista en Córdoba" loading="lazy" decoding="async" width="1024" height="1024" />
+                <img class="attorneys-trust-photo" src="/assets/img/pablo-jorge-arias-visconti.webp" alt="Abog. Pablo Jorge Arias Visconti, abogado penalista en Córdoba" loading="lazy" decoding="async" width="1024" height="1024" />
                 <figcaption>
-                  <strong>Abog. Pablo Arias</strong>
+                  <strong>Abog. Pablo Jorge Arias Visconti</strong>
                   <span>M.P. 1-43613</span>
                 </figcaption>
               </figure>
             </div>
             <div class="col-12 col-sm-8">
-              <div class="small text-uppercase text-muted fw-semibold mb-2">Profesionales responsables</div>
-              <h2 class="h4">Pablo Arias</h2>
+              <div class="small text-uppercase text-muted fw-semibold mb-2">Profesional responsable</div>
+              <h2 class="h4">Pablo Jorge Arias Visconti</h2>
               <p class="text-muted mb-3">Atención en Córdoba Capital e interior, presencial o remota según corresponda. Reserva profesional y análisis prudente de cada causa.</p>
               <ul class="mb-3">
-                <li>Abog. Pablo Arias - M.P. 1-43613</li>
+                <li>Abog. Pablo Jorge Arias Visconti - M.P. 1-43613</li>
               </ul>
-              <a class="btn btn-outline-primary" href="/orientacion-penal/">Centro de orientación penal</a>
+              <a class="btn btn-outline-primary" href="/sobre-nosotros/">Conocer al profesional</a>
             </div>
           </div>
         </div>
       </div>
+    </div>
+  </div>
+</section>
+
+<section class="page-section bg-light">
+  <div class="container px-4 px-lg-5">
+    <h2 class="text-center mt-0">Atención en Córdoba Capital e interior</h2>
+    <hr class="divider" />
+    <p class="text-center text-muted mx-auto mb-4" style="max-width: 760px;">Las consultas vinculadas con causas del interior se coordinan según la localidad, la autoridad interviniente, la etapa del expediente y la urgencia concreta.</p>
+    <div class="service-grid">
+      <a href="/localidades/">Córdoba Capital e interior</a>
+      <a href="/abogado-penalista-rio-cuarto/">Río Cuarto</a>
+      <a href="/abogado-penalista-villa-maria/">Villa María</a>
+      <a href="/abogado-penalista-san-francisco/">San Francisco</a>
+      <a href="/abogado-penalista-villa-carlos-paz/">Villa Carlos Paz</a>
     </div>
   </div>
 </section>

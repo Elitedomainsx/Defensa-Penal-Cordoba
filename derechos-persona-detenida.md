@@ -24,7 +24,7 @@ En términos generales, una persona detenida tiene derecho a **defensa**, a reci
 
 Si necesitás orientación inmediata, también podés ver **[qué hacer si detienen a un familiar](/orientacion-penal/que-hacer-si-detienen-a-un-familiar/)** o consultar directamente por **[un familiar detenido en Córdoba](/familiar-detenido-cordoba/)**.
 
-> **Disclaimer (YMYL):** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. No se prometen resultados, libertad, excarcelación ni una medida procesal determinada. Cada caso depende del expediente, la imputación, la prueba, los antecedentes, la etapa procesal y las decisiones judiciales.
+> **Información general:** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. No se prometen resultados, libertad, excarcelación ni una medida procesal determinada. Cada caso depende del expediente, la imputación, la prueba, los antecedentes, la etapa procesal y las decisiones judiciales.
 
 ---
 
@@ -164,11 +164,3 @@ Si una persona fue detenida en Córdoba, podés consultar de forma confidencial.
 👉 **[Hablar por WhatsApp](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20necesito%20asesoramiento%20penal%20urgente.%20Detuvieron%20a%20un%20familiar%20en%20C%C3%B3rdoba%20y%20quiero%20consultar%20qu%C3%A9%20derechos%20tiene%20y%20qu%C3%A9%20podemos%20hacer.)**  
 👉 **[Contacto](/contacto/)**  
 👉 **[Abogado penalista en Córdoba](/abogado-penalista-cordoba/)**
-
----
-
-## Señales de confianza
-**Abog. Pablo Arias** – M.P. 1-43613  
-Atención penal en Córdoba Capital e interior, con modalidad presencial y remota según el caso.  
-Más info: **[Sobre nosotros](/sobre-nosotros/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

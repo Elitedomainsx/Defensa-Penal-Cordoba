@@ -1,23 +1,40 @@
 ---
 layout: article
-title: "Sobre nosotros"
-h1: "Sobre nosotros"
-description: "Profesionales responsables de Defensa Penal Córdoba. Consulta penal confidencial y atención en Córdoba."
-quick: "Defensa Penal Córdoba es una web de orientación y contacto profesional para consultas penales en Córdoba. La intervención en cada caso requiere revisar expediente, prueba, etapa procesal y riesgos concretos."
+title: "Pablo Jorge Arias Visconti | Defensa Penal Córdoba"
+h1: "Abog. Pablo Jorge Arias Visconti"
+description: "Pablo Jorge Arias Visconti, abogado M.P. 1-43613. Defensa penal y consultas confidenciales en Córdoba Capital e interior."
+quick: "Defensa Penal Córdoba es el espacio de orientación y contacto profesional del abogado Pablo Jorge Arias Visconti, M.P. 1-43613, para consultas vinculadas con causas penales en Córdoba."
 ---
 
-## Profesionales responsables
+<span id="pablo-jorge-arias-visconti"></span>
 
-- **Abog. Pablo Arias** - M.P. 1-43613.
+## Profesional responsable
+
+- **Abog. Pablo Jorge Arias Visconti** — M.P. 1-43613.
+
+La atención está dirigida a personas imputadas, detenidas, citadas a declarar o que necesitan analizar una resolución, una medida vinculada con la libertad o una situación penal urgente.
+
+## Intervención profesional
+
+Según las características de la causa, la consulta puede comprender:
+
+- revisión de citaciones, actas y resoluciones;
+- análisis de la imputación y de la prueba disponible;
+- preparación de declaraciones y ejercicio del derecho de defensa;
+- evaluación de detenciones, prisión preventiva y pedidos de libertad;
+- análisis de recursos y otras presentaciones procesales;
+- orientación a familiares de personas detenidas.
+
+La estrategia se define únicamente después de conocer el expediente, la autoridad interviniente, la etapa procesal y los riesgos concretos.
 
 ## Forma de trabajo
 
-La defensa penal requiere actuar con prudencia, reserva profesional y análisis técnico. Antes de definir una estrategia, corresponde revisar el expediente, la prueba disponible, la etapa procesal, los antecedentes, la autoridad interviniente y los riesgos concretos.
+La defensa penal requiere prudencia, reserva profesional y análisis técnico. El primer objetivo es ordenar la información, distinguir los datos confirmados de las suposiciones y determinar qué documentación resulta útil revisar.
 
-No se prometen resultados, libertades, absoluciones, sobreseimientos ni decisiones judiciales favorables. Cada caso depende de sus circunstancias y de las decisiones de la autoridad competente.
+No se prometen resultados, libertades, absoluciones ni decisiones judiciales favorables. Cada situación depende de sus circunstancias y de la autoridad competente.
 
-## Atención
+## Atención en Córdoba
 
-La atención puede coordinarse en Córdoba, de manera presencial o remota según la urgencia y las características del caso.
+La atención puede coordinarse en Córdoba Capital y, según el caso, en el interior provincial. La primera consulta puede realizarse de manera presencial o remota según la urgencia, la ubicación y las necesidades del expediente.
 
-Para iniciar una consulta, podés ir a [contacto](/contacto/) o escribir por WhatsApp desde cualquiera de las páginas del sitio.
+Podés consultar las [localidades atendidas](/localidades/), ir a [contacto](/contacto/) o escribir por WhatsApp desde cualquiera de las páginas del sitio.

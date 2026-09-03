@@ -27,7 +27,7 @@ No toda resolución se recurre del mismo modo. Tampoco toda disconformidad alcan
 
 Si todavía no tenés claro el estado de la causa, podés empezar por una **[consulta con un abogado penalista en Córdoba](/abogado-penalista-cordoba/)**.
 
-> **Disclaimer:** Esta información es general y no reemplaza el análisis del expediente. No se prometen resultados, revocaciones ni modificaciones de resoluciones. Cada caso depende de la prueba, la calificación legal, los antecedentes, la etapa procesal, los fundamentos de la decisión y el criterio del tribunal competente.
+> **Información general:** Esta información es general y no reemplaza el análisis del expediente. No se prometen resultados, revocaciones ni modificaciones de resoluciones. Cada caso depende de la prueba, la calificación legal, los antecedentes, la etapa procesal, los fundamentos de la decisión y el criterio del tribunal competente.
 
 ---
 
@@ -190,12 +190,3 @@ La revisión debe hacerse rápido, pero con seriedad. Antes de presentar un recu
 
 👉 **[Solicitar revisión de la resolución](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20quiero%20consultar%20por%20una%20resoluci%C3%B3n%20penal%20en%20C%C3%B3rdoba.%20Necesito%20saber%20si%20puede%20revisarse%20o%20recurrirse.)**  
 👉 **[Contacto](/contacto/)**
-
----
-
-## Señales de confianza
-
-**Abog. Pablo Arias** – M.P. 1-43613  
-Atención penal en Córdoba Capital y provincia, con consulta confidencial y análisis profesional del caso.  
-Más info: **[Sobre nosotros](/sobre-nosotros/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

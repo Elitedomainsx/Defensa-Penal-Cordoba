@@ -29,7 +29,7 @@ Lo primero es aclarar algo importante: **la defensa pública cumple una función
 
 Si necesitás una orientación general sobre tu situación, también podés ver **[abogado penalista en Córdoba](/abogado-penalista-cordoba/)**.
 
-> **Disclaimer:** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. No se prometen resultados. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
+> **Información general:** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. No se prometen resultados. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
 
 ---
 
@@ -215,12 +215,3 @@ La consulta permite analizar el estado del expediente, la urgencia, los riesgos 
 
 👉 **[Hablar por WhatsApp](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20quiero%20consultar%20por%20opciones%20de%20defensa%20penal%20en%20C%C3%B3rdoba.%20Tengo%20una%20causa%2C%20citaci%C3%B3n%20o%20imputaci%C3%B3n%20y%20quiero%20analizar%20si%20corresponde%20designar%20abogado%20particular.)**  
 👉 **[Contacto](/contacto/)**
-
----
-
-## Señales de confianza
-
-**Abog. Pablo Arias** – M.P. 1-43613  
-Atención en causas penales en Córdoba, con consulta confidencial y análisis del caso.  
-Más info: **[Sobre nosotros](/sobre-nosotros/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

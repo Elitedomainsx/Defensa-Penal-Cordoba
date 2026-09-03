@@ -26,7 +26,7 @@ Esta guía está pensada para familiares que necesitan una orientación inicial.
 
 Si la situación requiere asistencia inmediata, podés consultar la página de **[urgencias penales en Córdoba](/urgencias-penales-cordoba/)** o pedir ayuda por un **[familiar detenido en Córdoba](/familiar-detenido-cordoba/)**.
 
-> **Disclaimer legal:** Esta información es general y no reemplaza asesoramiento jurídico personalizado. No se garantizan libertades, excarcelaciones, sobreseimientos ni decisiones judiciales favorables. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones de la autoridad interviniente.
+> **Información general:** Esta información es general y no reemplaza asesoramiento jurídico personalizado. No se garantizan libertades, excarcelaciones, sobreseimientos ni decisiones judiciales favorables. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones de la autoridad interviniente.
 
 ---
 
@@ -233,11 +233,3 @@ La intervención debe ser rápida, pero también prudente y estratégica. Cada c
 **Consultar por un familiar detenido**  
 **Hablar por WhatsApp**  
 **Pedir asesoramiento urgente**
-
----
-
-## Señales de confianza
-**Abog. Pablo Arias** – M.P. 1-43613  
-Atención penal en Córdoba Capital e interior, con modalidad presencial y remota según la urgencia y las necesidades del caso.  
-Más info: **[Sobre nosotros](/sobre-nosotros/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

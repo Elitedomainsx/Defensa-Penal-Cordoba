@@ -39,7 +39,7 @@ Declarar sin comprender estos puntos puede generar errores difíciles de corregi
 
 Si ya recibiste una citación, también podés ver **[citación a declarar en Córdoba](/citacion-a-declarar-cordoba/)**.
 
-> **Disclaimer:** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. Cada caso depende del expediente, la prueba, la calificación legal, la etapa procesal, los antecedentes y las decisiones judiciales.
+> **Información general:** Esta guía es general y no reemplaza asesoramiento jurídico personalizado. Cada caso depende del expediente, la prueba, la calificación legal, la etapa procesal, los antecedentes y las decisiones judiciales.
 
 ---
 
@@ -229,12 +229,3 @@ Podés escribirnos con una descripción breve y, si corresponde, una foto de la 
 
 👉 **[Hablar por WhatsApp](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20recib%C3%AD%20una%20citaci%C3%B3n%20penal%20en%20C%C3%B3rdoba%20y%20quiero%20saber%20si%20puedo%20declarar%20sin%20abogado.%20Necesito%20consultar%20antes%20de%20presentarme.)**  
 👉 **[Contacto](/contacto/)**
-
----
-
-## Señales de confianza
-
-**Abog. Pablo Arias** – M.P. 1-43613  
-Defensa penal en Córdoba. Atención presencial y remota según la urgencia y características del caso.  
-Más info: **[Abogado penalista en Córdoba](/abogado-penalista-cordoba/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

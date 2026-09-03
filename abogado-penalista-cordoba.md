@@ -29,7 +29,7 @@ La defensa penal no debe improvisarse. Cada situación requiere estudiar qué se
 
 Si la situación es urgente, podés ir directamente a **[urgencias penales en Córdoba](/urgencias-penales-cordoba/)**.
 
-> **Disclaimer (YMYL):** Esta página brinda orientación general y no reemplaza asesoramiento jurídico personalizado. No se prometen resultados, libertad, absolución, archivo ni sobreseimiento. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
+> **Información general:** Esta página brinda orientación general y no reemplaza asesoramiento jurídico personalizado. No se prometen resultados, libertad, absolución, archivo ni sobreseimiento. Cada caso depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
 
 ---
 
@@ -240,14 +240,3 @@ La defensa penal requiere actuar con prudencia, estrategia y conocimiento del ex
 
 👉 **[Hablar por WhatsApp](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20quiero%20hacer%20una%20consulta%20penal%20confidencial%20en%20C%C3%B3rdoba.%20Mi%20situaci%C3%B3n%20es%3A%20____)**  
 👉 **[Contacto](/contacto/)**
-
----
-
-## Señales de confianza
-
-**Abog. Pablo Arias** – M.P. 1-43613  
-Atención en causas penales en Córdoba, con orientación presencial y coordinación remota cuando corresponda.  
-Reserva profesional, análisis del caso y comunicación clara desde el inicio.  
-
-Más info: **[Sobre nosotros](/sobre-nosotros/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

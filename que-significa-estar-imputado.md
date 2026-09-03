@@ -24,7 +24,7 @@ La imputación marca un momento importante: desde allí la defensa debe prestar 
 
 Si ya fuiste imputado o te informaron que podrías estarlo, podés ver la página principal sobre **[imputado en Córdoba](/imputado-cordoba/)**.
 
-> **Disclaimer (YMYL):** Esta información es general y no reemplaza el asesoramiento jurídico personalizado. Cada causa penal depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
+> **Información general:** Esta información es general y no reemplaza el asesoramiento jurídico personalizado. Cada causa penal depende del expediente, la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
 
 ---
 
@@ -189,11 +189,3 @@ La consulta permite analizar la situación, explicar riesgos y definir próximos
 
 👉 **[Consultar situación penal](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20fui%20imputado%2Fa%20o%20tengo%20una%20causa%20penal%20en%20C%C3%B3rdoba.%20Quiero%20consultar%20mi%20situaci%C3%B3n%20antes%20de%20declarar%20o%20tomar%20decisiones.)**  
 👉 **[Contacto](/contacto/)**
-
----
-
-## Señales de confianza
-**Abog. Pablo Arias** – M.P. 1-43613  
-Atención penal en Córdoba Capital y provincia, con consulta confidencial y análisis del caso.  
-Más info: **[Sobre nosotros](/sobre-nosotros/)**  
-Privacidad: **[política de privacidad](/politica-de-privacidad/)** – Legal: **[Aviso legal](/aviso-legal/)**

@@ -88,7 +88,7 @@ hr.divider{
 /* Masthead overlay: remove warm brown, use navy overlay */
 header.masthead{
   background: linear-gradient(to bottom, rgba(11,42,74,0.86) 0%, rgba(11,42,74,0.86) 100%),
-              url("/assets/creative/assets/img/bg-masthead.jpg") !important;
+              url("/assets/creative/assets/img/bg-masthead.webp") !important;
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-size: cover !important;
@@ -734,7 +734,7 @@ header.masthead{
 header.masthead{
   background:
     linear-gradient(to bottom, rgba(7,26,45,.88), rgba(7,26,45,.86)),
-    url("/assets/creative/assets/img/bg-masthead.jpg") !important;
+    url("/assets/creative/assets/img/bg-masthead.webp") !important;
 }
 
 .article-page{
@@ -1025,6 +1025,11 @@ header.masthead{
 @media (max-width: 767.98px){
   body{
     padding-bottom: 74px;
+  }
+  header.masthead{
+    background:
+      linear-gradient(to bottom, rgba(7,26,45,.88), rgba(7,26,45,.86)),
+      url("/assets/creative/assets/img/bg-masthead-mobile.webp") !important;
   }
   .page-section{
     padding: 4rem 0;

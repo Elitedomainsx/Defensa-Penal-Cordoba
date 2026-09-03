@@ -1,8 +1,11 @@
 title: "Defensa Penal Córdoba"
 description: "Defensa penal en Córdoba para personas imputadas, detenidas, citadas a declarar o con causas penales urgentes. Consulta confidencial."
-url: "https://defensapenalcordoba.com.ar"
+url: "https://www.defensapenalcordoba.com.ar"
 lang: "es-AR"
 timezone: "America/Argentina/Cordoba"
+
+author:
+  name: "Pablo Jorge Arias Visconti"
 
 site_noindex: false
 
@@ -24,14 +27,14 @@ contact:
   whatsapp_number: "543513772921"
   whatsapp_url: "https://wa.me/543513772921"
   whatsapp_base_url: "https://wa.me/543513772921?text="
-  phone_display: "543513772921"
+  phone_display: "+54 9 351 377-2921"
   phone_tel: "+543513772921"
   email: "info@defensapenalcordoba.com.ar"
   email_url: "mailto:info@defensapenalcordoba.com.ar"
 
 professionals:
-  - name: "Pablo Arias"
-    label: "Abog. Pablo Arias"
+  - name: "Pablo Jorge Arias Visconti"
+    label: "Abog. Pablo Jorge Arias Visconti"
     registration: "M.P. 1-43613"
 
 defaults:
