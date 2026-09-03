@@ -17,6 +17,7 @@ plugins:
 
 exclude:
   - "_modelo_sucesiones"
+  - "docs"
   - "sucesionescordoba-main (2).zip"
   - "Gemfile"
   - "Gemfile.lock"

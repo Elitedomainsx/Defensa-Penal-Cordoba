@@ -1,44 +1,63 @@
-{%- assign nav_classes = "navbar navbar-expand-lg navbar-light fixed-top py-3" -%}
+{%- assign nav_classes = "site-nav" -%}
 {%- unless page.url == "/" -%}
-  {%- assign nav_classes = nav_classes | append: " navbar-shrink" -%}
+  {%- assign nav_classes = nav_classes | append: " is-solid" -%}
 {%- endunless -%}
+{%- assign defense_group_current = false -%}
+{%- if page.url contains "/abogado-penalista-" or page.url == "/imputado-cordoba/" or page.url == "/citacion-a-declarar-cordoba/" or page.url == "/familiar-detenido-cordoba/" -%}
+  {%- assign defense_group_current = true -%}
+{%- endif -%}
+{%- assign liberty_group_current = false -%}
+{%- if page.url == "/prision-preventiva-cordoba/" or page.url == "/excarcelacion-cordoba/" or page.url == "/habeas-corpus-cordoba/" or page.url == "/orientacion-penal/como-se-revisa-prision-preventiva/" or page.url == "/orientacion-penal/cuando-puede-pedirse-excarcelacion/" -%}
+  {%- assign liberty_group_current = true -%}
+{%- endif -%}
+{%- assign resources_group_current = false -%}
+{%- if page.url contains "/orientacion-penal/" or page.url == "/recursos-penales-cordoba/" -%}
+  {%- assign resources_group_current = true -%}
+{%- endif -%}
 <nav class="{{ nav_classes }}" id="mainNav" aria-label="Navegación principal">
-  <div class="container px-4 px-lg-5">
-    <a class="navbar-brand" href="/" aria-label="Defensa Penal Córdoba">Defensa Penal Córdoba</a>
-    <a class="btn btn-primary btn-sm d-lg-none ms-auto me-2" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-track="header-whatsapp">WhatsApp</a>
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Abrir menú">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav ms-auto my-2 my-lg-0 align-items-lg-center">
-        <li class="nav-item"><a class="nav-link" href="/">Inicio</a></li>
-        <li class="nav-item"><a class="nav-link" href="/abogado-penalista-cordoba/">Abogado penalista</a></li>
-        <li class="nav-item"><a class="nav-link" href="/urgencias-penales-cordoba/">Urgencias</a></li>
-        <li class="nav-item"><a class="nav-link" href="/familiar-detenido-cordoba/">Detenidos</a></li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navCitaciones" role="button" data-bs-toggle="dropdown" aria-expanded="false">Imputaciones</a>
-          <ul class="dropdown-menu" aria-labelledby="navCitaciones">
-            <li><a class="dropdown-item" href="/citacion-a-declarar-cordoba/">Citación a declarar</a></li>
-            <li><a class="dropdown-item" href="/imputado-cordoba/">Imputado en Córdoba</a></li>
-            <li><a class="dropdown-item" href="/orientacion-penal/puedo-declarar-sin-abogado/">Puedo declarar sin abogado</a></li>
-            <li><a class="dropdown-item" href="/orientacion-penal/que-pasa-despues-de-una-citacion/">Qué pasa después de una citación</a></li>
+  <div class="site-shell nav-shell">
+    <a class="site-brand" href="/" aria-label="Defensa Penal Córdoba, inicio">
+      <span class="site-brand-mark" aria-hidden="true">DP</span>
+      <span class="site-brand-copy"><strong>Defensa Penal</strong><small>Córdoba</small></span>
+    </a>
+
+    <div class="nav-mobile-actions">
+      <a class="nav-quick-cta" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-track="header-whatsapp">WhatsApp</a>
+      <button class="nav-toggle" type="button" aria-controls="site-menu" aria-expanded="false" aria-label="Abrir menú de navegación" data-nav-toggle>
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+
+    <div class="nav-panel" id="site-menu" data-nav-panel>
+      <ul class="nav-list">
+        <li><a class="nav-link{% if page.url == '/' %} is-current{% endif %}" href="/"{% if page.url == '/' %} aria-current="page"{% endif %}>Inicio</a></li>
+        <li class="nav-dropdown" data-dropdown>
+          <button class="nav-link nav-dropdown-toggle{% if defense_group_current %} is-current{% endif %}" id="nav-defensa" type="button" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-defensa" data-dropdown-toggle>
+            Defensa penal <span aria-hidden="true"></span>
+          </button>
+          <ul class="nav-submenu" id="submenu-defensa" aria-labelledby="nav-defensa" data-dropdown-menu>
+            <li><a href="/abogado-penalista-cordoba/"{% if page.url == '/abogado-penalista-cordoba/' %} aria-current="page"{% endif %}>Abogado penalista en Córdoba</a></li>
+            <li><a href="/imputado-cordoba/"{% if page.url == '/imputado-cordoba/' %} aria-current="page"{% endif %}>Imputaciones</a></li>
+            <li><a href="/citacion-a-declarar-cordoba/"{% if page.url == '/citacion-a-declarar-cordoba/' %} aria-current="page"{% endif %}>Citación a declarar</a></li>
+            <li><a href="/familiar-detenido-cordoba/"{% if page.url == '/familiar-detenido-cordoba/' %} aria-current="page"{% endif %}>Familiar detenido</a></li>
           </ul>
         </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navLibertad" role="button" data-bs-toggle="dropdown" aria-expanded="false">Prisión preventiva</a>
-          <ul class="dropdown-menu" aria-labelledby="navLibertad">
-            <li><a class="dropdown-item" href="/prision-preventiva-cordoba/">Prisión preventiva</a></li>
-            <li><a class="dropdown-item" href="/excarcelacion-cordoba/">Excarcelación</a></li>
-            <li><a class="dropdown-item" href="/orientacion-penal/como-se-revisa-prision-preventiva/">Cómo revisar prisión preventiva</a></li>
-            <li><a class="dropdown-item" href="/orientacion-penal/cuando-puede-pedirse-excarcelacion/">Cuándo puede pedirse excarcelación</a></li>
+        <li><a class="nav-link{% if page.url == '/urgencias-penales-cordoba/' %} is-current{% endif %}" href="/urgencias-penales-cordoba/"{% if page.url == '/urgencias-penales-cordoba/' %} aria-current="page"{% endif %}>Urgencias</a></li>
+        <li class="nav-dropdown" data-dropdown>
+          <button class="nav-link nav-dropdown-toggle{% if liberty_group_current %} is-current{% endif %}" id="nav-libertad" type="button" aria-expanded="false" aria-haspopup="true" aria-controls="submenu-libertad" data-dropdown-toggle>
+            Libertad <span aria-hidden="true"></span>
+          </button>
+          <ul class="nav-submenu" id="submenu-libertad" aria-labelledby="nav-libertad" data-dropdown-menu>
+            <li><a href="/prision-preventiva-cordoba/"{% if page.url == '/prision-preventiva-cordoba/' %} aria-current="page"{% endif %}>Prisión preventiva</a></li>
+            <li><a href="/excarcelacion-cordoba/"{% if page.url == '/excarcelacion-cordoba/' %} aria-current="page"{% endif %}>Excarcelación</a></li>
+            <li><a href="/habeas-corpus-cordoba/"{% if page.url == '/habeas-corpus-cordoba/' %} aria-current="page"{% endif %}>Hábeas corpus</a></li>
+            <li><a href="/orientacion-penal/como-se-revisa-prision-preventiva/"{% if page.url == '/orientacion-penal/como-se-revisa-prision-preventiva/' %} aria-current="page"{% endif %}>Revisión de prisión preventiva</a></li>
           </ul>
         </li>
-        <li class="nav-item"><a class="nav-link" href="/orientacion-penal/">Recursos</a></li>
-        <li class="nav-item"><a class="nav-link" href="/contacto/">Contacto</a></li>
+        <li><a class="nav-link{% if resources_group_current %} is-current{% endif %}" href="/orientacion-penal/"{% if page.url == '/orientacion-penal/' %} aria-current="page"{% endif %}>Recursos</a></li>
+        <li><a class="nav-link{% if page.url == '/contacto/' %} is-current{% endif %}" href="/contacto/"{% if page.url == '/contacto/' %} aria-current="page"{% endif %}>Contacto</a></li>
       </ul>
-      <div class="d-none d-lg-flex ms-lg-3">
-        <a class="btn btn-primary btn-sm" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-track="header-whatsapp">WhatsApp {{ site.contact.phone_display }}</a>
-      </div>
+      <a class="button button-small nav-desktop-cta" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-track="header-whatsapp">Consulta por WhatsApp</a>
     </div>
   </div>
 </nav>

@@ -16,22 +16,24 @@ layout: default
   {%- when "/contacto/" -%}{%- assign primary_cta = "Hablar por WhatsApp" -%}
 {%- endcase -%}
 
-<main class="page-section article-page">
-  <div class="container px-4 px-lg-5">
-    <article class="article mx-auto">
+<main class="article-page" id="main-content">
+  <div class="site-shell article-shell">
+    <article class="article">
       {% include breadcrumbs.html %}
-      <header class="article-hero mb-4">
-        <h1 class="display-6 fw-bold">{{ page.h1 | default: page.title }}</h1>
+
+      <header class="article-hero">
+        <div class="section-kicker">Defensa penal · Córdoba</div>
+        <h1>{{ page.h1 | default: page.title }}</h1>
         {% if page.quick %}
-          <div class="quick-box mt-3">
-            <div class="quick-label">Respuesta rápida</div>
-            <p>{{ page.quick }}</p>
-          </div>
+        <div class="quick-answer">
+          <div class="quick-answer-label">Respuesta rápida</div>
+          <p>{{ page.quick }}</p>
+        </div>
         {% endif %}
-        <div class="d-flex flex-wrap gap-2 mt-3">
-          <a class="btn btn-primary" href="{{ whatsapp_href }}" target="_blank" rel="noopener" data-track="hero-whatsapp">{{ primary_cta }}</a>
+        <div class="button-group article-actions" role="group" aria-label="Acciones principales">
+          <a class="button" href="{{ whatsapp_href }}" target="_blank" rel="noopener" data-track="hero-whatsapp">{{ primary_cta }}</a>
           {%- unless page.url == "/contacto/" -%}
-          <a class="btn btn-outline-primary" href="/contacto/" data-track="hero-contact">Consulta penal</a>
+          <a class="button button-outline" href="/contacto/" data-track="hero-contact">Otras vías de contacto</a>
           {%- endunless -%}
         </div>
       </header>
@@ -48,22 +50,29 @@ layout: default
         {{ content }}
       </div>
 
+      {%- unless page.hide_attorneys_trust_box -%}
+        {% include related-services.html %}
+      {%- endunless -%}
+
       {%- if page.faq and page.faq.size > 0 -%}
         {% include faq.html items=page.faq %}
       {%- endif -%}
 
-      <hr class="my-4" />
-
-      <div class="cta-box p-3 p-md-4 border rounded-3">
-        <div class="fw-semibold">Consulta penal confidencial</div>
-        <div class="small text-muted">No envíes documentación sensible sin coordinación previa. La información del sitio es general y no reemplaza el análisis del expediente.</div>
-        <div class="d-flex flex-wrap gap-2 mt-2">
-          <a class="btn btn-primary" href="{{ whatsapp_href }}" target="_blank" rel="noopener" data-track="final-whatsapp">{{ primary_cta }}</a>
+      <section class="article-cta" aria-labelledby="article-cta-title">
+        <div>
+          <div class="section-kicker section-kicker-light">Próximo paso</div>
+          <h2 id="article-cta-title">El próximo paso es revisar tu situación</h2>
+          <p>No envíes documentación sensible sin coordinación previa. Cada situación requiere analizar el expediente, la prueba y la etapa procesal.</p>
+        </div>
+        <div class="button-group">
+          <a class="button button-light" href="{{ whatsapp_href }}" target="_blank" rel="noopener" data-track="final-whatsapp">{{ primary_cta }}</a>
           {%- unless page.url == "/contacto/" -%}
-          <a class="btn btn-outline-primary" href="/contacto/" data-track="final-contact">Ver otras vías de contacto</a>
+          <a class="button button-ghost" href="/contacto/" data-track="final-contact">Ver contacto</a>
           {%- endunless -%}
         </div>
-      </div>
+      </section>
+
+      <a class="back-to-top" href="#page-top">Volver arriba</a>
     </article>
   </div>
 </main>
