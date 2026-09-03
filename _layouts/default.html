@@ -4,7 +4,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    {% seo %}
+    {% seo title=false %}
+    {%- assign seo_page_title = page.title | default: site.title -%}
+    {%- assign seo_title_length = seo_page_title | size -%}
+    {%- if seo_title_length > 65 -%}
+      {%- assign seo_page_title = seo_page_title | truncatewords: 7, '' -%}
+    {%- endif -%}
+    <title>{{ seo_page_title | escape }}</title>
 
     {%- if site.site_noindex == true and page.noindex != false -%}
     <meta name="robots" content="noindex,nofollow" />
@@ -18,9 +24,24 @@
     <link rel="preconnect" href="https://cdn.jsdelivr.net" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all'" />
+    <noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" /></noscript>
     <link href="/assets/creative/css/styles.css" rel="stylesheet" />
     <link rel="stylesheet" href="/assets/css/site.css" />
+
+    {%- if page.url == "/" -%}
+    <style>
+      @media (max-width: 767.98px) {
+        header.masthead {
+          background: linear-gradient(to bottom, rgba(11,42,74,0.86) 0%, rgba(11,42,74,0.86) 100%),
+                      url("/assets/creative/assets/img/bg-masthead-mobile.webp") !important;
+          background-position: center !important;
+          background-repeat: no-repeat !important;
+          background-size: cover !important;
+        }
+      }
+    </style>
+    {%- endif -%}
 
     {% include schema-legalservice.html %}
   </head>
@@ -29,8 +50,8 @@
     {{ content }}
     {% include footer.html %}
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="/assets/creative/js/scripts.js"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script defer src="/assets/creative/js/scripts.js"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       document.addEventListener('click', function (event) {
