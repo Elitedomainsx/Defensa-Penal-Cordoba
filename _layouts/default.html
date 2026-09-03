@@ -43,8 +43,8 @@
       @media (max-width:767.98px){header.masthead{background:linear-gradient(to bottom,rgba(11,42,74,.86),rgba(11,42,74,.86)),url("/assets/creative/assets/img/bg-masthead-mobile.webp")!important;background-position:center!important;background-repeat:no-repeat!important;background-size:cover!important}}
     </style>
 
-    <link rel="preload" href="/assets/creative/css/styles.css" as="style" />
-    <link rel="stylesheet" href="/assets/creative/css/styles.css" media="print" onload="this.media='all'" />
+    <link rel="stylesheet" href="/assets/creative/css/styles.css" media="(min-width: 768px)" />
+    <link rel="stylesheet" href="/assets/creative/css/styles.css" media="print" onload="if (window.matchMedia('(max-width: 767.98px)').matches) this.media='all'" />
     <noscript><link rel="stylesheet" href="/assets/creative/css/styles.css" /></noscript>
     <link rel="stylesheet" href="/assets/css/site.css" />
 
