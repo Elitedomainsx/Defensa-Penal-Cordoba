@@ -14,7 +14,9 @@
     {%- endif -%}
     <title>{{ seo_page_title | escape }}</title>
 
-    {%- if site.site_noindex == true and page.noindex != false -%}
+    {%- if page.noindex == true -%}
+    <meta name="robots" content="noindex,follow" />
+    {%- elsif site.site_noindex == true and page.noindex != false -%}
     <meta name="robots" content="noindex,nofollow" />
     {%- endif -%}
 

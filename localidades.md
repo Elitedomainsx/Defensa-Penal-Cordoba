@@ -4,6 +4,7 @@ title: "Atención penal en Córdoba Capital e interior"
 h1: "Atención penal en Córdoba Capital e interior"
 description: "Consultas de defensa penal en Córdoba Capital y localidades del interior. Modalidad de atención según la urgencia, el expediente y la autoridad interviniente."
 quick: "Las consultas por causas penales de Córdoba Capital y del interior provincial se coordinan según la localidad, la autoridad interviniente, la etapa del expediente y la urgencia concreta. Una primera conversación permite ordenar la información y definir qué modalidad de intervención corresponde evaluar."
+last_updated: "4 de septiembre de 2026"
 faq:
   - q: "¿Atienden consultas por causas del interior de Córdoba?"
     a: "Sí. La posibilidad y modalidad de intervención se evalúan según la localidad, la autoridad que interviene, la etapa procesal, la documentación disponible y la urgencia del caso."

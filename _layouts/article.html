@@ -2,7 +2,7 @@
 layout: default
 ---
 {%- assign page_context = page.h1 | default: page.title | url_encode -%}
-{%- assign whatsapp_href = site.contact.whatsapp_base_url | append: "Hola%2C%20necesito%20asesoramiento%20penal%20en%20Cordoba.%20Consulta%3A%20" | append: page_context -%}
+{%- assign whatsapp_href = site.contact.whatsapp_base_url | append: "Hola%2C%20necesito%20asesoramiento%20penal%20en%20Cordoba.%20Mi%20consulta%20es%20sobre%3A%20" | append: page_context -%}
 {%- assign primary_cta = "Solicitar consulta penal" -%}
 {%- case page.url -%}
   {%- when "/urgencias-penales-cordoba/" -%}{%- assign primary_cta = "Hablar por WhatsApp ahora" -%}
@@ -48,9 +48,10 @@ layout: default
 
       <div class="article-body">
         {{ content }}
+        {% include content-meta.html %}
       </div>
 
-      {%- unless page.hide_attorneys_trust_box -%}
+      {%- unless page.hide_related_services == true -%}
         {% include related-services.html %}
       {%- endunless -%}
 
@@ -62,7 +63,7 @@ layout: default
         <div>
           <div class="section-kicker section-kicker-light">Próximo paso</div>
           <h2 id="article-cta-title">El próximo paso es revisar tu situación</h2>
-          <p>No envíes documentación sensible sin coordinación previa. Cada situación requiere analizar el expediente, la prueba y la etapa procesal.</p>
+          <p>Contanos brevemente qué ocurrió, en qué localidad tramita la causa y si existe una medida o audiencia próxima. No envíes documentación sensible sin coordinación previa.</p>
         </div>
         <div class="button-group">
           <a class="button button-light" href="{{ whatsapp_href }}" target="_blank" rel="noopener" data-track="final-whatsapp">{{ primary_cta }}</a>

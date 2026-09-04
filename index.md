@@ -1,19 +1,20 @@
 ---
 layout: landing
-title: "Defensa penal en Córdoba"
-description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, prisión preventiva, excarcelaciones, recursos y urgencias penales. Consulta confidencial."
+title: "Abogado penalista en Córdoba | Defensa Penal Córdoba"
+description: "Estudio jurídico de defensa penal en Córdoba dirigido por Pablo Jorge Arias Visconti, M.P. 1-43613. Asistencia ante detenciones, imputaciones y citaciones."
+last_updated: "4 de septiembre de 2026"
 ---
 
 <main id="main-content">
   <header class="home-hero">
     <div class="site-shell home-hero-grid">
       <div class="home-hero-copy">
-        <div class="hero-kicker">Defensa penal estratégica · Córdoba</div>
-        <h1>Defensa penal en Córdoba</h1>
-        <p class="hero-lead">Asesoramiento para personas imputadas, detenidas, citadas a declarar o con riesgo de prisión preventiva. Una defensa seria empieza por comprender el expediente y actuar con una estrategia clara.</p>
+        <div class="hero-kicker">Estudio jurídico de defensa penal · Córdoba</div>
+        <h1>Abogado penalista en Córdoba</h1>
+        <p class="hero-lead"><strong>Defensa Penal Córdoba</strong> es el estudio jurídico dirigido por el abogado Pablo Jorge Arias Visconti, M.P. 1-43613. Brinda asistencia a personas imputadas, detenidas o citadas a declarar, y ante riesgo de prisión preventiva, en Córdoba Capital y el interior provincial.</p>
         <div class="button-group hero-actions">
-          <a class="button button-accent" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-track="home-hero-whatsapp">Consultar por WhatsApp</a>
-          <a class="button button-ghost" href="/contacto/" data-track="home-hero-contact">Ver formas de contacto</a>
+          <a class="button button-accent" href="{{ site.contact.whatsapp_base_url }}Hola%2C%20necesito%20consultar%20con%20un%20abogado%20penalista%20en%20C%C3%B3rdoba.%20Mi%20situaci%C3%B3n%20es%3A%20" target="_blank" rel="noopener" data-track="home-hero-whatsapp">Consultar por WhatsApp</a>
+          <a class="button button-ghost" href="tel:{{ site.contact.phone_tel }}" data-track="home-hero-phone">Llamar al estudio</a>
         </div>
         <ul class="hero-trust-list" role="list" aria-label="Modalidad de atención">
           <li>Consulta confidencial</li>
@@ -36,12 +37,12 @@ description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, p
     </div>
   </header>
 
-  <section class="home-section situations-section" aria-labelledby="situations-title">
+  <section class="home-section situations-section" id="situaciones" aria-labelledby="situations-title">
     <div class="site-shell section-grid">
       <header class="section-intro">
         <div class="section-kicker">Orientación inicial</div>
         <h2 id="situations-title">Empezá por la situación concreta</h2>
-        <p>Cada etapa exige decisiones distintas. Estos accesos ayudan a identificar la información más útil antes de avanzar.</p>
+        <p>La intervención puede comenzar ante una urgencia o antes de una decisión sensible. Cada etapa exige revisar información distinta; por eso el primer paso es identificar qué ocurrió, qué autoridad interviene y si existe una fecha o medida próxima.</p>
       </header>
       <div class="situation-list">
         <a href="/familiar-detenido-cordoba/"><span class="situation-number">01</span><span><strong>Familiar detenido</strong><small>Qué datos reunir y qué medidas pueden evaluarse.</small></span></a>
@@ -60,14 +61,31 @@ description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, p
         <div class="section-kicker section-kicker-light">Áreas de intervención</div>
         <h2 id="services-title">Defensa penal con una estrategia ordenada</h2>
         <p>La respuesta jurídica depende del hecho atribuido, la prueba, la autoridad interviniente y la etapa de la causa.</p>
-        <a class="text-link text-link-light" href="/abogado-penalista-cordoba/">Ver el servicio de defensa penal</a>
+        <a class="text-link text-link-light" href="#situaciones">Ver situaciones atendidas</a>
       </header>
       <div class="service-rows">
-        <a href="/abogado-penalista-cordoba/"><span>01</span><strong>Evaluación y estrategia de defensa</strong><small>Análisis inicial del caso, expediente y riesgos concretos.</small></a>
+        <a href="/contacto/"><span>01</span><strong>Evaluación y estrategia de defensa</strong><small>Análisis inicial del caso, expediente y riesgos concretos.</small></a>
         <a href="/urgencias-penales-cordoba/"><span>02</span><strong>Urgencias penales</strong><small>Detenciones, allanamientos, citaciones y medidas próximas.</small></a>
         <a href="/prision-preventiva-cordoba/"><span>03</span><strong>Libertad durante el proceso</strong><small>Prisión preventiva, excarcelación y otras medidas.</small></a>
         <a href="/recursos-penales-cordoba/"><span>04</span><strong>Recursos e impugnaciones</strong><small>Revisión técnica de resoluciones penales desfavorables.</small></a>
         <a href="/habeas-corpus-cordoba/"><span>05</span><strong>Hábeas corpus</strong><small>Evaluación de restricciones de libertad que requieren análisis urgente.</small></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="home-section situations-section" aria-labelledby="defense-work-title">
+    <div class="site-shell section-grid">
+      <header class="section-intro">
+        <div class="section-kicker">Intervención profesional</div>
+        <h2 id="defense-work-title">Qué puede hacer un abogado penalista</h2>
+        <p>La defensa técnica no consiste solamente en presentarse en una causa. Requiere comprender el hecho atribuido, controlar cómo se obtuvo la prueba, conocer las resoluciones dictadas y decidir qué actuación resulta conveniente en cada etapa.</p>
+        <p>Según el caso, el estudio puede revisar una denuncia o imputación, preparar una declaración, intervenir ante una detención, evaluar un pedido de libertad, discutir una prisión preventiva o analizar una resolución penal desfavorable.</p>
+      </header>
+      <div class="situation-list">
+        <a href="/contacto/"><span class="situation-number">01</span><span><strong>Revisión inicial</strong><small>Citaciones, actas, resoluciones y datos confirmados de la causa.</small></span></a>
+        <a href="/imputado-cordoba/"><span class="situation-number">02</span><span><strong>Análisis del expediente</strong><small>Hecho atribuido, prueba disponible, etapa procesal y plazos.</small></span></a>
+        <a href="/recursos-penales-cordoba/"><span class="situation-number">03</span><span><strong>Decisiones defensivas</strong><small>Declaración, producción de prueba, pedidos de libertad o recursos.</small></span></a>
+        <a href="/sobre-nosotros/"><span class="situation-number">04</span><span><strong>Seguimiento claro</strong><small>Explicación de alternativas, riesgos y próximos pasos sin promesas de resultado.</small></span></a>
       </div>
     </div>
   </section>
@@ -97,14 +115,15 @@ description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, p
       <div class="professional-copy">
         <div class="section-kicker">Profesional responsable</div>
         <h2 id="professional-title">Atención personal y análisis prudente de cada causa</h2>
-        <p>Defensa Penal Córdoba es el espacio profesional del abogado Pablo Jorge Arias Visconti. La consulta inicial busca ordenar la información, comprender la etapa del proceso y definir qué conviene revisar antes de actuar.</p>
+        <p>La atención está a cargo del abogado Pablo Jorge Arias Visconti, M.P. 1-43613. La consulta inicial busca ordenar la información, comprender la etapa del proceso y definir qué conviene revisar antes de actuar.</p>
+        <p>Antes de la consulta ayuda reunir la citación o resolución recibida, la autoridad interviniente, el número de expediente si se conoce y una explicación breve de la situación. No es necesario enviar documentación sensible en el primer mensaje.</p>
         <ul>
           <li>Atención en Córdoba Capital e interior.</li>
           <li>Modalidad presencial o remota según el caso.</li>
           <li>Reserva profesional y comunicación clara.</li>
         </ul>
         <div class="button-group">
-          <a class="button" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-track="home-professional-whatsapp">Coordinar una consulta</a>
+          <a class="button" href="{{ site.contact.whatsapp_base_url }}Hola%2C%20quiero%20coordinar%20una%20consulta%20penal%20en%20C%C3%B3rdoba.%20Mi%20situaci%C3%B3n%20es%3A%20" target="_blank" rel="noopener" data-track="home-professional-whatsapp">Coordinar una consulta</a>
           <a class="button button-outline" href="/sobre-nosotros/">Conocer al profesional</a>
         </div>
       </div>
@@ -116,7 +135,7 @@ description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, p
       <header class="section-intro section-intro-wide">
         <div class="section-kicker">Cobertura</div>
         <h2 id="locations-title">Córdoba Capital e interior</h2>
-        <p>La modalidad de intervención se evalúa según la localidad, la autoridad interviniente, la etapa del expediente y la urgencia concreta.</p>
+        <p>El estudio recibe consultas vinculadas con causas de Córdoba Capital y del interior provincial. La posibilidad y modalidad de intervención se evalúan según la localidad, la autoridad interviniente, la etapa del expediente y la urgencia concreta; la mención de una ciudad no implica una oficina física en ese lugar.</p>
       </header>
       <nav class="location-links" aria-label="Localidades de atención">
         <a href="/localidades/">Todas las localidades</a>
@@ -133,10 +152,10 @@ description: "Defensa penal en Córdoba para imputados, detenidos, citaciones, p
       <div>
         <div class="section-kicker section-kicker-light">Consulta confidencial</div>
         <h2 id="home-final-title">El primer paso es entender bien la situación</h2>
-        <p>Un contacto inicial permite identificar la urgencia y definir qué información conviene revisar.</p>
+        <p>Un contacto inicial permite identificar la urgencia, comprobar los datos disponibles y definir qué documentación conviene revisar. La información del sitio es general y no reemplaza el análisis del caso.</p>
       </div>
       <div class="button-group">
-        <a class="button button-accent" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-track="home-final-whatsapp">Escribir por WhatsApp</a>
+        <a class="button button-accent" href="{{ site.contact.whatsapp_base_url }}Hola%2C%20necesito%20asesoramiento%20penal%20en%20C%C3%B3rdoba.%20Mi%20situaci%C3%B3n%20es%3A%20" target="_blank" rel="noopener" data-track="home-final-whatsapp">Escribir por WhatsApp</a>
         <a class="button button-ghost" href="/contacto/" data-track="home-final-contact">Ver contacto completo</a>
       </div>
     </div>

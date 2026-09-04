@@ -6,7 +6,8 @@
     <p>M.P. 1-43613 · Atención en Córdoba Capital e interior, presencial o remota según el caso.</p>
   </div>
   <div class="professional-strip-actions">
-    <a class="button button-small" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-track="trust-whatsapp">Consultar por WhatsApp</a>
+    {%- assign trust_topic = page.h1 | default: page.title | default: "defensa penal" | url_encode -%}
+    <a class="button button-small" href="{{ site.contact.whatsapp_base_url }}Hola%2C%20necesito%20asesoramiento%20penal%20en%20C%C3%B3rdoba.%20Mi%20consulta%20es%20sobre%3A%20{{ trust_topic }}" target="_blank" rel="noopener" data-track="trust-whatsapp">Consultar por WhatsApp</a>
     <a class="text-link" href="/sobre-nosotros/" data-track="trust-profile">Ver perfil profesional</a>
   </div>
 </aside>

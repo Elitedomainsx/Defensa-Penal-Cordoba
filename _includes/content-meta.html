@@ -1,0 +1,14 @@
+{%- if page.sources and page.sources.size > 0 -%}
+<section class="article-sources" aria-labelledby="article-sources-title">
+  <h2 id="article-sources-title">Fuentes oficiales consultadas</h2>
+  <ul>
+    {%- for source in page.sources -%}
+    <li><a href="{{ source.url }}" rel="external">{{ source.label }}</a></li>
+    {%- endfor -%}
+  </ul>
+  <p>La normativa puede cambiar y debe verificarse para el expediente concreto.</p>
+</section>
+{%- endif -%}
+{%- if page.last_updated -%}
+<p class="article-content-meta"><strong>Responsable profesional del sitio:</strong> Abog. Pablo Jorge Arias Visconti, M.P. 1-43613 · <strong>Contenido actualizado:</strong> {{ page.last_updated }}.</p>
+{%- endif -%}

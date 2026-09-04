@@ -4,6 +4,7 @@ title: "Consulta penal por causas en San Francisco"
 h1: "Consulta penal por causas en San Francisco"
 description: "Defensa penal para causas vinculadas con San Francisco, Córdoba. Pasos iniciales ante denuncias, imputaciones, detenciones y audiencias próximas."
 quick: "En una causa vinculada con San Francisco conviene confirmar tres cosas antes de decidir: la oficina que interviene, la situación procesal actual y el próximo vencimiento. La consulta inicial permite revisar esos puntos y evaluar si corresponde una actuación remota o presencial."
+last_updated: "4 de septiembre de 2026"
 faq:
   - q: "¿Qué debo hacer si sólo conozco parte de la causa?"
     a: "Podés iniciar la consulta con los datos confirmados y aclarar qué información falta. Una citación, acta o resolución suele permitir identificar la autoridad y el expediente."
@@ -11,8 +12,6 @@ faq:
     a: "No conviene alterar ni destruir información. Antes de tomar decisiones sobre evidencia digital, corresponde recibir orientación específica y preservar el material disponible."
   - q: "¿Se puede evaluar una medida de libertad?"
     a: "Sí, cuando hay detención puede analizarse qué vía corresponde. La respuesta depende del expediente y no puede garantizarse desde una consulta general."
-  - q: "¿Hay atención permanente en una oficina de San Francisco?"
-    a: "Esta página no afirma una oficina profesional permanente en la ciudad. La modalidad de consulta y cualquier intervención se acuerdan luego de revisar las necesidades del caso."
 ---
 
 ## Primeros pasos ante una causa penal en San Francisco
@@ -39,7 +38,7 @@ Tampoco es prudente contactar a denunciantes o testigos para pedirles que modifi
 
 Antes de presentarte, verificá la fecha, el lugar, la autoridad y el carácter en que fuiste citado. Si falta una página o la imagen es ilegible, intentá obtener una copia completa. La preparación cambia según se trate de una declaración, una comparecencia u otro acto.
 
-Podés consultar las guías sobre [qué ocurre después de una citación](/orientacion-penal/que-pasa-despues-de-una-citacion/) y [qué significa estar imputado](/orientacion-penal/que-significa-estar-imputado/).
+Podés consultar la guía sobre [qué ocurre después de una citación](/orientacion-penal/que-pasa-despues-de-una-citacion/) y el servicio para personas [imputadas en Córdoba](/imputado-cordoba/).
 
 ## Si existe una detención
 
@@ -67,9 +66,3 @@ La primera conversación no sustituye la lectura del expediente. Sí permite:
 - definir si es necesaria una actuación presencial.
 
 La atención se coordina según disponibilidad, urgencia y alcance. Esta página no informa una sede profesional permanente en San Francisco; integra la sección de [localidades atendidas](/localidades/).
-
-## Pedir una primera evaluación
-
-Para consultar, resumí la situación en pocas líneas e indicá la autoridad, la fecha más próxima y un teléfono de contacto. Evitá enviar documentación sensible hasta coordinar qué material es necesario.
-
-👉 **[Consultar por una causa penal](/contacto/)**

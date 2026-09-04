@@ -4,6 +4,7 @@ title: "Defensa penal en Villa Carlos Paz y Punilla"
 h1: "Defensa penal en Villa Carlos Paz y Punilla"
 description: "Consulta por causas penales en Villa Carlos Paz y Punilla: citaciones, detenciones, imputaciones, allanamientos y resoluciones urgentes."
 quick: "Si la situación ocurrió en Villa Carlos Paz o en otra localidad de Punilla, es importante confirmar dónde tramita realmente la causa. La notificación, el expediente y la autoridad interviniente determinan los pasos a evaluar; la cercanía geográfica por sí sola no permite saber qué oficina es competente."
+last_updated: "4 de septiembre de 2026"
 faq:
   - q: "¿Una causa ocurrida en Punilla siempre tramita en Villa Carlos Paz?"
     a: "No debe suponerse. Hay que revisar la denuncia, la citación o el expediente para confirmar la autoridad y la sede que intervienen en el caso concreto."
@@ -11,8 +12,6 @@ faq:
     a: "Conviene conservar el acta, identificar la autoridad que ordenó la medida, registrar los elementos secuestrados y consultar antes de brindar explicaciones informales."
   - q: "¿Puedo pedir una consulta desde otra localidad de Punilla?"
     a: "Sí. La primera evaluación puede coordinarse a distancia y luego se determina si la causa requiere una actuación presencial y dónde debe realizarse."
-  - q: "¿El estudio tiene sede fija en Villa Carlos Paz?"
-    a: "La página no comunica una oficina permanente en Villa Carlos Paz. La atención y cualquier desplazamiento se coordinan después de conocer el expediente y la urgencia."
 ---
 
 ## El lugar del hecho y la sede de la causa pueden no coincidir
@@ -70,9 +69,3 @@ La dirección general de una sede no sustituye las indicaciones de la autoridad 
 La consulta inicial puede hacerse a distancia para identificar el expediente, ordenar documentos y determinar la urgencia. Si corresponde evaluar una intervención presencial, se acuerdan previamente su alcance y disponibilidad.
 
 No se afirma una oficina profesional permanente en Villa Carlos Paz. Esta página complementa la información general sobre [atención en Córdoba Capital e interior](/localidades/).
-
-## Consultar por Villa Carlos Paz o Punilla
-
-Si existe una fecha cercana, mencionála al inicio del mensaje. Indicá también si hay una persona detenida y qué autoridad figura en la documentación.
-
-👉 **[Solicitar una consulta penal](/contacto/)**

@@ -1,49 +1,73 @@
-{%- if page.url == "/" or page.url == "/abogado-penalista-cordoba/" or page.url == "/urgencias-penales-cordoba/" or page.url == "/contacto/" -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "LegalService",
-  "@id": "{{ site.url }}/#legalservice",
-  "name": "Defensa Penal Córdoba",
-  "url": "{{ site.url }}/",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ site.url }}{{ page.url }}"
-  },
-  "image": "{{ site.url }}/assets/img/pablo-jorge-arias-visconti.webp",
-  "areaServed": [
+  "@graph": [
     {
-      "@type": "City",
-      "name": "Córdoba Capital, Argentina"
+      "@type": "WebSite",
+      "@id": "{{ site.url }}/#website",
+      "url": "{{ site.url }}/",
+      "name": "Defensa Penal Córdoba",
+      "description": {{ site.description | jsonify }},
+      "inLanguage": "es-AR",
+      "publisher": { "@id": "{{ site.url }}/#legalservice" }
     },
     {
-      "@type": "AdministrativeArea",
-      "name": "Provincia de Córdoba, Argentina"
+      "@type": "LegalService",
+      "@id": "{{ site.url }}/#legalservice",
+      "name": "Defensa Penal Córdoba",
+      "legalName": "Defensa Penal Córdoba",
+      "url": "{{ site.url }}/",
+      "logo": "{{ site.url }}/favicon.svg",
+      "image": "{{ site.url }}/assets/img/pablo-jorge-arias-visconti.webp",
+      "description": {{ site.description | jsonify }},
+      "telephone": {{ site.contact.phone_tel | jsonify }},
+      "email": {{ site.contact.email | jsonify }},
+      "priceRange": "Consulta previa",
+      "areaServed": [
+        { "@type": "City", "name": "Córdoba Capital, Argentina" },
+        { "@type": "AdministrativeArea", "name": "Provincia de Córdoba, Argentina" },
+        { "@type": "City", "name": "Río Cuarto, Córdoba, Argentina" },
+        { "@type": "City", "name": "Villa María, Córdoba, Argentina" },
+        { "@type": "City", "name": "San Francisco, Córdoba, Argentina" },
+        { "@type": "City", "name": "Villa Carlos Paz, Córdoba, Argentina" }
+      ],
+      "founder": { "@id": "{{ site.url }}/sobre-nosotros/#pablo-jorge-arias-visconti" },
+      "employee": { "@id": "{{ site.url }}/sobre-nosotros/#pablo-jorge-arias-visconti" },
+      "serviceType": "Defensa penal",
+      "knowsAbout": [
+        "Defensa penal",
+        "Urgencias penales",
+        "Personas detenidas",
+        "Citaciones penales",
+        "Prisión preventiva",
+        "Excarcelación",
+        "Recursos penales"
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "{{ site.url }}/sobre-nosotros/#pablo-jorge-arias-visconti",
+      "name": "Pablo Jorge Arias Visconti",
+      "honorificPrefix": "Abog.",
+      "jobTitle": "Abogado",
+      "identifier": "M.P. 1-43613",
+      "url": "{{ site.url }}/sobre-nosotros/",
+      "image": "{{ site.url }}/assets/img/pablo-jorge-arias-visconti.webp",
+      "worksFor": { "@id": "{{ site.url }}/#legalservice" }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "{{ site.url }}{{ page.url }}#webpage",
+      "url": "{{ site.url }}{{ page.url }}",
+      "name": {{ page.title | default: site.title | jsonify }},
+      "description": {{ page.description | default: site.description | jsonify }},
+      "inLanguage": "es-AR",
+      {% if page.last_updated %}"dateModified": "2026-09-04",
+      {% endif %}
+      "isPartOf": { "@id": "{{ site.url }}/#website" },
+      "about": { "@id": "{{ site.url }}/#legalservice" }{% unless page.url == "/" %},
+      "breadcrumb": { "@id": "{{ site.url }}{{ page.url }}#breadcrumb" }{% endunless %}
     }
-  ],
-  "description": {{ site.description | jsonify }},
-  "telephone": {{ site.contact.phone_tel | jsonify }},
-  "email": {{ site.contact.email | jsonify }},
-  "founder": {
-    "@type": "Person",
-    "@id": "{{ site.url }}/sobre-nosotros/#pablo-jorge-arias-visconti",
-    "name": "Pablo Jorge Arias Visconti",
-    "honorificPrefix": "Abog.",
-    "jobTitle": "Abogado",
-    "identifier": "M.P. 1-43613",
-    "url": "{{ site.url }}/sobre-nosotros/",
-    "image": "{{ site.url }}/assets/img/pablo-jorge-arias-visconti.webp"
-  },
-  "serviceType": "Defensa penal",
-  "knowsAbout": [
-    "Defensa penal",
-    "Urgencias penales",
-    "Personas detenidas",
-    "Citaciones penales",
-    "Prisión preventiva",
-    "Excarcelación",
-    "Recursos penales"
   ]
 }
 </script>
-{%- endif -%}

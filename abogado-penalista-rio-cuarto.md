@@ -4,6 +4,7 @@ title: "Abogado penalista para causas en Río Cuarto"
 h1: "Abogado penalista para causas en Río Cuarto"
 description: "Consulta de defensa penal para causas en Río Cuarto: detenciones, citaciones, imputaciones y medidas sobre la libertad. Atención coordinada según el caso."
 quick: "Si la causa tramita en Río Cuarto, el primer paso es identificar la autoridad interviniente, el estado del expediente y la próxima fecha relevante. Con esos datos puede evaluarse la urgencia y la modalidad de atención, sin prometer resultados ni asumir una intervención antes de revisar el caso."
+last_updated: "4 de septiembre de 2026"
 faq:
   - q: "¿Puedo consultar por una causa que tramita en Río Cuarto?"
     a: "Sí. La posibilidad de intervenir se evalúa con los datos de la causa, la autoridad interviniente, la etapa procesal, la documentación disponible y la urgencia."
@@ -11,8 +12,6 @@ faq:
     a: "Conviene informar número de expediente si se conoce, fiscalía o tribunal, carácter de la citación, situación de libertad y fecha de la próxima declaración o audiencia."
   - q: "¿La consulta inicial puede ser remota?"
     a: "Puede coordinarse por teléfono o videollamada cuando resulte adecuado. Si hacen falta actuaciones presenciales, su alcance se define antes de asumir la intervención."
-  - q: "¿Tienen una oficina permanente en Río Cuarto?"
-    a: "Esta página no informa una oficina permanente en Río Cuarto. La atención se coordina según la causa, la ubicación, la urgencia y los actos procesales pendientes."
 ---
 
 ## Una causa en Río Cuarto exige ubicar primero el expediente
@@ -68,9 +67,3 @@ Ese directorio sirve para confirmar una dirección general; no reemplaza la info
 Una primera entrevista puede realizarse a distancia para ordenar antecedentes y documentación. Si el expediente requiere presencia en Río Cuarto, consulta de actuaciones o asistencia a un acto procesal, se evalúan previamente el alcance, la disponibilidad y la forma de intervención.
 
 Esta página forma parte de la información sobre [atención penal en Córdoba Capital e interior](/localidades/) y no implica afirmar una oficina profesional permanente en Río Cuarto.
-
-## Solicitar una evaluación inicial
-
-Si necesitás consultar por una causa en Río Cuarto, indicá qué ocurrió, qué autoridad interviene, si existe una fecha próxima y cuál es la situación de libertad de la persona.
-
-👉 **[Iniciar una consulta penal](/contacto/)**

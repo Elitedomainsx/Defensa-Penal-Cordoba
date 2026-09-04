@@ -4,6 +4,7 @@ title: "Defensa penal para causas en Villa María"
 h1: "Defensa penal para causas en Villa María"
 description: "Orientación y defensa penal para causas en Villa María. Qué informar ante una citación, imputación, detención o resolución con plazo próximo."
 quick: "Ante una causa penal en Villa María conviene construir una cronología simple: qué ocurrió, qué documento se recibió, qué autoridad lo emitió y cuál es la próxima fecha. Esa secuencia permite distinguir una consulta preventiva de una situación que requiere actuación inmediata."
+last_updated: "4 de septiembre de 2026"
 faq:
   - q: "¿Cuándo una consulta penal en Villa María es urgente?"
     a: "La urgencia aumenta si hay una persona detenida, una declaración o audiencia próxima, un allanamiento reciente o un plazo para cuestionar una resolución."
@@ -11,8 +12,6 @@ faq:
     a: "Sí. Conviene revisar el texto completo de la citación y confirmar en qué carácter fue convocada la persona antes de declarar o aportar documentación."
   - q: "¿Cómo se comparte la documentación?"
     a: "Primero es preferible resumir el caso y enumerar los documentos disponibles. Luego se coordina qué material es útil revisar y por qué canal enviarlo."
-  - q: "¿La atención supone una oficina en Villa María?"
-    a: "No. La página informa la posibilidad de consultar por causas vinculadas con Villa María; la modalidad y una eventual intervención se coordinan según cada expediente."
 ---
 
 ## Empezar por una cronología, no por suposiciones
@@ -65,9 +64,3 @@ Un domicilio general del tribunal no identifica necesariamente la dependencia qu
 La conversación inicial puede coordinarse de forma remota para revisar la cronología y determinar qué documentación es relevante. Si luego hace falta una actuación presencial, se define su alcance, disponibilidad y condiciones antes de asumirla.
 
 La información se integra al hub de [atención penal en Córdoba Capital e interior](/localidades/). No se comunica una oficina profesional permanente en Villa María.
-
-## Consultar por una causa en Villa María
-
-Al escribir, indicá la próxima fecha relevante y si la persona está en libertad o detenida. Eso permite priorizar correctamente el primer análisis.
-
-👉 **[Solicitar una consulta confidencial](/contacto/)**

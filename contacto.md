@@ -1,183 +1,47 @@
 ---
 layout: article
-title: "Consulta penal en Córdoba: contacto confidencial"
+title: "Consulta con abogado penalista en Córdoba | Contacto"
 h1: "Consulta penal confidencial en Córdoba"
-description: "Consultá por una causa penal en Córdoba. Atención para imputaciones, detenidos, citaciones, prisión preventiva, excarcelaciones y urgencias penales."
-quick: "Para pedir asesoramiento penal en Córdoba, conviene enviar una descripción breve y ordenada de la situación: si hay una citación, imputación, detención, riesgo de prisión preventiva, pedido de excarcelación o resolución que deba revisarse. La consulta es confidencial y permite analizar el caso antes de declarar, firmar escritos o tomar decisiones procesales sensibles. No se prometen resultados: cada caso depende del expediente, la prueba, la etapa procesal y las decisiones judiciales."
+description: "Contactá a Defensa Penal Córdoba por una detención, imputación, citación, prisión preventiva, pedido de libertad o recurso penal."
+quick: "Podés comunicarte por WhatsApp, teléfono o correo electrónico. Indicá brevemente qué ocurrió, en qué localidad tramita la causa, qué autoridad interviene y si existe una citación, detención, audiencia o plazo próximo. No envíes documentación sensible hasta coordinar cómo compartirla."
+last_updated: "4 de septiembre de 2026"
+hide_related_services: true
 faq:
-  - q: "¿Qué datos conviene enviar en la primera consulta penal?"
-    a: "Conviene indicar nombre, localidad, qué ocurrió, si hay citación o detención, qué fiscalía o tribunal interviene si se conoce, fecha de la medida y si existen documentos o resoluciones. No hace falta enviar documentación sensible en el primer mensaje sin orden previo."
+  - q: "¿Qué datos conviene enviar en el primer mensaje?"
+    a: "La localidad, una explicación breve de lo ocurrido, si hubo citación, imputación o detención, la autoridad interviniente y cualquier fecha próxima. Si no conocés algún dato, igualmente podés consultar."
   - q: "¿Puedo consultar por un familiar detenido?"
-    a: "Sí. En ese caso es útil informar dónde estaría alojado, cuándo fue detenido, qué autoridad interviene, qué delito se menciona y si ya tuvo contacto con una defensa. Con esos datos se puede orientar el primer análisis."
-  - q: "¿La consulta con un abogado penalista es confidencial?"
-    a: "Sí. La consulta profesional está protegida por el deber de confidencialidad. Eso permite explicar la situación con reserva y recibir orientación jurídica adecuada."
-  - q: "¿Qué hago si recibí una citación a declarar?"
-    a: "Antes de presentarte, conviene revisar en qué carácter fuiste citado, qué autoridad interviene y qué consecuencias puede tener la declaración. Declarar sin orientación puede generar errores difíciles de corregir."
-  - q: "¿Se puede garantizar la excarcelación o evitar la prisión preventiva?"
-    a: "No. En materia penal no corresponde prometer resultados. La defensa puede analizar el expediente, discutir fundamentos, presentar pedidos o recursos cuando corresponda, pero la decisión depende del caso y del órgano judicial."
+    a: "Sí. Informá su nombre, dónde estaría alojado, cuándo ocurrió la detención y qué autoridad interviene, si lo sabés. Esos datos permiten ordenar la primera revisión."
+  - q: "¿La consulta es confidencial?"
+    a: "La comunicación con el abogado se trata con reserva profesional. Evitá publicar el caso o enviar documentación sensible por canales que no hayan sido coordinados."
 ---
 
-## Cómo solicitar una consulta penal en Córdoba
+## Qué situaciones podés consultar
 
-Una causa penal requiere actuar con rapidez, pero también con prudencia. Antes de declarar, contestar una intimación, enviar documentación o tomar decisiones procesales, es importante ordenar la información y analizar el caso con criterio técnico.
+Defensa Penal Córdoba recibe consultas de personas imputadas, detenidas, investigadas o citadas a declarar, y de familiares que necesitan comprender una situación penal. También pueden consultarse medidas de coerción, pedidos de libertad, prisión preventiva, hábeas corpus y resoluciones que podrían requerir un recurso.
 
-Desde esta página podés solicitar una **consulta penal confidencial en Córdoba** por una denuncia, citación, imputación, detención, prisión preventiva, excarcelación, recurso o urgencia penal.
+Si hay una persona detenida, una audiencia cercana o un plazo en curso, indicalo al comienzo del mensaje. La urgencia debe identificarse rápido, pero la respuesta jurídica siempre depende de la información comprobable y del estado real del expediente.
 
-👉 **[Consultar con un abogado penalista en Córdoba](/abogado-penalista-cordoba/)**
+## Información útil para el primer contacto
 
-> **Información general:** Esta página brinda información general y no reemplaza el análisis profesional del expediente. En materia penal no se prometen resultados, libertades, sobreseimientos ni absoluciones. Cada caso depende de la prueba, la calificación legal, los antecedentes, la etapa procesal y las decisiones judiciales.
+No hace falta relatar todo el caso ni enviar todos los archivos. Ayuda contar con:
 
----
+- localidad donde ocurrió el hecho o tramita la causa;
+- nombre de la persona involucrada;
+- fiscalía, juzgado o tribunal, si se conoce;
+- número de expediente, si está disponible;
+- fecha de la detención, citación, audiencia o resolución;
+- situación actual y principal preocupación.
 
-## Qué información ayuda en el primer contacto
+Después de esa primera explicación podrá definirse qué citación, acta o resolución resulta necesario revisar.
 
-Para que la consulta sea más útil desde el inicio, conviene enviar un mensaje breve y ordenado. No hace falta escribir una historia extensa ni mandar todos los documentos de entrada.
+## Antes de enviar documentación
 
-### Datos básicos recomendados
+Evitá mandar fotografías desordenadas, audios extensos o información confidencial sin contexto. Tampoco publiques datos del expediente en redes sociales ni contactes a testigos para intentar modificar sus versiones.
 
-- Localidad donde ocurrió el hecho o donde tramita la causa.
-- Si la persona fue denunciada, citada, imputada o detenida.
-- Fecha aproximada del hecho o de la medida judicial.
-- Fiscalía, juzgado o tribunal interviniente, si se conoce.
-- Delito o situación que se menciona en la citación, denuncia o resolución.
-- Si hay una audiencia o declaración próxima.
-- Si existe riesgo de prisión preventiva o una medida ya dictada.
-- Si se necesita revisar una resolución penal desfavorable.
+La consulta inicial sirve para distinguir datos confirmados de versiones informales, identificar la etapa procesal y determinar qué actuación corresponde evaluar. No se garantizan libertades, sobreseimientos, absoluciones ni plazos porque las decisiones dependen del caso y de la autoridad competente.
 
-La primera consulta permite identificar la urgencia, ordenar los datos y definir qué documentación conviene revisar después.
+## Atención en Córdoba Capital e interior
 
----
+La consulta puede coordinarse para causas de Córdoba Capital y del interior provincial. La modalidad presencial o remota y la posibilidad de intervención se definen según la localidad, la autoridad interviniente, la urgencia y las necesidades concretas del expediente.
 
-## Cuándo conviene escribir con urgencia
-
-Algunas situaciones penales requieren respuesta más rápida porque pueden afectar la libertad, la estrategia defensiva o el ejercicio de derechos desde el inicio.
-
-Conviene pedir asesoramiento urgente si:
-
-- Detuvieron a un familiar.
-- La persona está incomunicada o no se sabe dónde está alojada.
-- Hay una citación a declarar próxima.
-- Existe riesgo de prisión preventiva.
-- Ya se dictó una prisión preventiva.
-- Se necesita evaluar un pedido de excarcelación.
-- Hubo allanamiento, secuestro de elementos o medidas sorpresivas.
-- Se recibió una resolución penal con plazo para recurrir.
-
-Para situaciones inmediatas, ingresá en **[urgencias penales en Córdoba](/urgencias-penales-cordoba/)**.
-
----
-
-## Consulta por un familiar detenido
-
-Cuando una persona es detenida, la familia suele tener información incompleta: dónde está alojada, qué fiscalía interviene, cuál es la imputación o cuándo podrá declarar.
-
-En esos casos, el primer mensaje debería incluir, en lo posible:
-
-- Nombre de la persona detenida.
-- Lugar donde estaría alojada.
-- Día y hora aproximada de la detención.
-- Motivo informado por la policía o autoridad interviniente.
-- Si ya declaró o fue asistida por una defensa.
-- Datos de contacto de un familiar directo.
-
-La defensa puede analizar la legalidad de la detención, el estado de la causa y la eventual necesidad de medidas vinculadas a la libertad.
-
-Más información: **[abogado para detenido en Córdoba](/familiar-detenido-cordoba/)**.
-
-👉 **[Consultar por un familiar detenido](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20quiero%20consultar%20por%20un%20familiar%20detenido%20en%20C%C3%B3rdoba.%20Necesito%20saber%20qu%C3%A9%20datos%20enviar%20y%20c%C3%B3mo%20se%20puede%20analizar%20su%20situaci%C3%B3n.)**
-
----
-
-## Consulta antes de declarar
-
-Una citación penal no siempre significa lo mismo. La persona puede haber sido citada como testigo, imputada, investigada o convocada para un acto procesal específico.
-
-Antes de presentarse, conviene revisar:
-
-- En qué carácter fue citada la persona.
-- Qué autoridad emitió la citación.
-- Qué hecho se investiga.
-- Si existe imputación formal.
-- Si corresponde declarar, abstenerse o preparar una estrategia previa.
-- Qué documentación o antecedentes pueden ser relevantes.
-
-Declarar sin asesoramiento puede generar consecuencias difíciles de corregir después. La consulta previa no busca entorpecer el proceso, sino ejercer adecuadamente el derecho de defensa.
-
-Más información: **[citación a declarar en Córdoba](/citacion-a-declarar-cordoba/)**.
-
----
-
-## Consulta por imputación penal
-
-Estar imputado no equivale a estar condenado, pero sí exige tomar la situación con seriedad. Desde ese momento, la defensa debe analizar qué hecho se atribuye, cuál es la calificación legal, qué prueba existe y qué medidas pueden adoptarse.
-
-En una consulta por imputación penal, puede revisarse:
-
-- El hecho atribuido.
-- La calificación legal provisoria.
-- La prueba mencionada en el expediente.
-- La conveniencia o no de declarar.
-- Medidas de prueba útiles para la defensa.
-- Riesgos procesales y posibles medidas de coerción.
-
-Más información: **[imputado en Córdoba](/imputado-cordoba/)**.
-
----
-
-## Consulta por prisión preventiva o excarcelación
-
-Cuando existe riesgo de prisión preventiva, una medida ya dictada o una persona detenida que necesita evaluar un pedido de libertad, la consulta debe ser especialmente ordenada.
-
-Es importante revisar el expediente, los fundamentos de la medida, los riesgos procesales invocados, la situación personal del imputado, sus antecedentes, el arraigo y la prueba disponible.
-
-La defensa puede evaluar si corresponde discutir una prisión preventiva, solicitar una excarcelación, proponer alternativas o presentar un recurso. No se garantiza el resultado, pero sí puede trabajarse una presentación técnica y fundada.
-
-- **[Prisión preventiva en Córdoba](/prision-preventiva-cordoba/)**
-- **[Excarcelación en Córdoba](/excarcelacion-cordoba/)**
-- **[Recursos penales en Córdoba](/recursos-penales-cordoba/)**
-
----
-
-## Documentación: qué enviar y qué evitar
-
-La documentación puede ser muy importante, pero debe compartirse con criterio. En el primer contacto suele alcanzar con explicar la situación y mencionar qué papeles existen.
-
-### Puede ser útil revisar después
-
-- Citaciones.
-- Actas policiales.
-- Resoluciones judiciales.
-- Cédulas o notificaciones.
-- Denuncias.
-- Constancias de detención.
-- Escritos presentados.
-- Datos del expediente.
-
-### Conviene evitar al inicio
-
-- Enviar documentación sensible sin haber explicado el caso.
-- Mandar fotos desordenadas por WhatsApp sin identificar qué es cada archivo.
-- Enviar audios extensos con información confusa.
-- Publicar datos del caso en redes sociales.
-- Consultar a muchas personas sin una estrategia clara.
-
-La defensa penal requiere reserva, orden y análisis técnico.
-
----
-
-## Atención penal en Córdoba Capital e interior
-
-La consulta puede realizarse para causas penales en **Córdoba Capital** y, según el caso, también para situaciones del interior provincial.
-
-Cuando el hecho o la causa tramita fuera de Córdoba Capital, es importante identificar la localidad, la fiscalía o tribunal interviniente y la etapa del proceso. Eso permite evaluar la forma de intervención y los pasos necesarios.
-
-Para una visión general de los servicios, podés ingresar en **[abogado penalista en Córdoba](/abogado-penalista-cordoba/)**.
-
----
-
-## Consultá tu caso penal
-
-Para solicitar una consulta, enviá un mensaje breve con la situación principal. No hace falta remitir toda la documentación en el primer contacto.
-
-👉 **[Ver urgencias penales](/urgencias-penales-cordoba/)**  
-👉 **[Consultar antes de declarar](/citacion-a-declarar-cordoba/)**
+La atención profesional está a cargo del **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**.

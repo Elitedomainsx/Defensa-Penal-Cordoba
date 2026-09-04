@@ -1,21 +1,38 @@
 <nav class="related-services" aria-labelledby="related-services-title">
   <div class="section-kicker">Información relacionada</div>
-  <h2 id="related-services-title">Otras situaciones que podés revisar</h2>
+  <h2 id="related-services-title">También puede ayudarte</h2>
   <div class="related-service-links">
-    {%- unless page.url == "/abogado-penalista-cordoba/" -%}
-    <a href="/abogado-penalista-cordoba/"><strong>Defensa penal</strong><span>Evaluación inicial y estrategia del caso.</span></a>
-    {%- endunless -%}
-    {%- unless page.url == "/familiar-detenido-cordoba/" -%}
-    <a href="/familiar-detenido-cordoba/"><strong>Familiar detenido</strong><span>Primeros datos y medidas urgentes.</span></a>
-    {%- endunless -%}
-    {%- unless page.url == "/citacion-a-declarar-cordoba/" -%}
-    <a href="/citacion-a-declarar-cordoba/"><strong>Citación a declarar</strong><span>Qué revisar antes de presentarse.</span></a>
-    {%- endunless -%}
-    {%- unless page.url == "/prision-preventiva-cordoba/" -%}
-    <a href="/prision-preventiva-cordoba/"><strong>Prisión preventiva</strong><span>Riesgos, fundamentos y revisión.</span></a>
-    {%- endunless -%}
-    {%- unless page.url == "/recursos-penales-cordoba/" -%}
-    <a href="/recursos-penales-cordoba/"><strong>Recursos penales</strong><span>Plazos y resoluciones desfavorables.</span></a>
-    {%- endunless -%}
+    {%- case page.url -%}
+      {%- when "/familiar-detenido-cordoba/" -%}
+        <a href="/orientacion-penal/derechos-persona-detenida/"><strong>Derechos de una persona detenida</strong><span>Información clara para las primeras horas.</span></a>
+        <a href="/excarcelacion-cordoba/"><strong>Pedido de libertad</strong><span>Qué debe revisar la defensa antes de solicitarlo.</span></a>
+        <a href="/habeas-corpus-cordoba/"><strong>Hábeas corpus</strong><span>Cuándo puede corresponder su evaluación.</span></a>
+      {%- when "/imputado-cordoba/" -%}
+        <a href="/orientacion-penal/puedo-declarar-sin-abogado/"><strong>Antes de declarar</strong><span>Qué revisar antes de responder en una causa.</span></a>
+        <a href="/citacion-a-declarar-cordoba/"><strong>Citación penal</strong><span>Cómo ordenar los próximos pasos.</span></a>
+        <a href="/prision-preventiva-cordoba/"><strong>Prisión preventiva</strong><span>Riesgos, fundamentos y alternativas.</span></a>
+      {%- when "/citacion-a-declarar-cordoba/" -%}
+        <a href="/orientacion-penal/puedo-declarar-sin-abogado/"><strong>¿Puedo declarar sin abogado?</strong><span>Diferencias según el carácter de la citación.</span></a>
+        <a href="/orientacion-penal/que-pasa-despues-de-una-citacion/"><strong>Después de la citación</strong><span>Qué actuaciones pueden seguir.</span></a>
+        <a href="/imputado-cordoba/"><strong>Imputación penal</strong><span>Qué significa y cómo actuar.</span></a>
+      {%- when "/prision-preventiva-cordoba/" -%}
+        <a href="/excarcelacion-cordoba/"><strong>Excarcelación</strong><span>Evaluación de un pedido de libertad.</span></a>
+        <a href="/recursos-penales-cordoba/"><strong>Recursos penales</strong><span>Revisión de una resolución desfavorable.</span></a>
+        <a href="/familiar-detenido-cordoba/"><strong>Familiar detenido</strong><span>Información necesaria para la primera consulta.</span></a>
+      {%- when "/excarcelacion-cordoba/" -%}
+        <a href="/prision-preventiva-cordoba/"><strong>Prisión preventiva</strong><span>Qué fundamentos debe examinar la defensa.</span></a>
+        <a href="/recursos-penales-cordoba/"><strong>Recursos penales</strong><span>Alternativas frente a un rechazo.</span></a>
+        <a href="/familiar-detenido-cordoba/"><strong>Familiar detenido</strong><span>Primeros datos y actuación urgente.</span></a>
+      {%- when "/orientacion-penal/derechos-persona-detenida/", "/orientacion-penal/errores-ante-una-detencion/" -%}
+        <a href="/familiar-detenido-cordoba/"><strong>Defensa ante una detención</strong><span>Consulta comercial para analizar el caso.</span></a>
+        <a href="/urgencias-penales-cordoba/"><strong>Urgencias penales</strong><span>Situaciones que requieren atención rápida.</span></a>
+      {%- when "/orientacion-penal/puedo-declarar-sin-abogado/", "/orientacion-penal/que-pasa-despues-de-una-citacion/" -%}
+        <a href="/citacion-a-declarar-cordoba/"><strong>Asistencia ante una citación</strong><span>Consulta antes de presentarte o responder.</span></a>
+        <a href="/imputado-cordoba/"><strong>Imputación penal</strong><span>Qué revisar si ya existe una imputación.</span></a>
+      {%- else -%}
+        <a href="/"><strong>Abogado penalista en Córdoba</strong><span>Servicios y evaluación inicial del caso.</span></a>
+        <a href="/urgencias-penales-cordoba/"><strong>Urgencias penales</strong><span>Detenciones, citaciones y medidas próximas.</span></a>
+        <a href="/contacto/"><strong>Consulta confidencial</strong><span>WhatsApp, teléfono y correo electrónico.</span></a>
+    {%- endcase -%}
   </div>
 </nav>

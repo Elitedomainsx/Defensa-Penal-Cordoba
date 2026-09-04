@@ -1,13 +1,15 @@
 {%- assign nav_classes = "site-nav" -%}
+{%- assign nav_topic = page.h1 | default: page.title | default: "defensa penal" | url_encode -%}
+{%- assign nav_whatsapp = site.contact.whatsapp_base_url | append: "Hola%2C%20necesito%20asesoramiento%20penal%20en%20C%C3%B3rdoba.%20Mi%20consulta%20es%20sobre%3A%20" | append: nav_topic -%}
 {%- unless page.url == "/" -%}
   {%- assign nav_classes = nav_classes | append: " is-solid" -%}
 {%- endunless -%}
 {%- assign defense_group_current = false -%}
-{%- if page.url contains "/abogado-penalista-" or page.url == "/imputado-cordoba/" or page.url == "/citacion-a-declarar-cordoba/" or page.url == "/familiar-detenido-cordoba/" -%}
+{%- if page.url == "/" or page.url contains "/abogado-penalista-" or page.url == "/imputado-cordoba/" or page.url == "/citacion-a-declarar-cordoba/" or page.url == "/familiar-detenido-cordoba/" -%}
   {%- assign defense_group_current = true -%}
 {%- endif -%}
 {%- assign liberty_group_current = false -%}
-{%- if page.url == "/prision-preventiva-cordoba/" or page.url == "/excarcelacion-cordoba/" or page.url == "/habeas-corpus-cordoba/" or page.url == "/orientacion-penal/como-se-revisa-prision-preventiva/" or page.url == "/orientacion-penal/cuando-puede-pedirse-excarcelacion/" -%}
+{%- if page.url == "/prision-preventiva-cordoba/" or page.url == "/excarcelacion-cordoba/" or page.url == "/habeas-corpus-cordoba/" -%}
   {%- assign liberty_group_current = true -%}
 {%- endif -%}
 {%- assign resources_group_current = false -%}
@@ -22,7 +24,7 @@
     </a>
 
     <div class="nav-mobile-actions">
-      <a class="nav-quick-cta" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-track="header-whatsapp">WhatsApp</a>
+      <a class="nav-quick-cta" href="{{ nav_whatsapp }}" target="_blank" rel="noopener" data-track="header-whatsapp">WhatsApp</a>
       <button class="nav-toggle" type="button" aria-controls="site-menu" aria-expanded="false" aria-label="Abrir menú de navegación" data-nav-toggle>
         <span></span><span></span><span></span>
       </button>
@@ -36,7 +38,7 @@
             Defensa penal <span aria-hidden="true"></span>
           </button>
           <ul class="nav-submenu" id="submenu-defensa" aria-labelledby="nav-defensa" data-dropdown-menu>
-            <li><a href="/abogado-penalista-cordoba/"{% if page.url == '/abogado-penalista-cordoba/' %} aria-current="page"{% endif %}>Abogado penalista en Córdoba</a></li>
+            <li><a href="/"{% if page.url == '/' %} aria-current="page"{% endif %}>Abogado penalista en Córdoba</a></li>
             <li><a href="/imputado-cordoba/"{% if page.url == '/imputado-cordoba/' %} aria-current="page"{% endif %}>Imputaciones</a></li>
             <li><a href="/citacion-a-declarar-cordoba/"{% if page.url == '/citacion-a-declarar-cordoba/' %} aria-current="page"{% endif %}>Citación a declarar</a></li>
             <li><a href="/familiar-detenido-cordoba/"{% if page.url == '/familiar-detenido-cordoba/' %} aria-current="page"{% endif %}>Familiar detenido</a></li>
@@ -51,13 +53,13 @@
             <li><a href="/prision-preventiva-cordoba/"{% if page.url == '/prision-preventiva-cordoba/' %} aria-current="page"{% endif %}>Prisión preventiva</a></li>
             <li><a href="/excarcelacion-cordoba/"{% if page.url == '/excarcelacion-cordoba/' %} aria-current="page"{% endif %}>Excarcelación</a></li>
             <li><a href="/habeas-corpus-cordoba/"{% if page.url == '/habeas-corpus-cordoba/' %} aria-current="page"{% endif %}>Hábeas corpus</a></li>
-            <li><a href="/orientacion-penal/como-se-revisa-prision-preventiva/"{% if page.url == '/orientacion-penal/como-se-revisa-prision-preventiva/' %} aria-current="page"{% endif %}>Revisión de prisión preventiva</a></li>
+            <li><a href="/recursos-penales-cordoba/"{% if page.url == '/recursos-penales-cordoba/' %} aria-current="page"{% endif %}>Recursos y revisión</a></li>
           </ul>
         </li>
         <li><a class="nav-link{% if resources_group_current %} is-current{% endif %}" href="/orientacion-penal/"{% if page.url == '/orientacion-penal/' %} aria-current="page"{% endif %}>Recursos</a></li>
         <li><a class="nav-link{% if page.url == '/contacto/' %} is-current{% endif %}" href="/contacto/"{% if page.url == '/contacto/' %} aria-current="page"{% endif %}>Contacto</a></li>
       </ul>
-      <a class="button button-small nav-desktop-cta" href="{{ site.contact.whatsapp_url }}" target="_blank" rel="noopener" data-track="header-whatsapp">Consulta por WhatsApp</a>
+      <a class="button button-small nav-desktop-cta" href="{{ nav_whatsapp }}" target="_blank" rel="noopener" data-track="header-whatsapp">Consulta por WhatsApp</a>
     </div>
   </div>
 </nav>
