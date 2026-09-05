@@ -3,16 +3,17 @@ layout: article
 title: "Errores ante una detención en Córdoba | Guía práctica"
 h1: "Errores que conviene evitar ante una detención"
 description: "Qué no hacer cuando detienen a un familiar en Córdoba y cómo ordenar la información para consultar con una defensa penal."
-quick: "Ante una detención, evitá difundir el caso, discutir versiones con testigos, presentar escritos improvisados o confiar solo en comentarios informales. Reuní datos verificables y consultá para conocer la autoridad, la imputación y las medidas posibles."
-last_updated: "4 de septiembre de 2026"
+quick: "Ante una detención, reuní datos verificables sobre el lugar de alojamiento, la autoridad, la imputación y las actuaciones próximas. Conservá los documentos y coordiná la consulta con la defensa. La persona imputada tiene derecho a asistencia técnica y a abstenerse de declarar."
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 sources:
-  - label: "Código Procesal Penal de Córdoba — Ley 8123 y modificatorias (Poder Judicial de Córdoba)"
-    url: "https://www.justiciacordoba.gob.ar/JusticiaCordoba/files/libros/ddhhLibro3.pdf"
+  - label: "Código Procesal Penal de Córdoba — Ley 8123, texto actualizado, arts. 80 y 258–261 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion"
 faq:
   - q: "¿Conviene publicar el caso para conseguir ayuda?"
     a: "No suele ser prudente. La difusión puede exponer a la persona, revelar información sensible y afectar la estrategia. Primero conviene revisar la situación con reserva."
-  - q: "¿La familia debería hablar con testigos?"
-    a: "No debería intentar influir en relatos ni acordar versiones. Si una persona puede aportar información, comunicalo a la defensa para evaluar cómo proceder legalmente."
+  - q: "¿Cómo puede aportar información útil la familia?"
+    a: "Comunicá a la defensa qué información conocés, quién podría aportarla y qué relación tiene con los hechos. El abogado podrá evaluar su relevancia y proponer las medidas que correspondan."
   - q: "¿Qué sí conviene hacer?"
     a: "Confirmar el lugar de detención, identificar la autoridad, registrar fechas, conservar documentos y preparar una explicación breve y consistente."
 ---
@@ -29,15 +30,15 @@ Publicar nombres, actas, fotografías o versiones en redes sociales puede expone
 
 Conservá la documentación y compartila solamente por canales coordinados con la defensa.
 
-## Contactar testigos o acordar versiones
+## Dejar información útil fuera de la consulta
 
-Intentar convencer a alguien, reconstruir un relato conjunto o pedir que cambie una declaración puede agravar la situación. Si existen testigos o elementos útiles, registrá sus datos y comunicáselos al abogado para que evalúe la forma legal de incorporarlos.
+Si conocés personas o documentos que pueden aportar información, comunicá sus datos a la defensa y explicá qué relación tienen con los hechos. El abogado podrá evaluar su relevancia y cómo incorporarlos al expediente.
 
 ## Declarar para terminar rápido
 
 Una explicación apresurada puede contener errores, omisiones o afirmaciones que después no coincidan con la prueba. Antes de declarar debe conocerse el carácter procesal de la persona, el hecho atribuido y la información disponible en la causa.
 
-Consultar no significa ocultar hechos. Significa decidir de manera informada cómo ejercer el derecho de defensa.
+Si la persona declara como imputada, debe asistir su defensor, bajo pena de nulidad (art. 258 del CPP). También tiene derecho a abstenerse de declarar sin que el silencio implique una presunción de culpabilidad.
 
 ## Confiar solamente en versiones informales
 
@@ -47,7 +48,7 @@ Comentarios de conocidos, mensajes sin identificar o afirmaciones sobre una supu
 
 Enviar cientos de mensajes, fotografías o audios puede dificultar la comprensión. Es mejor preparar una cronología breve, separar los documentos por fecha e indicar qué dato demuestra cada uno.
 
-Tampoco deben eliminarse mensajes, archivos u objetos que pudieran estar relacionados con la investigación.
+Conservá los mensajes, archivos y demás elementos relacionados con la investigación en su estado original y coordiná su presentación con la defensa.
 
 ## Esperar cuando hay una fecha próxima
 

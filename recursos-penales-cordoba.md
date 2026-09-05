@@ -4,13 +4,14 @@ title: "Recursos penales en Córdoba | Revisión de resoluciones"
 h1: "Recursos penales en Córdoba"
 description: "Análisis de resoluciones penales desfavorables en Córdoba. Evaluación de plazos, fundamentos, apelación, casación y otras vías de revisión."
 quick: "Si recibiste una resolución penal desfavorable, conviene revisarla completa cuanto antes. La posibilidad de impugnar depende del tipo de decisión, sus fundamentos, la etapa procesal, el perjuicio concreto y el plazo aplicable."
-last_updated: "4 de septiembre de 2026"
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 sources:
-  - label: "Código Procesal Penal de Córdoba — Ley 8123 y modificatorias (Poder Judicial de Córdoba)"
-    url: "https://www.justiciacordoba.gob.ar/JusticiaCordoba/files/libros/ddhhLibro3.pdf"
+  - label: "Código Procesal Penal de Córdoba — Ley 8123, texto actualizado, arts. 443 y siguientes (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion"
 faq:
   - q: "¿Toda resolución penal puede recurrirse?"
-    a: "No de la misma manera. Debe analizarse qué decisión se dictó, si produce un perjuicio impugnable, qué vía prevé el procedimiento y qué plazo está vigente."
+    a: "No. El art. 443 del CPP establece que las resoluciones son recurribles por los medios y en los casos previstos por la ley. La defensa debe comprobar la resolución, la legitimación, el agravio, la vía y el plazo aplicables."
   - q: "¿Qué documentos necesita el abogado?"
     a: "La resolución completa y su notificación, junto con los escritos o actas directamente relacionados. También son importantes la fecha de conocimiento y los datos del expediente."
   - q: "¿Puede garantizarse que el recurso será aceptado?"
@@ -40,7 +41,9 @@ Una fotografía parcial o un resumen informal no sustituyen la resolución compl
 
 ## Apelación, casación y otras vías
 
-Los nombres de los recursos no deben elegirse por intuición. La apelación, la casación, los planteos de nulidad y otras vías tienen objetos y condiciones diferentes. La herramienta adecuada depende de la decisión, la etapa y la normativa aplicable.
+La apelación y la casación son recursos con resoluciones impugnables, motivos y requisitos propios. El art. 443 del CPP establece que las resoluciones son recurribles por los medios y en los casos previstos por la ley.
+
+Los planteos de nulidad tienen su propio régimen y no deben confundirse automáticamente con un recurso. La herramienta adecuada depende de la decisión, el agravio y la etapa procesal; no existe un plazo único aplicable a todas las impugnaciones.
 
 En algunos casos el trabajo se concentra en cómo se valoró la prueba; en otros, en la falta de fundamentación, la afectación de garantías o la aplicación de una regla procesal. La defensa debe formular una crítica concreta y no repetir argumentos genéricos.
 
@@ -58,6 +61,6 @@ Si hubo una audiencia, indicá cuándo se realizó y si existe registro o acta. 
 
 ## Errores que pueden afectar la revisión
 
-Conviene evitar esperar hasta el último día, presentar escritos sin conocer la resolución completa, cambiar la versión del caso para adaptarla al recurso o confiar en modelos genéricos. Tampoco debe publicarse el expediente ni presionarse a personas vinculadas con la causa.
+Revisá la resolución y su notificación completas cuanto antes. El planteo debe responder a los fundamentos de la decisión y cumplir los requisitos de la vía elegida. Los modelos genéricos no sustituyen ese análisis; compartí la documentación por el canal acordado con la defensa.
 
 Defensa Penal Córdoba es el estudio jurídico dirigido por el **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**. Atiende consultas para revisar resoluciones de causas de Córdoba Capital y el interior provincial. Esta información es general y no reemplaza el análisis del expediente.

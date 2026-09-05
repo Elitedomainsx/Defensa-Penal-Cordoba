@@ -62,7 +62,7 @@
       "name": {{ page.title | default: site.title | jsonify }},
       "description": {{ page.description | default: site.description | jsonify }},
       "inLanguage": "es-AR",
-      {% if page.last_updated %}"dateModified": "2026-09-04",
+      {% if page.last_updated %}"dateModified": {{ page.last_modified_at | default: "2026-09-04" | date: "%Y-%m-%d" | jsonify }},
       {% endif %}
       "isPartOf": { "@id": "{{ site.url }}/#website" },
       "about": { "@id": "{{ site.url }}/#legalservice" }{% unless page.url == "/" %},

@@ -4,7 +4,8 @@ title: "Defensa penal para causas en Villa María"
 h1: "Defensa penal para causas en Villa María"
 description: "Orientación y defensa penal para causas en Villa María. Qué informar ante una citación, imputación, detención o resolución con plazo próximo."
 quick: "Ante una causa penal en Villa María conviene construir una cronología simple: qué ocurrió, qué documento se recibió, qué autoridad lo emitió y cuál es la próxima fecha. Esa secuencia permite distinguir una consulta preventiva de una situación que requiere actuación inmediata."
-last_updated: "4 de septiembre de 2026"
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 faq:
   - q: "¿Cuándo una consulta penal en Villa María es urgente?"
     a: "La urgencia aumenta si hay una persona detenida, una declaración o audiencia próxima, un allanamiento reciente o un plazo para cuestionar una resolución."
@@ -41,7 +42,7 @@ Si hay una declaración próxima, podés revisar la guía sobre [citaciones pena
 
 ## Cuando el problema es la libertad
 
-Si una persona está detenida, la consulta inicial debería concentrarse en datos confirmables: dónde se encuentra, desde cuándo, qué autoridad actúa y si ya tuvo asistencia letrada. No conviene publicar el caso en redes ni contactar a terceros involucrados para influir en sus versiones.
+Si una persona está detenida, la consulta inicial debería concentrarse en datos confirmables: dónde se encuentra, desde cuándo, qué autoridad actúa y si ya tuvo asistencia letrada. Conservá las notificaciones y coordiná con la defensa el envío de información sensible.
 
 La medida adecuada depende de la causa. Puede ser necesario analizar una [excarcelación](/excarcelacion-cordoba/), los fundamentos de una [prisión preventiva](/prision-preventiva-cordoba/) o, en supuestos específicos, un [hábeas corpus](/habeas-corpus-cordoba/).
 

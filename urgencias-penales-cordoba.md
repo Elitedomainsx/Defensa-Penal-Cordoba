@@ -4,10 +4,13 @@ title: "Urgencias penales en Córdoba | Asistencia inmediata"
 h1: "Urgencias penales en Córdoba"
 description: "Asistencia ante detenciones, allanamientos, citaciones inmediatas, riesgo para la libertad y plazos penales urgentes en Córdoba."
 quick: "Hay urgencia penal cuando una detención, allanamiento, audiencia, citación próxima o plazo puede afectar derechos o la libertad. Al comunicarte, indicá qué ocurrió, dónde, qué autoridad interviene y cuál es la fecha más cercana. Evitá declarar o enviar documentación sensible sin comprender antes la situación."
-last_updated: "4 de septiembre de 2026"
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 sources:
-  - label: "Código Procesal Penal de Córdoba — Ley 8123 y modificatorias (Poder Judicial de Córdoba)"
-    url: "https://www.justiciacordoba.gob.ar/JusticiaCordoba/files/libros/ddhhLibro3.pdf"
+  - label: "Código Procesal Penal de Córdoba — Ley 8123, texto actualizado, arts. 175, 258–261, 280 y 283 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion"
+  - label: "Constitución de la Provincia de Córdoba — arts. 40, 42–44 y 47 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-0-123456789-0abc-defg-000-0000ovorpyel/actualizacion"
 faq:
   - q: "¿Qué situaciones suelen requerir atención urgente?"
     a: "Una detención, un allanamiento en curso o reciente, una citación o audiencia próxima, un posible pedido de prisión preventiva o una resolución con plazo para recurrir."
@@ -37,7 +40,7 @@ No ignores la comunicación ni respondas con explicaciones extensas por canales 
 
 ## Si ocurrió un allanamiento
 
-Registrá qué autoridad intervino, qué documentación se entregó y qué objetos fueron identificados o secuestrados. Conservá copias de las actas y no alteres elementos vinculados con la medida.
+Registrá qué autoridad intervino, qué documentación se entregó y qué objetos fueron identificados o secuestrados. Conservá copias de las actas y los elementos vinculados con la medida en su estado original.
 
 La defensa puede revisar la orden, el modo en que se ejecutó y la relación de los elementos obtenidos con la investigación. La legalidad y utilidad de cada planteo dependen del procedimiento concreto.
 
@@ -63,6 +66,6 @@ Una cronología breve permite comprender mejor la urgencia que una sucesión de 
 
 ## Qué conviene evitar
 
-No publiques el caso, no contactes testigos para influir en sus relatos, no elimines mensajes o archivos y no firmes documentos que no comprendas. Tampoco difundas fotografías de actas o resoluciones en grupos abiertos.
+Conservá actas, mensajes y archivos en su estado original. Coordiná con la defensa el envío de documentación sensible y pedí que te expliquen el contenido de cualquier presentación antes de firmarla.
 
 La atención profesional está a cargo del **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**, responsable de Defensa Penal Córdoba. Se reciben consultas urgentes vinculadas con causas de Córdoba Capital y el interior provincial. La posibilidad de intervención se define según la autoridad, la ubicación y las necesidades del caso.

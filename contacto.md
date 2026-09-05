@@ -4,7 +4,8 @@ title: "Consulta con abogado penalista en Córdoba | Contacto"
 h1: "Consulta penal confidencial en Córdoba"
 description: "Contactá a Defensa Penal Córdoba por una detención, imputación, citación, prisión preventiva, pedido de libertad o recurso penal."
 quick: "Podés comunicarte por WhatsApp, teléfono o correo electrónico. Indicá brevemente qué ocurrió, en qué localidad tramita la causa, qué autoridad interviene y si existe una citación, detención, audiencia o plazo próximo. No envíes documentación sensible hasta coordinar cómo compartirla."
-last_updated: "4 de septiembre de 2026"
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 hide_related_services: true
 faq:
   - q: "¿Qué datos conviene enviar en el primer mensaje?"
@@ -36,7 +37,7 @@ Después de esa primera explicación podrá definirse qué citación, acta o res
 
 ## Antes de enviar documentación
 
-Evitá mandar fotografías desordenadas, audios extensos o información confidencial sin contexto. Tampoco publiques datos del expediente en redes sociales ni contactes a testigos para intentar modificar sus versiones.
+Prepará una explicación breve y ordená los documentos por fecha. Coordiná el canal de envío antes de compartir información confidencial y tratá los datos del expediente con reserva.
 
 La consulta inicial sirve para distinguir datos confirmados de versiones informales, identificar la etapa procesal y determinar qué actuación corresponde evaluar. No se garantizan libertades, sobreseimientos, absoluciones ni plazos porque las decisiones dependen del caso y de la autoridad competente.
 

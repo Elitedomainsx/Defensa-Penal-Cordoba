@@ -4,15 +4,18 @@ title: "Defensa pública o abogado particular en Córdoba"
 h1: "Defensa pública o abogado particular en una causa penal"
 description: "Diferencias prácticas entre defensa pública y abogado particular en una causa penal de Córdoba para tomar una decisión informada."
 quick: "Toda persona imputada tiene derecho a defensa. Puede ser asistida por la defensa pública o por un abogado particular. La elección depende de la situación, la posibilidad de designar profesional y las necesidades de comunicación y estrategia; no implica que una modalidad garantice mejores resultados."
-last_updated: "4 de septiembre de 2026"
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 sources:
-  - label: "Código Procesal Penal de Córdoba — Ley 8123 y modificatorias (Poder Judicial de Córdoba)"
-    url: "https://www.justiciacordoba.gob.ar/JusticiaCordoba/files/libros/ddhhLibro3.pdf"
+  - label: "Código Procesal Penal de Córdoba — Ley 8123, texto actualizado, arts. 80 y 118–122 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion"
+  - label: "Constitución de la Provincia de Córdoba — arts. 40 y 49 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-0-123456789-0abc-defg-000-0000ovorpyel/actualizacion"
 faq:
-  - q: "¿La defensa pública es gratuita?"
-    a: "La defensa pública forma parte del sistema estatal y su intervención se rige por las normas aplicables. Para conocer condiciones concretas conviene consultar al organismo correspondiente."
+  - q: "¿Puedo acceder a defensa pública si no tengo abogado?"
+    a: "Si la persona imputada no elige oportunamente un defensor, el art. 121 del CPP prevé como regla la designación de un asesor letrado. La falta de recursos para contratar un abogado particular no debe dejarla sin defensa técnica. El acceso a la justicia por razones económicas está protegido por los arts. 40 y 49 de la Constitución provincial."
   - q: "¿Puedo cambiar de defensa durante la causa?"
-    a: "La posibilidad y forma de designar o sustituir defensa dependen de la situación procesal. El cambio debe realizarse sin dejar a la persona sin asistencia ni afectar plazos."
+    a: "Sí. La designación de un defensor de oficio no impide elegir después otro de confianza. Según el art. 122 del CPP, la sustitución se concreta cuando el nuevo defensor acepta el cargo y fija domicilio. El cambio debe coordinarse sin descuidar los plazos."
   - q: "¿Un abogado particular puede garantizar un resultado?"
     a: "No. Ningún profesional puede garantizar libertad, archivo, sobreseimiento o absolución. La diferencia está en la modalidad de trabajo, no en una promesa de resultado."
 ---
@@ -25,7 +28,7 @@ Si ya existe una defensa, antes de cambiar conviene conocer el estado del expedi
 
 ## Defensa pública
 
-La defensa pública integra el sistema estatal y asiste a personas en las condiciones previstas por sus reglas. Su organización, asignación y disponibilidad dependen del organismo y de la jurisdicción.
+La defensa pública integra el sistema estatal. En el proceso penal provincial, el art. 121 del CPP prevé como regla la designación de un asesor letrado cuando la persona imputada no elige oportunamente defensor. La falta de recursos para contratar un abogado particular no debe impedir el ejercicio de la defensa técnica.
 
 Para valorar esta opción puede ser útil preguntar quién está a cargo, cómo se canalizan las comunicaciones, qué actuaciones están previstas y qué documentación necesita la oficina.
 

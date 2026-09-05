@@ -4,12 +4,13 @@ title: "Consulta penal por causas en San Francisco"
 h1: "Consulta penal por causas en San Francisco"
 description: "Defensa penal para causas vinculadas con San Francisco, Córdoba. Pasos iniciales ante denuncias, imputaciones, detenciones y audiencias próximas."
 quick: "En una causa vinculada con San Francisco conviene confirmar tres cosas antes de decidir: la oficina que interviene, la situación procesal actual y el próximo vencimiento. La consulta inicial permite revisar esos puntos y evaluar si corresponde una actuación remota o presencial."
-last_updated: "4 de septiembre de 2026"
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 faq:
   - q: "¿Qué debo hacer si sólo conozco parte de la causa?"
     a: "Podés iniciar la consulta con los datos confirmados y aclarar qué información falta. Una citación, acta o resolución suele permitir identificar la autoridad y el expediente."
-  - q: "¿Conviene borrar mensajes o publicaciones relacionados con el caso?"
-    a: "No conviene alterar ni destruir información. Antes de tomar decisiones sobre evidencia digital, corresponde recibir orientación específica y preservar el material disponible."
+  - q: "¿Cómo conservar mensajes y archivos relacionados con el caso?"
+    a: "Conservá los archivos originales y registrá de dónde provienen. Coordiná con la defensa cómo resguardarlos y aportarlos al expediente, para preservar su contenido y contexto."
   - q: "¿Se puede evaluar una medida de libertad?"
     a: "Sí, cuando hay detención puede analizarse qué vía corresponde. La respuesta depende del expediente y no puede garantizarse desde una consulta general."
 ---
@@ -30,9 +31,9 @@ Para una evaluación inicial puede seguirse este orden:
 
 ## Preservar documentos y evidencia digital
 
-En muchas consultas aparecen chats, correos, fotografías, audios o publicaciones. Borrar, editar o reenviar indiscriminadamente ese material puede dificultar su análisis. Conviene conservar los archivos originales y explicar de dónde provienen.
+En muchas consultas aparecen chats, correos, fotografías, audios o publicaciones. Conservar los archivos originales y registrar de dónde provienen permite analizarlos con su contexto. Coordiná con la defensa cómo resguardarlos y aportarlos al expediente.
 
-Tampoco es prudente contactar a denunciantes o testigos para pedirles que modifiquen su relato. La defensa debe trabajar por vías lícitas, con reserva y sin crear nuevos riesgos.
+La defensa puede evaluar qué información resulta pertinente y qué medidas corresponde solicitar. Conservá la documentación y compartila por el canal acordado con el profesional.
 
 ## Si recibiste una citación
 

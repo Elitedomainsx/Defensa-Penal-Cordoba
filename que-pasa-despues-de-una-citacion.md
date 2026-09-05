@@ -4,10 +4,13 @@ title: "Qué pasa después de una citación penal en Córdoba"
 h1: "Qué puede pasar después de una citación penal"
 description: "Posibles pasos posteriores a una citación penal en Córdoba, qué documentos conservar y cuándo consultar antes de declarar."
 quick: "Después de una citación puede haber una declaración, una notificación, una audiencia u otra actuación. El paso concreto depende de quién cita, en qué carácter interviene la persona y qué se investiga. Revisar el documento y el expediente evita conclusiones apresuradas."
-last_updated: "4 de septiembre de 2026"
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 sources:
-  - label: "Código Procesal Penal de Córdoba — Ley 8123 y modificatorias (Poder Judicial de Córdoba)"
-    url: "https://www.justiciacordoba.gob.ar/JusticiaCordoba/files/libros/ddhhLibro3.pdf"
+  - label: "Código Procesal Penal de Córdoba — Ley 8123, texto actualizado, arts. 175, 219–225 y 258–261 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion"
+  - label: "Constitución de la Provincia de Córdoba — arts. 39–40 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-0-123456789-0abc-defg-000-0000ovorpyel/actualizacion"
 faq:
   - q: "¿Toda citación termina en una imputación?"
     a: "No. Una persona puede ser citada como testigo o para distintos actos. El carácter y el contenido de la causa deben verificarse antes de anticipar consecuencias."
@@ -38,13 +41,13 @@ La secuencia depende del proceso. No todas las personas citadas quedan imputadas
 
 ## Si la persona fue citada como testigo
 
-Conviene conocer el objeto de la declaración y responder sobre hechos que realmente se conocen, sin completar vacíos con suposiciones. Si una pregunta genera dudas sobre la propia situación jurídica, debe plantearse con prudencia y solicitar orientación.
+En el proceso penal provincial de Córdoba, una citación válida como testigo obliga a comparecer. La inasistencia injustificada puede dar lugar a la conducción por la fuerza pública, incluso a la primera citación (arts. 175, 222 y 225 del CPP). Un impedimento legítimo debe comunicarse sin demora a la autoridad que convocó. La consulta jurídica no suspende por sí sola esa obligación.
 
-No se deben acordar versiones con otros testigos ni revisar el caso públicamente antes del acto.
+El testigo debe declarar con verdad sobre lo que conoce. Existen excepciones legales por determinados vínculos familiares y por secreto profesional, además de la garantía contra la autoincriminación. Si se presenta alguna de estas circunstancias, debe plantearse ante la autoridad: no equivale a la facultad general de abstenerse de declarar que tiene el imputado.
 
 ## Si existe una imputación
 
-La persona imputada tiene garantías específicas y puede abstenerse de declarar. Antes de decidir, la defensa necesita comprender el hecho atribuido, la prueba disponible y los riesgos procesales.
+La persona imputada puede abstenerse de declarar sin que su silencio implique una presunción de culpabilidad. Si declara, debe asistir su defensor, bajo pena de nulidad del acto (arts. 258–261 del CPP). Antes de decidir, tiene derecho a conocer el hecho atribuido y a recibir asistencia técnica.
 
 Después de una imputación pueden ordenarse nuevas medidas, fijarse audiencias o discutirse cuestiones vinculadas con la libertad. Eso no significa que todas ocurrirán en cada caso.
 
@@ -58,6 +61,6 @@ No envíes archivos sensibles a contactos que no hayas verificado ni publiques f
 
 El abogado puede verificar el carácter de la citación, explicar el acto, revisar la existencia de una causa, preparar la declaración y anticipar posibles pasos posteriores. Si hay una audiencia o plazo próximo, debe analizarse con prioridad.
 
-La consulta no busca evadir una obligación. Busca que la persona actúe con información y ejerza correctamente sus derechos.
+La consulta permite comprender las obligaciones del acto y ejercer los derechos correspondientes. Si la fecha es próxima, indicá esa circunstancia al pedir asesoramiento.
 
 Defensa Penal Córdoba está dirigido por el **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**. Atiende consultas vinculadas con causas de Córdoba Capital y el interior provincial. Esta guía es general y no reemplaza el asesoramiento sobre un expediente concreto.

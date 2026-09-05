@@ -3,14 +3,17 @@ layout: article
 title: "Prisión preventiva en Córdoba | Defensa y revisión"
 h1: "Prisión preventiva en Córdoba"
 description: "Asesoramiento ante riesgo o dictado de prisión preventiva en Córdoba. Análisis de fundamentos, alternativas, pedidos de libertad y recursos."
-quick: "La prisión preventiva restringe la libertad mientras la causa sigue en trámite; no es una condena. Si existe riesgo de que sea solicitada o ya fue dictada, la defensa debe revisar de inmediato la imputación, la prueba, los riesgos procesales invocados y la resolución correspondiente."
-last_updated: "4 de septiembre de 2026"
+quick: "La prisión preventiva es una medida excepcional que restringe la libertad durante el proceso. Requiere fundamentos sobre la probable participación punible y riesgos procesales concretos. Si fue solicitada o ya se dictó, la defensa debe revisar la prueba, la resolución y las vías para discutirla."
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 sources:
-  - label: "Código Procesal Penal de Córdoba — Ley 8123 y modificatorias (Poder Judicial de Córdoba)"
-    url: "https://www.justiciacordoba.gob.ar/JusticiaCordoba/files/libros/ddhhLibro3.pdf"
+  - label: "Código Procesal Penal de Córdoba — Ley 8123, texto actualizado, arts. 268–269, 281–283 y 333 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion"
+  - label: "Constitución de la Provincia de Córdoba — arts. 42 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-0-123456789-0abc-defg-000-0000ovorpyel/actualizacion"
 faq:
   - q: "¿La prisión preventiva es una condena?"
-    a: "No. Es una medida procesal que puede restringir la libertad antes de una sentencia. Debe estar fundada y su procedencia puede analizarse o discutirse según el caso."
+    a: "No. Es una medida excepcional durante el proceso. Exige fundamentos sobre la probable participación punible y riesgos procesales acreditados en el caso concreto (art. 281 del CPP). Rige la presunción de inocencia mientras no exista una sentencia firme que declare la culpabilidad."
   - q: "¿Puede revisarse una prisión preventiva ya dictada?"
     a: "Puede corresponder una revisión, un pedido de libertad o un recurso, según la resolución, la etapa y los elementos disponibles. Es necesario examinar el expediente y los plazos."
   - q: "¿Qué información necesita la defensa?"
@@ -22,6 +25,8 @@ faq:
 La prisión preventiva es una de las decisiones más delicadas de una causa penal porque puede mantener privada de libertad a una persona mientras el proceso continúa. Su análisis exige conocer los motivos concretos utilizados por la fiscalía o el tribunal, no solamente el nombre del delito investigado.
 
 Una consulta temprana permite preparar la respuesta antes de una audiencia o revisar la resolución si la medida ya fue dictada. Cuando hay un plazo en curso, conviene indicarlo de inmediato.
+
+La privación de libertad durante el proceso es excepcional (art. 42 de la Constitución provincial y arts. 268–269 del CPP). La prisión preventiva requiere elementos suficientes sobre la probable participación punible y riesgos de fuga o entorpecimiento acreditados en el caso concreto (art. 281). La calificación del delito, por sí sola, no reemplaza esa fundamentación. Deben examinarse también las medidas menos gravosas que resulten adecuadas.
 
 ## Qué debe analizar la defensa
 
@@ -45,7 +50,7 @@ También debe analizarse cuidadosamente cualquier declaración. Lo que conviene 
 
 ## Si la prisión preventiva ya fue ordenada
 
-La resolución debe leerse completa: qué hechos tuvo por acreditados, qué riesgos consideró existentes y qué elementos valoró. Después puede estudiarse si corresponde una revisión, un pedido de libertad, una medida alternativa o un recurso.
+La resolución debe leerse completa: qué hechos tuvo por acreditados, qué riesgos consideró existentes y qué elementos valoró. El art. 282 del CPP prevé la apelación por el imputado y su defensor. Según las circunstancias, también puede corresponder la cesación de la prisión preventiva del art. 283. Son vías con presupuestos propios, que requieren revisar el expediente y los plazos.
 
 No todas las vías tienen los mismos requisitos ni plazos. Tampoco puede garantizarse que la medida será dejada sin efecto. La tarea profesional consiste en identificar las herramientas disponibles y fundar el planteo sobre el expediente real.
 
@@ -57,6 +62,6 @@ Puede ser útil mencionar circunstancias personales y documentación de arraigo,
 
 ## Errores frecuentes
 
-Conviene evitar declaraciones apresuradas, publicaciones sobre la causa, contactos informales con testigos, presentaciones genéricas y demoras en revisar una resolución. La urgencia requiere método: verificar datos, conocer los plazos y definir una estrategia coherente.
+Conviene evitar declaraciones apresuradas, publicaciones sobre la causa, presentaciones genéricas y demoras en revisar una resolución. La urgencia requiere verificar datos, conocer los plazos y definir una estrategia coherente.
 
 Defensa Penal Córdoba es el estudio jurídico dirigido por el **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**. Atiende consultas sobre causas de Córdoba Capital y el interior provincial. La información de esta página es general y no reemplaza el análisis individual.

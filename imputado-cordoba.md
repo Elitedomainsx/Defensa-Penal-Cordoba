@@ -3,14 +3,17 @@ layout: article
 title: "Imputado en Córdoba | Defensa y asesoramiento penal"
 h1: "Imputado en Córdoba: qué significa y cómo actuar"
 description: "Asesoramiento para personas imputadas en Córdoba. Qué implica la imputación, qué revisar antes de declarar y cómo puede intervenir la defensa penal."
-quick: "Estar imputado significa quedar formalmente vinculado a una investigación penal; no significa estar condenado. Desde ese momento conviene conocer el hecho atribuido, la autoridad interviniente, la prueba disponible y cualquier medida próxima antes de declarar o presentar documentación."
-last_updated: "4 de septiembre de 2026"
+quick: "Estar imputado significa que se atribuye a una persona participación en un hecho delictivo; no equivale a una condena. El derecho de defensa puede ejercerse desde el primer momento de la persecución penal dirigida en su contra, sin esperar una imputación formal (art. 80 del CPP de Córdoba)."
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 sources:
-  - label: "Código Procesal Penal de Córdoba — Ley 8123 y modificatorias (Poder Judicial de Córdoba)"
-    url: "https://www.justiciacordoba.gob.ar/JusticiaCordoba/files/libros/ddhhLibro3.pdf"
+  - label: "Código Procesal Penal de Córdoba — Ley 8123, texto actualizado, arts. 1, 80 y 258–261 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion"
+  - label: "Constitución de la Provincia de Córdoba — arts. 39–40 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-0-123456789-0abc-defg-000-0000ovorpyel/actualizacion"
 faq:
   - q: "¿Estar imputado significa estar condenado?"
-    a: "No. La imputación vincula formalmente a una persona con una investigación y habilita el ejercicio de la defensa. Una condena requiere el proceso y la decisión judicial correspondientes."
+    a: "No. Una imputación atribuye participación en un hecho investigado. Rige la presunción de inocencia mientras no exista una sentencia firme que declare la culpabilidad. Los derechos de defensa pueden ejercerse desde el primer momento de la persecución penal, conforme a los arts. 1 y 80 del CPP."
   - q: "¿Conviene declarar inmediatamente?"
     a: "No puede responderse sin conocer el caso. Antes de decidir, la defensa debe revisar en qué carácter fue citada la persona, qué hecho se atribuye y qué información existe en el expediente."
   - q: "¿Qué documentación sirve para la primera consulta?"
@@ -19,7 +22,9 @@ faq:
 
 ## Asesoramiento cuando existe una imputación penal
 
-Una imputación cambia la posición de la persona dentro de la causa: existe un hecho atribuido y, desde ese momento, resulta esencial ejercer la defensa con información y prudencia. El alcance concreto depende del expediente; dos imputaciones con nombres similares pueden encontrarse en etapas distintas, apoyarse en pruebas diferentes y presentar riesgos muy distintos.
+La imputación atribuye a una persona participación en un hecho investigado. No implica una condena. El art. 80 del CPP de Córdoba permite a toda persona sindicada, denunciada o investigada hacer valer los derechos del imputado desde el primer momento de la persecución penal dirigida en su contra; no es necesario esperar un acto formal para ejercer la defensa.
+
+El alcance concreto de la investigación depende del expediente: dos imputaciones con nombres similares pueden encontrarse en etapas distintas, apoyarse en pruebas diferentes y presentar riesgos distintos.
 
 La consulta temprana permite comprender qué se investiga y evitar respuestas improvisadas. También ayuda a distinguir una notificación formal de comentarios informales o versiones de terceros.
 
@@ -34,13 +39,13 @@ Antes de decidir si declarar, aportar documentación o realizar una presentació
 - si hubo allanamientos, secuestros o medidas restrictivas;
 - qué riesgos procesales pueden discutirse.
 
-No conviene explicar el caso por mensajes a personas ajenas, contactar testigos para influir en sus versiones ni publicar detalles en redes sociales. Esas conductas pueden generar nuevos problemas o afectar la estrategia.
+Conservá las notificaciones y coordiná con la defensa qué información y documentación necesita revisar. Tratá los datos del expediente con reserva.
 
 ## Declaración y derecho de defensa
 
-La decisión de declarar debe tomarse después de conocer el carácter de la citación y el estado de la causa. En algunos casos puede ser útil brindar una explicación; en otros, ejercer el derecho a no declarar hasta contar con mejores condiciones de análisis. No existe una respuesta automática válida para todas las investigaciones.
+La persona imputada tiene derecho a abstenerse de declarar, y su silencio no implica una presunción de culpabilidad (arts. 259 y 261). Si declara, debe asistir su defensor, bajo pena de nulidad del acto (art. 258). La conveniencia y el momento de declarar deben analizarse con conocimiento del hecho atribuido y del expediente.
 
-El abogado puede explicar las alternativas, preparar a la persona para el acto y controlar que se respeten sus garantías. Consultar antes no implica obstaculizar la investigación: significa ejercer el derecho de defensa de manera informada.
+El abogado explica las alternativas, asesora a la persona antes del acto y controla que se respeten sus garantías. La asistencia técnica puede ser particular o pública.
 
 ## Qué puede hacer la defensa penal
 

@@ -3,11 +3,14 @@ layout: article
 title: "Cuándo puede pedirse una excarcelación en Córdoba | Guía"
 h1: "Cuándo puede pedirse una excarcelación en Córdoba"
 description: "Guía informativa sobre cuándo puede evaluarse una excarcelación en Córdoba y qué factores debe revisar la defensa penal."
-quick: "La excarcelación es un pedido de libertad dentro de una causa penal. No es automática: la defensa debe revisar la imputación, la prueba, los riesgos procesales, los antecedentes, el arraigo y la etapa del expediente."
-last_updated: "4 de septiembre de 2026"
+quick: "Excarcelación es el término habitual para consultar por la libertad durante una causa penal. En Córdoba, la vía concreta puede ser la recuperación de la libertad (art. 280 del CPP) o la cesación de la prisión preventiva (art. 283), según la medida y la etapa del expediente. La privación de libertad durante el proceso es excepcional."
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 sources:
-  - label: "Código Procesal Penal de Córdoba — Ley 8123 y modificatorias (Poder Judicial de Córdoba)"
-    url: "https://www.justiciacordoba.gob.ar/JusticiaCordoba/files/libros/ddhhLibro3.pdf"
+  - label: "Código Procesal Penal de Córdoba — Ley 8123, texto actualizado, arts. 268–269, 280–283 y 333 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion"
+  - label: "Constitución de la Provincia de Córdoba — arts. 42 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-0-123456789-0abc-defg-000-0000ovorpyel/actualizacion"
 faq:
   - q: "¿Cuándo puede evaluarse una excarcelación?"
     a: "Cuando una persona está detenida y la defensa necesita analizar si existen fundamentos para solicitar que afronte el proceso en libertad. La viabilidad depende del expediente."
@@ -22,6 +25,15 @@ faq:
 La excarcelación es un pedido vinculado con la libertad de una persona detenida en el marco de una causa penal. No cierra la investigación ni elimina la imputación: busca que el proceso pueda continuar con la persona en libertad, cuando las circunstancias lo permiten.
 
 La pregunta no es sólo si puede presentarse, sino cuándo conviene hacerlo, con qué fundamentos y qué información debe acompañarse.
+
+## Qué vías prevé el CPP de Córdoba
+
+El término excarcelación se utiliza habitualmente para consultar por un pedido de libertad. El CPP provincial distingue, entre otras herramientas:
+
+- **Recuperación de la libertad (art. 280):** corresponde en los supuestos legales, como una privación de libertad fuera de los casos autorizados o la falta de mérito para requerir o dictar prisión preventiva.
+- **Cesación de la prisión preventiva (art. 283):** se refiere a una medida ya dictada y procede por las causales que establece la norma, entre ellas nuevos elementos que descarten sus motivos o que la privación de libertad deje de ser indispensable.
+
+La libertad durante el proceso es la regla y su restricción tiene carácter excepcional. La vía debe elegirse según la situación procesal; no existe una presentación idéntica para todos los casos.
 
 ## Factores que suele analizar la defensa
 

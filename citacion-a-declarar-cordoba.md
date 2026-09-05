@@ -3,16 +3,19 @@ layout: article
 title: "Citación a declarar en Córdoba | Consulta antes de asistir"
 h1: "Citación a declarar en Córdoba"
 description: "Recibiste una citación penal en Córdoba. Revisá en qué carácter te convocan, qué documentación conservar y por qué consultar antes de declarar."
-quick: "Antes de presentarte, comprobá quién emitió la citación, en qué carácter te convocan, la fecha, el lugar y el número de expediente. Una persona puede ser citada como testigo, imputada o para otro acto; las consecuencias y los derechos no son iguales."
-last_updated: "4 de septiembre de 2026"
+quick: "Si recibiste una citación válida como testigo, debés comparecer: la inasistencia injustificada puede dar lugar a tu conducción por la fuerza pública. Comprobá la autoridad, la fecha y en qué carácter te convocan. Si vas a declarar como imputado, debe asistir tu defensor."
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 sources:
-  - label: "Código Procesal Penal de Córdoba — Ley 8123 y modificatorias (Poder Judicial de Córdoba)"
-    url: "https://www.justiciacordoba.gob.ar/JusticiaCordoba/files/libros/ddhhLibro3.pdf"
+  - label: "Código Procesal Penal de Córdoba — Ley 8123, texto actualizado, arts. 175, 219–225 y 258–261 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion"
+  - label: "Constitución de la Provincia de Córdoba — arts. 39–40 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-0-123456789-0abc-defg-000-0000ovorpyel/actualizacion"
 faq:
   - q: "¿Una citación significa que estoy imputado?"
     a: "No necesariamente. La citación debe indicar o permitir determinar en qué carácter se convoca a la persona. Conviene revisarla completa y confirmar la información con la autoridad correspondiente."
-  - q: "¿Puedo ignorar una citación penal?"
-    a: "No es prudente ignorarla. Antes de actuar, consultá para comprender su alcance, verificar si es auténtica y organizar una respuesta adecuada dentro del plazo."
+  - q: "¿Puedo faltar a una citación como testigo?"
+    a: "No. Si fuiste citado válidamente como testigo, debés comparecer. Los arts. 175, 222 y 225 del CPP de Córdoba prevén la conducción por la fuerza pública ante una inasistencia injustificada, incluso a la primera citación. Si existe un impedimento legítimo, comunicalo sin demora a la autoridad que te convocó. Consultar a un abogado no suspende por sí solo la citación."
   - q: "¿Qué debería llevar a la consulta?"
     a: "La citación completa, el sobre o medio por el que llegó, datos de la autoridad, número de expediente y cualquier antecedente directamente relacionado."
 ---
@@ -21,7 +24,7 @@ faq:
 
 Una citación penal no es un trámite que deba responderse a ciegas. Puede convocar a una persona como testigo, como imputada o para otra actuación procesal. Antes de concurrir conviene entender el rol, el hecho investigado y las consecuencias de lo que se diga o entregue.
 
-Consultar con tiempo permite verificar la información, preparar preguntas y evitar decisiones impulsivas. Si la fecha es próxima, indicá esa circunstancia en el primer mensaje.
+Consultar con tiempo permite verificar la información y conocer los derechos y obligaciones del acto. La consulta no suspende la citación. Si tenés un impedimento legítimo para asistir, comunicalo sin demora a la autoridad que te convocó y conservá constancia de esa comunicación.
 
 ## Qué revisar en la citación
 
@@ -39,7 +42,11 @@ No te guíes únicamente por una fotografía recortada o por lo que otra persona
 
 ## Testigo e imputado no son lo mismo
 
-El testigo declara sobre hechos que podría conocer y tiene deberes específicos. La persona imputada ejerce su defensa frente a una atribución penal y cuenta con garantías propias, incluida la posibilidad de no declarar. Una citación también puede corresponder a otro acto.
+En las causas regidas por el CPP de Córdoba, el testigo tiene el deber de comparecer y declarar con verdad sobre lo que conoce, salvo las excepciones legales. Los arts. 175, 222 y 225 prevén la conducción por la fuerza pública ante una inasistencia injustificada, incluso a la primera citación. El art. 175 también contempla las costas ocasionadas y el impedimento legítimo comunicado sin demora.
+
+Comparecer y declarar son obligaciones diferentes. Existen supuestos de abstención por determinados vínculos familiares o por secreto profesional, y nadie puede ser obligado a declarar contra sí mismo. Estas circunstancias deben plantearse ante la autoridad; no autorizan por sí solas a ignorar la convocatoria.
+
+La persona imputada puede abstenerse de declarar sin que su silencio implique una presunción de culpabilidad. Si declara, debe asistir su defensor, bajo pena de nulidad del acto (arts. 258–261). El derecho a no declarar no elimina la obligación de atender una citación válida.
 
 La denominación utilizada en una comunicación informal no siempre refleja la posición procesal real. Por eso conviene verificar el carácter antes de preparar cualquier respuesta.
 
@@ -51,15 +58,15 @@ Según el caso, el abogado puede:
 2. identificar si existe una imputación o investigación relacionada;
 3. solicitar o examinar información disponible del expediente;
 4. explicar los derechos y obligaciones correspondientes;
-5. preparar la declaración o evaluar si corresponde abstenerse;
-6. acompañar el acto cuando resulte procedente;
+5. asesorar al imputado sobre su derecho a declarar o abstenerse, o analizar las excepciones legales aplicables al testigo;
+6. asistir a la declaración del imputado y acompañar otros actos cuando corresponda;
 7. analizar los pasos posteriores y los riesgos procesales.
 
-La preparación no consiste en aprender un relato. Consiste en comprender la situación jurídica, preservar derechos y evitar contradicciones o entregas innecesarias de información.
+La preparación permite comprender el acto, ejercer los derechos correspondientes y organizar la documentación necesaria.
 
 ## Errores que conviene evitar
 
-No ignores la citación, no la publiques en redes sociales y no envíes explicaciones extensas a personas ajenas a la defensa. Tampoco contactes a otros involucrados para acordar versiones ni presentes documentos sin conocer su relevancia.
+Conservá la citación completa, registrá su fecha y coordiná con la defensa qué documentación corresponde presentar. Tratá la información del expediente con reserva.
 
 Si dudás de la autenticidad, verificá el canal oficial antes de utilizar teléfonos o enlaces incluidos en mensajes inesperados. Una consulta puede servir para ordenar esa comprobación.
 

@@ -3,11 +3,14 @@ layout: article
 title: "Abogado para detenido en Córdoba | Asistencia penal"
 h1: "Abogado para una persona detenida en Córdoba"
 description: "Asistencia penal cuando detienen a un familiar en Córdoba. Qué datos reunir, qué puede revisar la defensa y cuándo evaluar un pedido de libertad."
-quick: "Si detuvieron a un familiar, intentá confirmar su nombre completo, dónde estaría alojado, cuándo ocurrió la detención y qué autoridad interviene. No difundas el caso ni intentes obtener versiones por tu cuenta. Una defensa penal puede verificar la situación procesal, revisar la legalidad de la detención y evaluar las medidas que correspondan."
-last_updated: "4 de septiembre de 2026"
+quick: "Si detuvieron a un familiar, confirmá su nombre completo, el lugar de alojamiento, cuándo ocurrió la detención y qué autoridad interviene. La persona detenida tiene derecho a conocer el motivo y sus derechos, dar aviso a quien elija y contar con defensa técnica. Conservá las actas y comunicá cualquier audiencia próxima."
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 sources:
-  - label: "Código Procesal Penal de Córdoba — Ley 8123 y modificatorias (Poder Judicial de Córdoba)"
-    url: "https://www.justiciacordoba.gob.ar/JusticiaCordoba/files/libros/ddhhLibro3.pdf"
+  - label: "Código Procesal Penal de Córdoba — Ley 8123, texto actualizado, arts. 80, 118, 121 y 258–261 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion"
+  - label: "Constitución de la Provincia de Córdoba — arts. 40 y 42–44 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-0-123456789-0abc-defg-000-0000ovorpyel/actualizacion"
 faq:
   - q: "¿Qué hago primero si detuvieron a un familiar?"
     a: "Reuní datos básicos: nombre, lugar posible de alojamiento, momento de la detención, autoridad interviniente y cualquier acta o comunicación recibida. Luego consultá para verificar la información."
@@ -60,7 +63,7 @@ No puede garantizarse que una persona recuperará la libertad ni en qué plazo. 
 
 ## Qué debería evitar la familia
 
-Conviene no publicar nombres o documentos de la causa, no contactar a testigos para influir en sus relatos, no firmar presentaciones que no se comprenden y no confiar solamente en versiones informales. Tampoco es útil enviar toda la documentación sin explicar previamente qué ocurrió.
+Conservá los documentos de la causa, verificá las novedades con la defensa y pedí que te expliquen cualquier presentación antes de firmarla. Una descripción breve de lo ocurrido permite coordinar qué documentación hace falta y cómo enviarla con reserva.
 
 La familia puede ayudar conservando notificaciones, registrando fechas y transmitiendo información precisa. Una sola cronología breve suele ser más útil que numerosos mensajes contradictorios.
 

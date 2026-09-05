@@ -3,23 +3,28 @@ layout: article
 title: "Derechos de una persona detenida en Córdoba"
 h1: "Derechos de una persona detenida en Córdoba"
 description: "Guía general sobre derechos ante una detención en Córdoba, información que debe reunir la familia y cuándo solicitar asistencia penal."
-quick: "Una persona detenida conserva sus derechos y debe contar con asistencia jurídica. La familia debería intentar conocer dónde está alojada, qué autoridad interviene, por qué motivo se produjo la detención y si existe una declaración o audiencia próxima."
-last_updated: "4 de septiembre de 2026"
+quick: "Una persona detenida tiene derecho a conocer, en el mismo acto, el hecho que motiva la detención y sus derechos, a dar aviso a quien elija y a contar con defensa técnica. Si declara como imputada, debe asistir su defensor. La familia puede ayudar reuniendo datos sobre el alojamiento, la autoridad y las actuaciones próximas."
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 sources:
-  - label: "Código Procesal Penal de Córdoba — Ley 8123 y modificatorias (Poder Judicial de Córdoba)"
-    url: "https://www.justiciacordoba.gob.ar/JusticiaCordoba/files/libros/ddhhLibro3.pdf"
+  - label: "Código Procesal Penal de Córdoba — Ley 8123, texto actualizado, arts. 80, 118, 121 y 258–261 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion"
+  - label: "Constitución de la Provincia de Córdoba — arts. 40 y 42–44 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-0-123456789-0abc-defg-000-0000ovorpyel/actualizacion"
 faq:
   - q: "¿Una persona detenida puede pedir asistencia jurídica?"
-    a: "Sí. El derecho de defensa debe respetarse durante el proceso. La forma concreta de contacto e intervención depende de la autoridad y del lugar de alojamiento."
+    a: "Sí. Tiene derecho a defensa técnica desde el primer momento de la persecución penal, incluso a cargo del Estado. Si va a declarar como imputada, debe asistir su defensor (Constitución provincial, art. 40; CPP, art. 258)."
   - q: "¿La persona tiene que declarar inmediatamente?"
-    a: "La decisión debe adoptarse con asesoramiento y conocimiento de la situación procesal. Una persona imputada cuenta con garantías específicas, incluido el derecho a no declarar."
+    a: "La persona imputada tiene derecho a abstenerse de declarar y su silencio no presume culpabilidad. Si decide declarar, debe asistir su defensor, bajo pena de nulidad. La obligación de atender un acto procesal es distinta del derecho a no declarar."
   - q: "¿Qué puede hacer la familia?"
     a: "Reunir información precisa, conservar actas y notificaciones, evitar difundir el caso y solicitar orientación para verificar la causa y las medidas disponibles."
 ---
 
 ## Garantías básicas durante una detención
 
-La detención no elimina el derecho de defensa ni autoriza tratos ilegítimos. La persona debe ser informada sobre la situación que la afecta y poder contar con asistencia jurídica. El alcance de cada actuación depende de la causa y de la autoridad competente.
+El art. 42 de la Constitución de Córdoba exige que la persona sea informada, en el mismo acto de la detención, del hecho que la motiva y de los derechos que le asisten. También puede dar aviso de su situación a quien elija, y la autoridad debe facilitar los medios para ello.
+
+La defensa técnica está garantizada desde el primer momento de la persecución penal (art. 40). Estos son derechos de la persona detenida, no gestiones que dependan solamente de la iniciativa de su familia.
 
 Esta guía brinda información general. Si existe una detención actual, conviene solicitar una revisión del caso concreto.
 
@@ -38,7 +43,7 @@ Es posible que al comienzo falten datos. Lo importante es registrar qué informa
 
 ## Asistencia y declaración
 
-Antes de una declaración debe conocerse en qué carácter interviene la persona y qué hecho se le atribuye. La persona imputada puede ejercer su derecho de defensa y no debe ser forzada a declarar contra sí misma.
+La persona imputada tiene derecho a conocer el hecho que se le atribuye y a abstenerse de declarar sin que su silencio implique una presunción de culpabilidad. Si declara, debe asistir su defensor, bajo pena de nulidad del acto (arts. 258–261 del CPP). La asistencia puede ser particular o pública.
 
 La conveniencia de declarar o abstenerse no puede resolverse mediante una recomendación general. El abogado necesita analizar el expediente, la prueba conocida y la estrategia defensiva.
 
@@ -50,7 +55,7 @@ Según las circunstancias, la respuesta puede requerir una gestión dentro de la
 
 ## Qué puede hacer la familia
 
-La familia puede ayudar manteniendo una cronología, guardando comunicaciones, aportando datos de salud o contacto relevantes y evitando versiones contradictorias. No conviene publicar el expediente, presionar testigos ni asumir que una promesa informal refleja una decisión judicial.
+La familia puede ayudar manteniendo una cronología, guardando comunicaciones y aportando datos de salud o contacto relevantes. Las novedades del expediente deben confirmarse con la defensa o la autoridad interviniente; una promesa informal no equivale a una decisión judicial.
 
 Para una consulta suele ser suficiente informar nombre completo, lugar de alojamiento, momento de la detención, autoridad interviniente y cualquier audiencia próxima. La documentación sensible puede compartirse después de coordinar el canal.
 

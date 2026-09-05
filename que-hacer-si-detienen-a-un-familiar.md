@@ -4,10 +4,13 @@ title: "Qué hacer si detienen a un familiar en Córdoba | Guía"
 h1: "Qué hacer si detienen a un familiar en Córdoba"
 description: "Guía informativa para familiares de una persona detenida en Córdoba: qué datos reunir, qué evitar y cuándo consultar por la defensa penal."
 quick: "Ante una detención, intentá confirmar el lugar de alojamiento, la hora, la autoridad interviniente y el motivo informado. Consultá rápido, pero evitá publicar datos, dar versiones improvisadas o enviar documentos sensibles sin orientación."
-last_updated: "4 de septiembre de 2026"
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 sources:
-  - label: "Código Procesal Penal de Córdoba — Ley 8123 y modificatorias (Poder Judicial de Córdoba)"
-    url: "https://www.justiciacordoba.gob.ar/JusticiaCordoba/files/libros/ddhhLibro3.pdf"
+  - label: "Código Procesal Penal de Córdoba — Ley 8123, texto actualizado, arts. 80, 118, 121 y 258–261 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion"
+  - label: "Constitución de la Provincia de Córdoba — arts. 40 y 42–44 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-0-123456789-0abc-defg-000-0000ovorpyel/actualizacion"
 faq:
   - q: "¿Qué hago primero si detuvieron a un familiar?"
     a: "Intentá saber dónde se encuentra, qué autoridad interviene, cuándo fue detenido y cuál sería el motivo informado. Luego consultá para ordenar la información y evaluar los pasos urgentes."
@@ -35,7 +38,7 @@ No hace falta esperar a tener toda la documentación. Una conversación ordenada
 
 ## Qué conviene evitar
 
-La urgencia no debería llevar a publicar nombres o documentos, contactar testigos para influir en sus versiones, firmar presentaciones que no se comprenden o entregar explicaciones extensas sin conocer el expediente.
+Conservá actas y notificaciones, registrá la información confirmada y coordiná con la defensa qué documentación necesita. Antes de firmar una presentación, pedí que te expliquen su contenido y alcance.
 
 También conviene evitar enviar audios y capturas desordenadas. Es preferible conservar las notificaciones, anotar fechas y explicar brevemente qué ocurrió y qué información falta.
 

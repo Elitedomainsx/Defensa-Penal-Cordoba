@@ -3,11 +3,14 @@ layout: article
 title: "Excarcelación en Córdoba | Pedido de libertad"
 h1: "Excarcelación en Córdoba"
 description: "Asesoramiento para evaluar un pedido de excarcelación o libertad en una causa penal de Córdoba. Revisión del expediente y de los riesgos procesales."
-quick: "La excarcelación es una vía que la defensa puede evaluar cuando una persona está detenida. No es automática: requiere revisar el hecho atribuido, la prueba, los antecedentes, los riesgos procesales, el arraigo y las decisiones ya dictadas."
-last_updated: "4 de septiembre de 2026"
+quick: "Excarcelación es el término habitual para consultar por la libertad durante una causa penal. En Córdoba, la vía concreta puede ser la recuperación de la libertad (art. 280 del CPP) o la cesación de la prisión preventiva (art. 283), según la medida y la etapa del expediente. La privación de libertad durante el proceso es excepcional."
+last_updated: "5 de septiembre de 2026"
+last_modified_at: "2026-09-05"
 sources:
-  - label: "Código Procesal Penal de Córdoba — Ley 8123 y modificatorias (Poder Judicial de Córdoba)"
-    url: "https://www.justiciacordoba.gob.ar/JusticiaCordoba/files/libros/ddhhLibro3.pdf"
+  - label: "Código Procesal Penal de Córdoba — Ley 8123, texto actualizado, arts. 268–269, 280–283 y 333 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion"
+  - label: "Constitución de la Provincia de Córdoba — arts. 42 (Argentina.gob.ar)"
+    url: "https://www.argentina.gob.ar/normativa/provincial/ley-0-123456789-0abc-defg-000-0000ovorpyel/actualizacion"
 faq:
   - q: "¿La excarcelación garantiza la libertad?"
     a: "No. Ningún resultado puede garantizarse. La defensa puede analizar la procedencia del pedido, preparar sus fundamentos y discutir los motivos de la detención, pero la decisión corresponde a la autoridad competente."
@@ -22,6 +25,15 @@ faq:
 Cuando una persona está detenida, la familia suele preguntar si puede presentarse una excarcelación y cuánto demorará. La respuesta depende del expediente: qué se investiga, qué prueba existe, qué riesgos procesales se sostienen y qué decisiones fueron adoptadas.
 
 El pedido debe ser preparado con argumentos relacionados con el caso. Una presentación genérica o prematura puede no responder a los motivos reales de la detención.
+
+## Qué vías prevé el CPP de Córdoba
+
+El término excarcelación se utiliza habitualmente para consultar por un pedido de libertad. El CPP provincial distingue, entre otras herramientas:
+
+- **Recuperación de la libertad (art. 280):** corresponde en los supuestos legales, como una privación de libertad fuera de los casos autorizados o la falta de mérito para requerir o dictar prisión preventiva.
+- **Cesación de la prisión preventiva (art. 283):** se refiere a una medida ya dictada y procede por las causales que establece la norma, entre ellas nuevos elementos que descarten sus motivos o que la privación de libertad deje de ser indispensable.
+
+La libertad durante el proceso es la regla y su restricción tiene carácter excepcional. La vía debe elegirse según la situación procesal; no existe una presentación idéntica para todos los casos.
 
 ## Qué revisa la defensa
 
@@ -58,6 +70,6 @@ Conservá las actas y notificaciones. En el primer mensaje no hace falta enviar 
 
 ## Prudencia ante una detención
 
-No publiques información del caso, no contactes testigos para intentar cambiar versiones y no firmes presentaciones que no comprendas. Tampoco confíes en promesas de libertad inmediata. Los tiempos y resultados dependen de la causa y de la autoridad competente.
+Conservá las actas y resoluciones, coordiná la documentación con la defensa y pedí que te expliquen las presentaciones antes de firmarlas. Los tiempos y resultados dependen de la causa y de la autoridad competente; no pueden garantizarse de antemano.
 
 Defensa Penal Córdoba es el estudio jurídico dirigido por el **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**. Se reciben consultas por detenciones y pedidos de libertad en Córdoba Capital y el interior provincial. Esta información es general y no reemplaza el asesoramiento individual.
