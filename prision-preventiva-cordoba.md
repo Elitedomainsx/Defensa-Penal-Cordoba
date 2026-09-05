@@ -58,10 +58,10 @@ No todas las vías tienen los mismos requisitos ni plazos. Tampoco puede garanti
 
 Para la primera consulta ayuda contar con el nombre de la persona imputada, lugar de alojamiento si está detenida, autoridad y número de expediente, fecha de la audiencia o resolución, imputación informada y copia de las notificaciones disponibles.
 
-Puede ser útil mencionar circunstancias personales y documentación de arraigo, pero no conviene enviar archivos sensibles o desordenados sin saber antes cuáles son relevantes.
+Puede ser útil mencionar las circunstancias personales y la información de arraigo disponible para determinar qué resulta relevante en el análisis.
 
-## Errores frecuentes
+## Cómo se organiza la revisión
 
-Conviene evitar declaraciones apresuradas, publicaciones sobre la causa, presentaciones genéricas y demoras en revisar una resolución. La urgencia requiere verificar datos, conocer los plazos y definir una estrategia coherente.
+La revisión requiere un método claro: verificar los datos de la causa, conocer los fundamentos de la resolución, identificar los plazos y evaluar qué alternativa jurídica corresponde analizar.
 
 Defensa Penal Córdoba es el estudio jurídico dirigido por el **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**. Atiende consultas sobre causas de Córdoba Capital y el interior provincial. La información de esta página es general y no reemplaza el análisis individual.

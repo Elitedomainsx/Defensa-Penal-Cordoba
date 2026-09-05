@@ -3,7 +3,7 @@ layout: article
 title: "Urgencias penales en Córdoba | Asistencia inmediata"
 h1: "Urgencias penales en Córdoba"
 description: "Asistencia ante detenciones, allanamientos, citaciones inmediatas, riesgo para la libertad y plazos penales urgentes en Córdoba."
-quick: "Hay urgencia penal cuando una detención, allanamiento, audiencia, citación próxima o plazo puede afectar derechos o la libertad. Al comunicarte, indicá qué ocurrió, dónde, qué autoridad interviene y cuál es la fecha más cercana. Evitá declarar o enviar documentación sensible sin comprender antes la situación."
+quick: "Hay urgencia penal cuando una detención, allanamiento, audiencia, citación próxima o plazo puede afectar derechos o la libertad. Al comunicarte, indicá qué ocurrió, dónde, qué autoridad interviene y cuál es la fecha más cercana. Una descripción breve permite identificar qué necesita revisión inmediata."
 last_updated: "5 de septiembre de 2026"
 last_modified_at: "2026-09-05"
 sources:
@@ -24,7 +24,7 @@ faq:
 
 Algunas situaciones no deberían esperar una consulta programada: una persona detenida, una citación para las próximas horas, un allanamiento, una audiencia sobre la libertad o una resolución cuyo plazo podría estar corriendo.
 
-Actuar rápido significa identificar la autoridad, comprobar la información y preservar derechos. No significa improvisar una declaración, discutir con funcionarios o presentar cualquier escrito sin conocer la causa.
+Actuar rápido significa identificar la autoridad, comprobar la información y proteger los derechos de la persona. Una primera revisión permite ordenar esos datos y definir qué requiere atención inmediata.
 
 ## Si hay una persona detenida
 
@@ -34,13 +34,13 @@ La defensa puede verificar el estado procesal, conocer el hecho atribuido, contr
 
 ## Si hay una citación o audiencia próxima
 
-Conservá la notificación completa. Antes de presentarte conviene saber en qué carácter se convoca a la persona, qué acto se realizará y si existe una imputación. Si se trata de una audiencia, resulta fundamental conocer su objeto y la fecha exacta.
+Tené a mano la notificación completa. Antes de presentarte conviene saber en qué carácter se convoca a la persona, qué acto se realizará y si existe una imputación. Si se trata de una audiencia, resulta fundamental conocer su objeto y la fecha exacta.
 
 No ignores la comunicación ni respondas con explicaciones extensas por canales informales. La consulta previa permite preparar una actuación coherente con el expediente.
 
 ## Si ocurrió un allanamiento
 
-Registrá qué autoridad intervino, qué documentación se entregó y qué objetos fueron identificados o secuestrados. Conservá copias de las actas y los elementos vinculados con la medida en su estado original.
+Registrá qué autoridad intervino, qué documentación se entregó y qué objetos fueron identificados o secuestrados. Anotá también si se entregaron actas o constancias y qué información contienen.
 
 La defensa puede revisar la orden, el modo en que se ejecutó y la relación de los elementos obtenidos con la investigación. La legalidad y utilidad de cada planteo dependen del procedimiento concreto.
 
@@ -60,12 +60,12 @@ En el primer mensaje incluí:
 - autoridad interviniente;
 - número de expediente, si se conoce;
 - fecha de la próxima audiencia, declaración o vencimiento;
-- documentos que recibió, sin enviarlos todavía si contienen información sensible.
+- tipo de documento o comunicación que recibió.
 
 Una cronología breve permite comprender mejor la urgencia que una sucesión de audios o versiones incompletas.
 
-## Qué conviene evitar
+## Qué sucede en la primera revisión
 
-Conservá actas, mensajes y archivos en su estado original. Coordiná con la defensa el envío de documentación sensible y pedí que te expliquen el contenido de cualquier presentación antes de firmarla.
+Con los datos iniciales se puede identificar la autoridad interviniente, comprobar si existe una fecha próxima y determinar qué información falta. Esa revisión permite ordenar la consulta y definir qué tipo de asistencia puede requerir el caso.
 
 La atención profesional está a cargo del **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**, responsable de Defensa Penal Córdoba. Se reciben consultas urgentes vinculadas con causas de Córdoba Capital y el interior provincial. La posibilidad de intervención se define según la autoridad, la ubicación y las necesidades del caso.

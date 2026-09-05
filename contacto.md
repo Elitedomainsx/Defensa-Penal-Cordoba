@@ -3,7 +3,7 @@ layout: article
 title: "Consulta con abogado penalista en Córdoba | Contacto"
 h1: "Consulta penal confidencial en Córdoba"
 description: "Contactá a Defensa Penal Córdoba por una detención, imputación, citación, prisión preventiva, pedido de libertad o recurso penal."
-quick: "Podés comunicarte por WhatsApp, teléfono o correo electrónico. Indicá brevemente qué ocurrió, en qué localidad tramita la causa, qué autoridad interviene y si existe una citación, detención, audiencia o plazo próximo. No envíes documentación sensible hasta coordinar cómo compartirla."
+quick: "Podés comunicarte por WhatsApp, teléfono o correo electrónico. Indicá brevemente qué ocurrió, en qué localidad tramita la causa, qué autoridad interviene y si existe una citación, detención, audiencia o plazo próximo. Con esos datos alcanza para iniciar la consulta."
 last_updated: "5 de septiembre de 2026"
 last_modified_at: "2026-09-05"
 hide_related_services: true
@@ -13,7 +13,7 @@ faq:
   - q: "¿Puedo consultar por un familiar detenido?"
     a: "Sí. Informá su nombre, dónde estaría alojado, cuándo ocurrió la detención y qué autoridad interviene, si lo sabés. Esos datos permiten ordenar la primera revisión."
   - q: "¿La consulta es confidencial?"
-    a: "La comunicación con el abogado se trata con reserva profesional. Evitá publicar el caso o enviar documentación sensible por canales que no hayan sido coordinados."
+    a: "La comunicación con el abogado se trata con reserva profesional. En el primer contacto alcanza con una descripción breve y los datos básicos necesarios para comprender la consulta."
 ---
 
 ## Qué situaciones podés consultar
@@ -35,9 +35,9 @@ No hace falta relatar todo el caso ni enviar todos los archivos. Ayuda contar co
 
 Después de esa primera explicación podrá definirse qué citación, acta o resolución resulta necesario revisar.
 
-## Antes de enviar documentación
+## Cómo preparar el primer mensaje
 
-Prepará una explicación breve y ordená los documentos por fecha. Coordiná el canal de envío antes de compartir información confidencial y tratá los datos del expediente con reserva.
+Una explicación breve puede incluir qué ocurrió, cuándo sucedió, qué autoridad interviene y cuál es la preocupación principal. Si existe una audiencia, citación o plazo próximo, indicá la fecha exacta.
 
 La consulta inicial sirve para distinguir datos confirmados de versiones informales, identificar la etapa procesal y determinar qué actuación corresponde evaluar. No se garantizan libertades, sobreseimientos, absoluciones ni plazos porque las decisiones dependen del caso y de la autoridad competente.
 

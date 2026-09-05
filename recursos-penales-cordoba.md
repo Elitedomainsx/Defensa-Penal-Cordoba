@@ -59,8 +59,8 @@ Para la primera consulta resultan útiles la resolución y su notificación comp
 
 Si hubo una audiencia, indicá cuándo se realizó y si existe registro o acta. No demores la consulta por intentar reunir cada documento: primero debe determinarse si corre un plazo.
 
-## Errores que pueden afectar la revisión
+## Cómo se prepara la revisión
 
-Revisá la resolución y su notificación completas cuanto antes. El planteo debe responder a los fundamentos de la decisión y cumplir los requisitos de la vía elegida. Los modelos genéricos no sustituyen ese análisis; compartí la documentación por el canal acordado con la defensa.
+La resolución y su notificación completas permiten identificar los fundamentos, la vía disponible y los plazos aplicables. Cada planteo debe responder a la decisión concreta y cumplir los requisitos correspondientes.
 
 Defensa Penal Córdoba es el estudio jurídico dirigido por el **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**. Atiende consultas para revisar resoluciones de causas de Córdoba Capital y el interior provincial. Esta información es general y no reemplaza el análisis del expediente.

@@ -17,7 +17,7 @@ faq:
   - q: "¿La persona tiene que declarar inmediatamente?"
     a: "La persona imputada tiene derecho a abstenerse de declarar y su silencio no presume culpabilidad. Si decide declarar, debe asistir su defensor, bajo pena de nulidad. La obligación de atender un acto procesal es distinta del derecho a no declarar."
   - q: "¿Qué puede hacer la familia?"
-    a: "Reunir información precisa, conservar actas y notificaciones, evitar difundir el caso y solicitar orientación para verificar la causa y las medidas disponibles."
+    a: "Reunir información precisa, registrar las comunicaciones recibidas y solicitar orientación para verificar la causa y las medidas disponibles."
 ---
 
 ## Garantías básicas durante una detención
@@ -55,9 +55,11 @@ Según las circunstancias, la respuesta puede requerir una gestión dentro de la
 
 ## Qué puede hacer la familia
 
-La familia puede ayudar manteniendo una cronología, guardando comunicaciones y aportando datos de salud o contacto relevantes. Las novedades del expediente deben confirmarse con la defensa o la autoridad interviniente; una promesa informal no equivale a una decisión judicial.
+La familia puede ayudar preparando una cronología, registrando las comunicaciones recibidas y aportando datos de salud o contacto relevantes. También conviene distinguir la información confirmada de los datos que todavía necesitan verificarse.
 
-Para una consulta suele ser suficiente informar nombre completo, lugar de alojamiento, momento de la detención, autoridad interviniente y cualquier audiencia próxima. La documentación sensible puede compartirse después de coordinar el canal.
+Las novedades del expediente deben confirmarse con la defensa o la autoridad interviniente; una comunicación informal no equivale a una decisión judicial.
+
+Para una consulta suele ser suficiente informar nombre completo, lugar de alojamiento, momento de la detención, autoridad interviniente y cualquier audiencia próxima.
 
 ## Cuándo solicitar asistencia penal
 

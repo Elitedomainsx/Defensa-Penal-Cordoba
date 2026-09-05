@@ -3,7 +3,7 @@ layout: article
 title: "Abogado para detenido en Córdoba | Asistencia penal"
 h1: "Abogado para una persona detenida en Córdoba"
 description: "Asistencia penal cuando detienen a un familiar en Córdoba. Qué datos reunir, qué puede revisar la defensa y cuándo evaluar un pedido de libertad."
-quick: "Si detuvieron a un familiar, confirmá su nombre completo, el lugar de alojamiento, cuándo ocurrió la detención y qué autoridad interviene. La persona detenida tiene derecho a conocer el motivo y sus derechos, dar aviso a quien elija y contar con defensa técnica. Conservá las actas y comunicá cualquier audiencia próxima."
+quick: "Si detuvieron a un familiar, confirmá su nombre completo, el lugar de alojamiento, cuándo ocurrió la detención y qué autoridad interviene. La persona detenida tiene derecho a conocer el motivo y sus derechos, dar aviso a quien elija y contar con defensa técnica. Indicá también cualquier audiencia próxima."
 last_updated: "5 de septiembre de 2026"
 last_modified_at: "2026-09-05"
 sources:
@@ -24,7 +24,7 @@ faq:
 
 Una detención genera urgencia e incertidumbre. La familia puede recibir datos incompletos sobre el lugar de alojamiento, el motivo o la autoridad que interviene. El primer objetivo es comprobar esa información y conocer el estado procesal antes de tomar decisiones.
 
-La rapidez importa, pero no debe confundirse con improvisación. Conviene evitar explicaciones públicas, llamados a personas vinculadas con el hecho o el envío desordenado de documentos y audios.
+La rapidez importa. Una explicación breve y ordenada permite identificar qué información está confirmada y qué datos necesitan verificarse en el expediente.
 
 ## Datos que conviene reunir
 
@@ -61,11 +61,9 @@ La detención inicial, la excarcelación y la prisión preventiva son cuestiones
 
 No puede garantizarse que una persona recuperará la libertad ni en qué plazo. Sí puede analizarse el expediente, preparar una presentación fundada y discutir una medida cuando existan herramientas jurídicas para hacerlo.
 
-## Qué debería evitar la familia
+## Cómo puede ayudar la familia
 
-Conservá los documentos de la causa, verificá las novedades con la defensa y pedí que te expliquen cualquier presentación antes de firmarla. Una descripción breve de lo ocurrido permite coordinar qué documentación hace falta y cómo enviarla con reserva.
-
-La familia puede ayudar conservando notificaciones, registrando fechas y transmitiendo información precisa. Una sola cronología breve suele ser más útil que numerosos mensajes contradictorios.
+La familia puede registrar las fechas importantes, reunir las comunicaciones recibidas y transmitir información precisa sobre el lugar de alojamiento y la autoridad interviniente. Una cronología breve permite ordenar la primera consulta e identificar qué datos todavía necesitan verificarse.
 
 ## Atención profesional en Córdoba
 

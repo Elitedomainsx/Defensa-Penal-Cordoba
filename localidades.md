@@ -38,7 +38,7 @@ Estas páginas no implican afirmar la existencia de una oficina permanente en ca
 - Resoluciones, actas o notificaciones recibidas.
 - Situación actual de la persona involucrada.
 
-No hace falta enviar documentación sensible de manera desordenada. Primero conviene explicar brevemente la situación y definir qué material resulta pertinente revisar.
+Para comenzar alcanza con explicar brevemente la situación, indicar la localidad y señalar si existe una fecha próxima. Luego puede definirse qué información resulta pertinente revisar.
 
 ## Situaciones que pueden requerir atención rápida
 

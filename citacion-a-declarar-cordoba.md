@@ -2,7 +2,7 @@
 layout: article
 title: "Citación a declarar en Córdoba | Consulta antes de asistir"
 h1: "Citación a declarar en Córdoba"
-description: "Recibiste una citación penal en Córdoba. Revisá en qué carácter te convocan, qué documentación conservar y por qué consultar antes de declarar."
+description: "Recibiste una citación penal en Córdoba. Revisá en qué carácter te convocan, qué datos contiene el documento y por qué consultar antes de declarar."
 quick: "Si recibiste una citación válida como testigo, debés comparecer: la inasistencia injustificada puede dar lugar a tu conducción por la fuerza pública. Comprobá la autoridad, la fecha y en qué carácter te convocan. Si vas a declarar como imputado, debe asistir tu defensor."
 last_updated: "5 de septiembre de 2026"
 last_modified_at: "2026-09-05"
@@ -28,7 +28,7 @@ Consultar con tiempo permite verificar la información y conocer los derechos y 
 
 ## Qué revisar en la citación
 
-Conservá el documento completo y comprobá:
+Tené a mano el documento completo y comprobá:
 
 - nombre de la persona citada;
 - autoridad que emite la citación;
@@ -62,16 +62,16 @@ Según el caso, el abogado puede:
 6. asistir a la declaración del imputado y acompañar otros actos cuando corresponda;
 7. analizar los pasos posteriores y los riesgos procesales.
 
-La preparación permite comprender el acto, ejercer los derechos correspondientes y organizar la documentación necesaria.
+La preparación consiste en comprender la situación jurídica, conocer los derechos aplicables y llegar al acto con las dudas principales aclaradas.
 
-## Errores que conviene evitar
+## Próximos pasos
 
-Conservá la citación completa, registrá su fecha y coordiná con la defensa qué documentación corresponde presentar. Tratá la información del expediente con reserva.
+Reuní la citación completa y anotá las dudas sobre el carácter de la convocatoria, la fecha, el lugar y la documentación solicitada. Esa información permite preparar una consulta concreta y comprender mejor el alcance del acto.
 
-Si dudás de la autenticidad, verificá el canal oficial antes de utilizar teléfonos o enlaces incluidos en mensajes inesperados. Una consulta puede servir para ordenar esa comprobación.
+Si dudás de la autenticidad, verificá la información mediante los canales oficiales del organismo que figura en el documento. Una consulta también puede servir para ordenar esa comprobación.
 
 ## Información para la consulta
 
-Además de la citación, ayuda indicar la localidad, cómo llegó el documento, si hubo contactos previos con la policía o fiscalía y si existen otras notificaciones. No hace falta enviar todo de inmediato: primero puede explicarse la situación y coordinar la documentación necesaria.
+Además de la citación, ayuda indicar la localidad, cómo llegó el documento, si hubo contactos previos con la policía o fiscalía y si existen otras notificaciones. Para comenzar alcanza con explicar la situación y mencionar qué información está disponible.
 
 Defensa Penal Córdoba es el estudio jurídico dirigido por el **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**. Atiende consultas relacionadas con causas de Córdoba Capital y el interior provincial. Esta página brinda información general y no reemplaza el análisis individual del expediente.

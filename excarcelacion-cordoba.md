@@ -66,10 +66,10 @@ También puede ser necesario coordinar la declaración de la persona imputada. E
 
 Ayuda informar nombre completo, lugar de alojamiento, fecha de detención, fiscalía o tribunal, hecho investigado si se conoce, número de expediente, si la persona ya declaró y si existe una audiencia o resolución reciente.
 
-Conservá las actas y notificaciones. En el primer mensaje no hace falta enviar toda la documentación; una explicación ordenada permite definir qué revisar primero.
+Tené a mano las actas y notificaciones recibidas. En el primer mensaje alcanza con una explicación ordenada que permita definir qué revisar primero.
 
-## Prudencia ante una detención
+## Alcance de la evaluación
 
-Conservá las actas y resoluciones, coordiná la documentación con la defensa y pedí que te expliquen las presentaciones antes de firmarlas. Los tiempos y resultados dependen de la causa y de la autoridad competente; no pueden garantizarse de antemano.
+La revisión inicial permite conocer el estado de la causa, los fundamentos de la detención y las alternativas que podrían analizarse. Los tiempos y resultados dependen del expediente y de la autoridad competente, por lo que cada situación requiere una evaluación individual.
 
 Defensa Penal Córdoba es el estudio jurídico dirigido por el **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**. Se reciben consultas por detenciones y pedidos de libertad en Córdoba Capital y el interior provincial. Esta información es general y no reemplaza el asesoramiento individual.

@@ -2,8 +2,8 @@
 layout: article
 title: "Qué hacer si detienen a un familiar en Córdoba | Guía"
 h1: "Qué hacer si detienen a un familiar en Córdoba"
-description: "Guía informativa para familiares de una persona detenida en Córdoba: qué datos reunir, qué evitar y cuándo consultar por la defensa penal."
-quick: "Ante una detención, intentá confirmar el lugar de alojamiento, la hora, la autoridad interviniente y el motivo informado. Consultá rápido, pero evitá publicar datos, dar versiones improvisadas o enviar documentos sensibles sin orientación."
+description: "Guía informativa para familiares de una persona detenida en Córdoba: qué datos reunir, cómo ordenar la información y cuándo consultar por la defensa penal."
+quick: "Ante una detención, intentá confirmar el lugar de alojamiento, la hora, la autoridad interviniente y el motivo informado. Con esos datos puede organizarse una primera consulta y determinar qué información falta verificar."
 last_updated: "5 de septiembre de 2026"
 last_modified_at: "2026-09-05"
 sources:
@@ -14,8 +14,8 @@ sources:
 faq:
   - q: "¿Qué hago primero si detuvieron a un familiar?"
     a: "Intentá saber dónde se encuentra, qué autoridad interviene, cuándo fue detenido y cuál sería el motivo informado. Luego consultá para ordenar la información y evaluar los pasos urgentes."
-  - q: "¿Conviene dar explicaciones por mi familiar?"
-    a: "No conviene improvisar declaraciones ni contactar a personas vinculadas con el hecho. La familia puede aportar datos, pero primero hay que conocer la situación procesal."
+  - q: "¿Cómo puede ayudar la familia?"
+    a: "La familia puede reunir datos básicos, registrar las comunicaciones recibidas e indicar si existe una audiencia o plazo próximo. Primero hay que conocer la situación procesal."
   - q: "¿Qué datos necesito para consultar?"
     a: "Nombre completo, hora y lugar aproximados, dependencia donde estaría alojado, autoridad interviniente y cualquier acta, citación o resolución recibida."
 ---
@@ -36,11 +36,11 @@ Para una consulta inicial ayuda reunir:
 
 No hace falta esperar a tener toda la documentación. Una conversación ordenada permite identificar qué datos son confiables y qué actuaciones deben verificarse.
 
-## Qué conviene evitar
+## Cómo ordenar la información
 
-Conservá actas y notificaciones, registrá la información confirmada y coordiná con la defensa qué documentación necesita. Antes de firmar una presentación, pedí que te expliquen su contenido y alcance.
+Anotá en orden cronológico cuándo ocurrió la detención, qué dependencia o autoridad intervino y qué comunicaciones recibió la familia. Indicá también qué datos están confirmados y cuáles todavía necesitan verificarse.
 
-También conviene evitar enviar audios y capturas desordenadas. Es preferible conservar las notificaciones, anotar fechas y explicar brevemente qué ocurrió y qué información falta.
+Para la primera consulta alcanza con una explicación breve y los datos principales. A partir de esa revisión puede definirse qué información adicional resulta útil para comprender el caso.
 
 ## Qué puede revisar la defensa penal
 

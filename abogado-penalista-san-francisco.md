@@ -9,31 +9,31 @@ last_modified_at: "2026-09-05"
 faq:
   - q: "¿Qué debo hacer si sólo conozco parte de la causa?"
     a: "Podés iniciar la consulta con los datos confirmados y aclarar qué información falta. Una citación, acta o resolución suele permitir identificar la autoridad y el expediente."
-  - q: "¿Cómo conservar mensajes y archivos relacionados con el caso?"
-    a: "Conservá los archivos originales y registrá de dónde provienen. Coordiná con la defensa cómo resguardarlos y aportarlos al expediente, para preservar su contenido y contexto."
+  - q: "¿Qué datos ayudan a identificar la causa?"
+    a: "El número de expediente, la autoridad interviniente, la fecha de la comunicación y el carácter en que fue citada o involucrada la persona."
   - q: "¿Se puede evaluar una medida de libertad?"
     a: "Sí, cuando hay detención puede analizarse qué vía corresponde. La respuesta depende del expediente y no puede garantizarse desde una consulta general."
 ---
 
 ## Primeros pasos ante una causa penal en San Francisco
 
-Una denuncia o citación puede llegar con información incompleta. La respuesta prudente es preservar los documentos recibidos, anotar las fechas relevantes y confirmar qué dependencia interviene. No es recomendable improvisar explicaciones ni intentar reconstruir el expediente mediante rumores.
+Una denuncia o citación puede llegar con información incompleta. Para comenzar, ayuda anotar las fechas relevantes, identificar los documentos recibidos y confirmar qué dependencia interviene.
 
 Para una evaluación inicial puede seguirse este orden:
 
 1. **Identificar la causa.** Buscar número de expediente, autoridad y datos de la notificación.
 2. **Definir la situación actual.** Confirmar si existe citación, imputación, detención o resolución.
 3. **Ubicar el próximo plazo.** Registrar declaraciones, audiencias o vencimientos.
-4. **Preservar la información.** Conservar mensajes, archivos, actas y comunicaciones sin modificarlos.
-5. **Consultar antes de actuar.** Revisar qué conviene presentar, declarar o reservar.
+4. **Ordenar la información.** Preparar una cronología breve e identificar las comunicaciones recibidas.
+5. **Preparar la consulta.** Anotar las dudas principales y la preocupación inmediata.
 
 > **Información general:** Estos pasos son orientativos. La estrategia sólo puede definirse luego de analizar el expediente y las circunstancias de la persona involucrada.
 
-## Preservar documentos y evidencia digital
+## Información disponible para la consulta
 
-En muchas consultas aparecen chats, correos, fotografías, audios o publicaciones. Conservar los archivos originales y registrar de dónde provienen permite analizarlos con su contexto. Coordiná con la defensa cómo resguardarlos y aportarlos al expediente.
+En muchas consultas existen chats, correos, fotografías, audios o publicaciones relacionados con la situación. Para comenzar alcanza con indicar qué tipo de información está disponible, de dónde proviene y a qué momento corresponde.
 
-La defensa puede evaluar qué información resulta pertinente y qué medidas corresponde solicitar. Conservá la documentación y compartila por el canal acordado con el profesional.
+La revisión inicial permite determinar qué material puede resultar relevante y qué datos todavía necesitan verificarse.
 
 ## Si recibiste una citación
 

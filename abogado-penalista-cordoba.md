@@ -17,6 +17,6 @@ En la portada vas a encontrar información sobre la intervención de un abogado 
 
 El estudio jurídico está dirigido por el **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**, y recibe consultas sobre Córdoba Capital y el interior provincial. La modalidad de atención se define según la urgencia, la localidad y las características del expediente.
 
-Si existe una audiencia cercana, una detención o un plazo en curso, conviene indicarlo al iniciar el contacto. No hace falta enviar documentación sensible sin coordinar antes qué información es necesaria.
+Si existe una audiencia cercana, una detención o un plazo en curso, conviene indicarlo al iniciar el contacto. Para comenzar alcanza con una descripción breve y los datos básicos de la causa.
 
 **[Ver la portada comercial](/)** · **[Consultar por WhatsApp](https://wa.me/{{ site.contact.whatsapp_number }}?text=Hola%2C%20quiero%20consultar%20por%20una%20situaci%C3%B3n%20penal%20en%20C%C3%B3rdoba.)**

@@ -42,7 +42,7 @@ El imputado tiene derecho a abstenerse de declarar y su silencio no implica una 
 
 Una declaración apresurada puede contener fechas incorrectas, suposiciones presentadas como hechos o contradicciones evitables. También puede llevar a entregar información o documentos sin comprender su relación con la causa.
 
-Conservá el material relevante en su estado original y coordiná con la defensa cómo aportarlo. Compartí la información sensible por el canal acordado.
+Para preparar la consulta, reuní los datos básicos de la citación y anotá las dudas sobre el acto. Si existen mensajes o archivos vinculados con la situación, alcanza con indicar qué tipo de material está disponible para que pueda evaluarse su relevancia.
 
 ## Qué puede revisar el abogado
 
@@ -58,6 +58,6 @@ La asistencia previa puede incluir:
 
 ## Información para la consulta
 
-Conservá la citación completa e indicá cómo la recibiste, en qué localidad, qué fecha fija y si hubo comunicaciones anteriores. Si conocés el número de expediente o la fiscalía, agregalos al primer mensaje.
+Tené a mano la citación completa e indicá cómo la recibiste, en qué localidad, qué fecha fija y si hubo comunicaciones anteriores. Si conocés el número de expediente o la fiscalía, agregalos al primer mensaje.
 
 Defensa Penal Córdoba está dirigido por el **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**. Atiende consultas sobre causas de Córdoba Capital y el interior provincial. Esta guía es general y no reemplaza el análisis individual.

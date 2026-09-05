@@ -22,7 +22,7 @@ Elegí la guía que corresponda a la duda concreta:
 ### Detenciones
 
 - [Derechos de una persona detenida](/orientacion-penal/derechos-persona-detenida/): garantías básicas y datos que la familia debería intentar conocer.
-- [Errores que conviene evitar ante una detención](/orientacion-penal/errores-ante-una-detencion/): decisiones impulsivas que pueden dificultar la defensa.
+- [Cómo organizarse ante una detención](/orientacion-penal/errores-ante-una-detencion/): datos, fechas y comunicaciones útiles para preparar una consulta.
 
 ### Citaciones y declaraciones
 
@@ -37,6 +37,6 @@ Elegí la guía que corresponda a la duda concreta:
 
 Conviene pedir asesoramiento si no está claro en qué carácter fue citada la persona, si ya existe una imputación, si hubo una detención o allanamiento, si se menciona prisión preventiva o si se recibió una resolución desfavorable.
 
-En el primer contacto ayuda informar la localidad, la autoridad interviniente, el número de expediente si se conoce y cualquier fecha cercana. No envíes documentación sensible sin coordinación previa.
+En el primer contacto ayuda informar la localidad, la autoridad interviniente, el número de expediente si se conoce y cualquier fecha cercana. Con esos datos alcanza para comenzar a orientar la consulta.
 
 La atención profesional de Defensa Penal Córdoba está a cargo del **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**. El llamado final de esta página permite pasar de la información general a una consulta confidencial cuando el caso requiere análisis individual.

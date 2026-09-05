@@ -37,7 +37,7 @@ Antes de declarar, aportar documentación o realizar una presentación, la defen
 - la existencia de allanamientos, secuestros, restricciones o detenciones;
 - los riesgos procesales que podrían discutirse.
 
-Conservá las notificaciones y coordiná con la defensa qué información y documentación necesita revisar. Tratá los datos del expediente con reserva.
+Para una primera evaluación ayuda presentar una cronología breve, identificar las comunicaciones oficiales recibidas y señalar cualquier audiencia o fecha próxima. Con esa base puede determinarse qué información requiere una revisión más detallada.
 
 ## Declarar o ejercer el derecho a no declarar
 

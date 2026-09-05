@@ -39,7 +39,7 @@ Antes de decidir si declarar, aportar documentación o realizar una presentació
 - si hubo allanamientos, secuestros o medidas restrictivas;
 - qué riesgos procesales pueden discutirse.
 
-Conservá las notificaciones y coordiná con la defensa qué información y documentación necesita revisar. Tratá los datos del expediente con reserva.
+Para una primera evaluación ayuda presentar una cronología breve, identificar las comunicaciones oficiales recibidas y señalar cualquier audiencia o fecha próxima. Con esa base puede determinarse qué información requiere una revisión más detallada.
 
 ## Declaración y derecho de defensa
 

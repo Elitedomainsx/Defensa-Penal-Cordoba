@@ -45,17 +45,19 @@ En el proceso penal provincial de Córdoba, una citación válida como testigo o
 
 El testigo debe declarar con verdad sobre lo que conoce. Existen excepciones legales por determinados vínculos familiares y por secreto profesional, además de la garantía contra la autoincriminación. Si se presenta alguna de estas circunstancias, debe plantearse ante la autoridad: no equivale a la facultad general de abstenerse de declarar que tiene el imputado.
 
+Antes del acto puede ser útil anotar las dudas sobre la convocatoria y repasar qué hechos conoce la persona de manera directa.
+
 ## Si existe una imputación
 
 La persona imputada puede abstenerse de declarar sin que su silencio implique una presunción de culpabilidad. Si declara, debe asistir su defensor, bajo pena de nulidad del acto (arts. 258–261 del CPP). Antes de decidir, tiene derecho a conocer el hecho atribuido y a recibir asistencia técnica.
 
 Después de una imputación pueden ordenarse nuevas medidas, fijarse audiencias o discutirse cuestiones vinculadas con la libertad. Eso no significa que todas ocurrirán en cada caso.
 
-## Documentos y datos que conviene conservar
+## Información útil para la consulta
 
-Guardá la citación completa, el medio por el que fue recibida, cualquier constancia de presentación y las nuevas notificaciones. Registrá fechas, nombres de autoridades y número de expediente. Si entregás documentación, conservá una copia y constancia de recepción.
+Tené a mano la citación completa, el medio por el que fue recibida, cualquier constancia de presentación y las nuevas notificaciones. Registrá fechas, nombres de autoridades y número de expediente.
 
-No envíes archivos sensibles a contactos que no hayas verificado ni publiques fotografías del expediente.
+Con esos datos puede identificarse el acto, comprobar la autoridad interviniente y preparar las preguntas principales.
 
 ## Cómo puede ayudar una consulta previa
 

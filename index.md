@@ -116,7 +116,7 @@ last_updated: "4 de septiembre de 2026"
         <div class="section-kicker">Profesional responsable</div>
         <h2 id="professional-title">Atención personal y análisis prudente de cada causa</h2>
         <p>La atención está a cargo del abogado Pablo Jorge Arias Visconti, M.P. 1-43613. La consulta inicial busca ordenar la información, comprender la etapa del proceso y definir qué conviene revisar antes de actuar.</p>
-        <p>Antes de la consulta ayuda reunir la citación o resolución recibida, la autoridad interviniente, el número de expediente si se conoce y una explicación breve de la situación. No es necesario enviar documentación sensible en el primer mensaje.</p>
+        <p>Antes de la consulta ayuda identificar la citación o resolución recibida, la autoridad interviniente, el número de expediente si se conoce y una explicación breve de la situación. Con esos datos alcanza para iniciar la conversación.</p>
         <ul>
           <li>Atención en Córdoba Capital e interior.</li>
           <li>Modalidad presencial o remota según el caso.</li>

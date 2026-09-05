@@ -58,6 +58,6 @@ No todas las vías tienen los mismos requisitos ni plazos. Tampoco puede garanti
 
 Para una primera consulta ayuda contar con la imputación, la resolución si existe, los datos de fiscalía o tribunal, la fecha de audiencia, el lugar de alojamiento si la persona está detenida y la información de arraigo que pueda ser relevante.
 
-No conviene enviar archivos sensibles o desordenados sin coordinar antes cuáles son necesarios. Una explicación breve permite detectar la urgencia y los plazos.
+Una explicación breve y ordenada permite detectar la urgencia, identificar los plazos y determinar qué información resulta relevante para la revisión.
 
 Para analizar una causa concreta, consultá **[prisión preventiva en Córdoba](/prision-preventiva-cordoba/)** o **[recursos penales](/recursos-penales-cordoba/)**.

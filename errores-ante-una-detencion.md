@@ -1,62 +1,60 @@
 ---
 layout: article
-title: "Errores ante una detención en Córdoba | Guía práctica"
-h1: "Errores que conviene evitar ante una detención"
-description: "Qué no hacer cuando detienen a un familiar en Córdoba y cómo ordenar la información para consultar con una defensa penal."
-quick: "Ante una detención, reuní datos verificables sobre el lugar de alojamiento, la autoridad, la imputación y las actuaciones próximas. Conservá los documentos y coordiná la consulta con la defensa. La persona imputada tiene derecho a asistencia técnica y a abstenerse de declarar."
+title: "Cómo organizarse ante una detención en Córdoba | Guía"
+h1: "Cómo organizarse ante una detención"
+description: "Información práctica para familiares de una persona detenida en Córdoba: datos básicos, fechas, autoridades y preparación de la consulta."
+quick: "Ante una detención, reuní los datos que puedan confirmarse: lugar de alojamiento, horario, autoridad interviniente y comunicaciones recibidas. Una cronología breve ayuda a conocer la situación y detectar si existe una medida próxima."
 last_updated: "5 de septiembre de 2026"
 last_modified_at: "2026-09-05"
 sources:
   - label: "Código Procesal Penal de Córdoba — Ley 8123, texto actualizado, arts. 80 y 258–261 (Argentina.gob.ar)"
     url: "https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion"
 faq:
-  - q: "¿Conviene publicar el caso para conseguir ayuda?"
-    a: "No suele ser prudente. La difusión puede exponer a la persona, revelar información sensible y afectar la estrategia. Primero conviene revisar la situación con reserva."
-  - q: "¿Cómo puede aportar información útil la familia?"
-    a: "Comunicá a la defensa qué información conocés, quién podría aportarla y qué relación tiene con los hechos. El abogado podrá evaluar su relevancia y proponer las medidas que correspondan."
-  - q: "¿Qué sí conviene hacer?"
-    a: "Confirmar el lugar de detención, identificar la autoridad, registrar fechas, conservar documentos y preparar una explicación breve y consistente."
+  - q: "¿Qué información conviene confirmar primero?"
+    a: "El lugar de detención, el horario aproximado, la autoridad interviniente, el número de expediente si se conoce y cualquier audiencia o fecha próxima."
+  - q: "¿Cómo puede organizarse la información?"
+    a: "Prepará una cronología breve, separá los datos confirmados de los que todavía deben verificarse y reuní las comunicaciones recibidas."
+  - q: "¿Qué pasa si todavía faltan datos?"
+    a: "No hace falta contar con toda la información para consultar. Los datos iniciales permiten comenzar a verificar la situación y determinar qué falta conocer."
 ---
 
-## La urgencia no debe llevar a improvisar
+## Información clara desde el comienzo
 
-Cuando detienen a una persona, la preocupación puede generar decisiones que después resulten difíciles de corregir. La familia necesita actuar rápido, pero sobre datos comprobables y con una estrategia coordinada.
+Cuando detienen a una persona, es habitual que la familia reciba datos parciales o de distintas fuentes. El primer paso es reunir la información disponible y distinguir lo confirmado de aquello que todavía debe verificarse.
 
-Los siguientes errores son frecuentes y esta guía explica por qué conviene evitarlos.
+No hace falta resolver todas las dudas de inmediato. Una consulta inicial permite ordenar el panorama y establecer cuáles son las cuestiones más urgentes.
 
-## Difundir información de la causa
+## Confirmar el lugar y la autoridad
 
-Publicar nombres, actas, fotografías o versiones en redes sociales puede exponer datos sensibles y alcanzar a personas vinculadas con la investigación. La comunicación pública rara vez sustituye una actuación jurídica dentro del expediente.
+Intentá conocer dónde se encuentra la persona y qué dependencia policial, unidad judicial, fiscalía o tribunal interviene. También ayuda registrar quién brindó cada dato y en qué momento.
 
-Conservá la documentación y compartila solamente por canales coordinados con la defensa.
+Si se conoce, anotá el número de expediente o cualquier referencia incluida en una comunicación oficial. Estos datos facilitan la identificación de la causa.
 
-## Dejar información útil fuera de la consulta
+## Preparar una cronología breve
 
-Si conocés personas o documentos que pueden aportar información, comunicá sus datos a la defensa y explicá qué relación tienen con los hechos. El abogado podrá evaluar su relevancia y cómo incorporarlos al expediente.
+Ordená los hechos principales por fecha y hora: cuándo se produjo la detención, cuándo recibió información la familia y qué comunicaciones llegaron después. Una secuencia breve suele ser más clara que una explicación extensa.
 
-## Declarar para terminar rápido
+Indicá qué puntos están confirmados y cuáles provienen de información todavía incompleta. Así resulta más sencillo detectar qué necesita comprobación.
 
-Una explicación apresurada puede contener errores, omisiones o afirmaciones que después no coincidan con la prueba. Antes de declarar debe conocerse el carácter procesal de la persona, el hecho atribuido y la información disponible en la causa.
+## Reunir las comunicaciones recibidas
+
+Tené disponibles las actas, notificaciones o mensajes oficiales que haya recibido la familia. Identificá la fecha, el organismo que los emitió y cualquier instrucción o plazo que figure en ellos.
+
+En la primera conversación puede explicarse qué documentos existen. Luego se determina cuáles resultan necesarios para revisar la situación.
+
+## Asistencia antes de una declaración
 
 Si la persona declara como imputada, debe asistir su defensor, bajo pena de nulidad (art. 258 del CPP). También tiene derecho a abstenerse de declarar sin que el silencio implique una presunción de culpabilidad.
 
-## Confiar solamente en versiones informales
+## Identificar fechas próximas
 
-Comentarios de conocidos, mensajes sin identificar o afirmaciones sobre una supuesta liberación no reemplazan las actas y resoluciones. Conviene saber qué autoridad interviene y verificar el estado real del expediente.
+Una audiencia, una declaración o una resolución puede requerir atención dentro de un plazo concreto. Si existe una fecha cercana, indicala al comienzo de la consulta.
 
-## Presentar documentación sin orden
+Aunque todavía falten documentos, los datos básicos permiten iniciar la revisión y decidir qué información debe buscarse primero.
 
-Enviar cientos de mensajes, fotografías o audios puede dificultar la comprensión. Es mejor preparar una cronología breve, separar los documentos por fecha e indicar qué dato demuestra cada uno.
+## Cómo puede ayudar la familia
 
-Conservá los mensajes, archivos y demás elementos relacionados con la investigación en su estado original y coordiná su presentación con la defensa.
-
-## Esperar cuando hay una fecha próxima
-
-Una audiencia, declaración o resolución puede tener plazos importantes. Si existe una fecha cercana, indicala al comienzo de la consulta. No demores el contacto por intentar reunir cada documento.
-
-## Qué hacer en cambio
-
-Confirmá nombre, lugar de alojamiento, momento de la detención, autoridad interviniente y número de expediente si se conoce. Conservá actas y notificaciones. Explicá brevemente qué ocurrió y cuál es la preocupación inmediata.
+Confirmá el nombre, el lugar de alojamiento, el momento aproximado de la detención, la autoridad interviniente y el número de expediente si se conoce. Explicá brevemente qué ocurrió y cuál es la preocupación inmediata.
 
 La defensa podrá verificar la situación, revisar la legalidad de la detención, asesorar antes de una declaración y evaluar pedidos vinculados con la libertad.
 

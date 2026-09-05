@@ -3,7 +3,7 @@ layout: article
 title: "Política de privacidad"
 h1: "Política de privacidad"
 description: "Política de privacidad del sitio Defensa Penal Córdoba."
-quick: "Este sitio solicita datos mínimos para responder consultas penales. No envíes documentación sensible sin coordinación previa."
+quick: "Este sitio solicita datos mínimos para responder consultas penales. En el primer contacto alcanza con una descripción breve y la información básica de la consulta."
 hide_attorneys_trust_box: true
 ---
 
@@ -13,7 +13,7 @@ Los datos enviados por teléfono, email o WhatsApp se utilizan para responder co
 
 ## Confidencialidad
 
-La consulta profesional es confidencial. No obstante, por seguridad, no envíes documentación sensible sin coordinación previa.
+La consulta profesional se trata con confidencialidad. En el primer contacto alcanza con una descripción breve y los datos básicos necesarios para comprender el motivo de la comunicación.
 
 ## Herramientas de medición
 

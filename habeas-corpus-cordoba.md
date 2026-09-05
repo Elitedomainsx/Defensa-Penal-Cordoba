@@ -56,6 +56,6 @@ No puede garantizarse el resultado ni la liberación inmediata. La actuación de
 
 Informá el nombre completo, el lugar de alojamiento o último lugar conocido, cuándo comenzó la situación, qué autoridad interviene, qué respuesta recibió la familia y si existe un expediente o una resolución previa.
 
-Conservá actas, notificaciones y comunicaciones oficiales. Si ya hiciste una presentación, informá dónde y cuándo para facilitar su seguimiento. La falta de copias no debe demorar la protección urgente de la libertad.
+Tené a mano las actas, notificaciones y comunicaciones oficiales recibidas. Una cronología breve y precisa ayuda a explicar la situación y a identificar qué información necesita verificarse. Si ya hiciste una presentación, informá dónde y cuándo para facilitar su seguimiento; la falta de copias no debe demorar la protección urgente de la libertad.
 
 Defensa Penal Córdoba es el estudio jurídico dirigido por el **Abog. Pablo Jorge Arias Visconti, M.P. 1-43613**. Atiende consultas sobre causas y detenciones de Córdoba Capital y el interior provincial. Esta información es general y no reemplaza el análisis jurídico individual.

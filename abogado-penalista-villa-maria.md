@@ -12,7 +12,7 @@ faq:
   - q: "¿Puedo consultar antes de presentarme a una citación?"
     a: "Sí. Conviene revisar el texto completo de la citación y confirmar en qué carácter fue convocada la persona antes de declarar o aportar documentación."
   - q: "¿Cómo se comparte la documentación?"
-    a: "Primero es preferible resumir el caso y enumerar los documentos disponibles. Luego se coordina qué material es útil revisar y por qué canal enviarlo."
+    a: "Primero es preferible resumir el caso, indicar las fechas importantes y enumerar los documentos disponibles. Con esos datos puede definirse qué información resulta útil revisar."
 ---
 
 ## Empezar por una cronología, no por suposiciones
@@ -32,7 +32,7 @@ También hay que confirmar si quien consulta es la persona citada o imputada, un
 | Detención | Lugar de alojamiento, hora aproximada y autoridad interviniente |
 | Resolución | Texto íntegro, fecha de notificación y plazo mencionado |
 
-Antes de enviar archivos sensibles, conviene acordar qué documentación hace falta. Las capturas incompletas o sin contexto pueden ocultar datos importantes.
+Para iniciar la consulta alcanza con resumir la situación e indicar cuáles de esos documentos están disponibles. La revisión permite determinar qué información resulta relevante.
 
 ## Una citación no debería tratarse como un trámite automático
 
@@ -42,7 +42,7 @@ Si hay una declaración próxima, podés revisar la guía sobre [citaciones pena
 
 ## Cuando el problema es la libertad
 
-Si una persona está detenida, la consulta inicial debería concentrarse en datos confirmables: dónde se encuentra, desde cuándo, qué autoridad actúa y si ya tuvo asistencia letrada. Conservá las notificaciones y coordiná con la defensa el envío de información sensible.
+Si una persona está detenida, la consulta inicial debería concentrarse en datos confirmables: dónde se encuentra, desde cuándo, qué autoridad actúa y si ya tuvo asistencia letrada. También es importante indicar si existe una audiencia, declaración o plazo próximo.
 
 La medida adecuada depende de la causa. Puede ser necesario analizar una [excarcelación](/excarcelacion-cordoba/), los fundamentos de una [prisión preventiva](/prision-preventiva-cordoba/) o, en supuestos específicos, un [hábeas corpus](/habeas-corpus-cordoba/).
 
@@ -62,6 +62,6 @@ Un domicilio general del tribunal no identifica necesariamente la dependencia qu
 
 ## Modalidad de consulta
 
-La conversación inicial puede coordinarse de forma remota para revisar la cronología y determinar qué documentación es relevante. Si luego hace falta una actuación presencial, se define su alcance, disponibilidad y condiciones antes de asumirla.
+La conversación inicial puede realizarse de forma remota para revisar la cronología y determinar qué información es relevante. Si luego hace falta una actuación presencial, se define su alcance, disponibilidad y condiciones antes de asumirla.
 
 La información se integra al hub de [atención penal en Córdoba Capital e interior](/localidades/). No se comunica una oficina profesional permanente en Villa María.
