@@ -2,22 +2,28 @@
 layout: article
 title: "Orientación penal en Córdoba | Guías prácticas"
 h1: "Orientación penal en Córdoba"
-description: "Guías breves para comprender detenciones, citaciones y declaraciones en causas penales de Córdoba, y saber cuándo consultar."
+description: "Guías breves para comprender denuncias, detenciones, citaciones y declaraciones en causas penales de Córdoba, y saber cuándo consultar."
 quick: "Estas guías explican situaciones frecuentes con lenguaje claro. Sirven para ordenar preguntas y evitar decisiones apresuradas, pero no reemplazan el análisis del expediente ni el asesoramiento de un abogado penalista."
-last_updated: "4 de septiembre de 2026"
+last_updated: "28 de septiembre de 2026"
+last_modified_at: "2026-09-28"
 hide_related_services: true
 faq:
   - q: "¿Estas guías reemplazan una consulta con abogado?"
     a: "No. Son información general. Una estrategia defensiva requiere revisar el caso, la prueba, la etapa procesal y las medidas vigentes."
   - q: "¿Cuándo conviene pedir asesoramiento urgente?"
-    a: "Cuando hay una persona detenida, una citación o audiencia próxima, riesgo para la libertad o una resolución con un plazo que podría estar corriendo."
+    a: "Cuando hay una persona detenida, una citación o audiencia próxima, un allanamiento, riesgo para la libertad o una resolución con un plazo que podría estar corriendo."
 ---
 
 ## Guías para comprender una situación penal
 
-Una causa penal puede comenzar con una citación, una detención, una denuncia o una comunicación informal difícil de interpretar. Antes de actuar conviene saber en qué carácter interviene la persona, qué autoridad lleva el caso y si existe una fecha próxima.
+Una causa penal puede comenzar con una denuncia, una citación, una detención o una comunicación informal difícil de interpretar. Antes de actuar conviene saber en qué carácter interviene la persona, qué autoridad lleva el caso y si existe una fecha próxima.
 
 Elegí la guía que corresponda a la duda concreta:
+
+### Denuncia o investigación inicial
+
+- [Me denunciaron penalmente: qué hacer antes de declarar](/me-denunciaron-penalmente-cordoba/): qué comprobar, qué preservar y qué conductas evitar desde el primer momento.
+- [Qué significa estar imputado](/orientacion-penal/que-significa-estar-imputado/): diferencia entre investigación, imputación y condena.
 
 ### Detenciones
 
