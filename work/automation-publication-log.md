@@ -13,3 +13,14 @@
 - **Controles:** compilación pública de GitHub Pages confirmada; una sola intención y un H1; title y description; canonical correcto; JSON-LD WebPage, BreadcrumbList y FAQPage válido; imagen cargada con alt; CTA a WhatsApp; enlaces internos visibles; sitemap automático mediante `jekyll-sitemap`; lenguaje jurídico prudente, sin promesas ni sugerencias indebidas.
 - **Estado de publicación:** publicada y verificada en el dominio público. Commit inicial de la página: `56f0a99afda840b95792634811f3d2e220d4050b`.
 - **Próxima oportunidad:** publicar o mejorar la guía sobre allanamientos prevista para 2026-10-01, después de comprobar que no exista otra URL que ya satisfaga esa intención.
+
+## Corrección editorial · 2026-09-28
+
+- **URL:** https://www.defensapenalcordoba.com.ar/me-denunciaron-penalmente-cordoba/
+- **Keyword / cluster:** “me denunciaron penalmente qué hago”; denuncia e investigación inicial.
+- **Intención:** contacto temprano con defensa penal para recibir pasos adaptados a una causa concreta.
+- **Acción:** reescritura de la guía tras revisión del titular. Se eliminaron las listas de acciones, advertencias pormenorizadas y preguntas que podían sugerir conductas. El título, la respuesta inmediata y el cuerpo ahora invitan a consultar cuanto antes con un abogado. Se ajustó también el texto del enlace en `/orientacion-penal/`.
+- **Fuentes:** Código Procesal Penal de Córdoba, Ley 8123, art. 80, texto actualizado; Ley 10.457 que lo modifica, en los enlaces oficiales arriba consignados.
+- **Enlaces internos:** `/orientacion-penal/`, `/citacion-a-declarar-cordoba/`, `/orientacion-penal/que-significa-estar-imputado/`, `/contacto/`; WhatsApp al estudio.
+- **Estado:** commits de corrección `7407d83fb133b2eb32d79ffc856ace6c3b43c7e4` y `5b856d8429ffb65bd67f9fba4c4318dd862913f1` en `main`; verificación pública pendiente mientras GitHub Pages actualiza.
+- **Próxima oportunidad:** para contenidos de urgencia penal, aplicar el mismo criterio: explicación breve, consulta profesional clara, ninguna enumeración que pueda inspirar conductas indebidas.
