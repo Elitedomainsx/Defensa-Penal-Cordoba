@@ -24,3 +24,14 @@
 - **Enlaces internos:** `/orientacion-penal/`, `/citacion-a-declarar-cordoba/`, `/orientacion-penal/que-significa-estar-imputado/`, `/contacto/`; WhatsApp al estudio.
 - **Estado:** publicada y verificada en la URL pública; título, H1, respuesta rápida y CTA ya muestran la versión nueva. Commits de corrección `7407d83fb133b2eb32d79ffc856ace6c3b43c7e4` y `5b856d8429ffb65bd67f9fba4c4318dd862913f1` en `main`.
 - **Próxima oportunidad:** para contenidos de urgencia penal, aplicar el mismo criterio: explicación breve, consulta profesional clara, ninguna enumeración que pueda inspirar conductas indebidas.
+
+## Revisión de coherencia · 2026-09-28
+
+- **URL:** https://www.defensapenalcordoba.com.ar/me-denunciaron-penalmente-cordoba/
+- **Keyword / cluster:** “me denunciaron penalmente qué hago”; consulta penal temprana.
+- **Intención:** transformar la inquietud inicial en una consulta profesional útil, sin consejos operativos que sustituyan el análisis individual.
+- **Acción:** se reordenó y reescribió la URL completa con una progresión narrativa: incertidumbre ante la denuncia, razón para consultar, contenido de la primera conversación y CTA al estudio. Se eliminaron preguntas frecuentes redundantes; se mantuvieron fuentes jurídicas e interlinks hacia citación e imputación.
+- **Fuentes:** Código Procesal Penal de Córdoba, Ley 8123, arts. 1 y 80, y Ley 10.457, verificados en las fuentes oficiales arriba enlazadas el 2026-09-28.
+- **Enlaces internos:** `/citacion-a-declarar-cordoba/`, `/orientacion-penal/que-significa-estar-imputado/`, `/contacto/` mediante layout; WhatsApp al estudio.
+- **Estado:** publicada y verificada en el dominio público; título, H1, respuesta rápida, cuerpo nuevo y CTA visibles. Commit `b5f524128b7dea2958a3cde4eac85675f0616e8c`.
+- **Próxima oportunidad:** aplicar el mismo criterio de coherencia y prudencia a la siguiente URL sobre allanamientos antes de publicarla.
