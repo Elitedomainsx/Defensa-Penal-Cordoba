@@ -22,24 +22,24 @@ Fuentes: Search Console (28/90/480 días) + Ubersuggest Argentina, español, ext
 
 ## Ocho semanas
 
-| Fecha | Página propuesta | Keyword/intención principal | Señal |
-|---|---|---|---|
-| 2026-09-28 | Me denunciaron penalmente en Córdoba: qué hacer antes de declarar | me denunciaron penalmente qué hago | Comercial/urgente; autocomplete |
-| 2026-10-01 | Allanamiento en Córdoba: derechos, documentación y primeros pasos | qué hacer ante un allanamiento | Urgente; cluster penal |
-| 2026-10-05 | Orden de detención o captura: cómo actuar sin agravar la situación | orden de detención Córdoba | Comercial/urgente |
-| 2026-10-08 | Las primeras 24 horas después de una detención | primeras horas persona detenida | GSC: “asistencia detenido Córdoba” |
-| 2026-10-12 | Excarcelación denegada: qué puede revisarse | apelación excarcelación denegada | Ubersuggest/autocomplete |
-| 2026-10-15 | Caución juratoria, personal o real: qué cambia en una excarcelación | caución excarcelación | Long tail de excarcelación |
-| 2026-10-19 | Investigación penal preparatoria en Córdoba: etapas y decisiones | investigación penal preparatoria Córdoba | Comercial/procesal |
-| 2026-10-22 | Probation en Córdoba: cuándo puede evaluarse | probation Córdoba causa penal | Comercial/procesal |
-| 2026-10-26 | Juicio abreviado: qué conviene revisar antes de aceptar | juicio abreviado Córdoba | Comercial/decisión |
-| 2026-10-29 | Sobreseimiento: alcance y momento procesal | sobreseimiento causa penal | Comercial/procesal |
-| 2026-11-02 | Secuestro del teléfono o bienes en una causa penal | secuestro celular causa penal | Urgente/probatorio |
-| 2026-11-05 | Defensa ante una denuncia por amenazas | abogado amenazas Córdoba | Comercial por tipo de causa |
-| 2026-11-09 | Defensa penal en causas por estafa | abogado estafa Córdoba | Comercial por tipo de causa |
-| 2026-11-12 | Tenencia de drogas: por qué la jurisdicción cambia la estrategia | abogado drogas Córdoba | Comercial/federal |
-| 2026-11-16 | Causa penal en el interior de Córdoba: cómo iniciar la consulta | abogado penalista interior Córdoba | Comercial/local |
-| 2026-11-19 | Cuánto cobra un abogado penalista y qué debe incluir el presupuesto | abogado penalista cuánto cobra | Ubersuggest: vol. 50, SD 23 |
+| Fecha | Página propuesta | Keyword/intención principal | Señal | Estado |
+|---|---|---|---|---|
+| 2026-09-28 | Me denunciaron penalmente en Córdoba: qué hacer antes de declarar | me denunciaron penalmente qué hago | Comercial/urgente; calendario y universo congelado | Publicada y verificada |
+| 2026-10-01 | Allanamiento en Córdoba: derechos, documentación y primeros pasos | qué hacer ante un allanamiento | Urgente; cluster penal | Pendiente |
+| 2026-10-05 | Orden de detención o captura: cómo actuar sin agravar la situación | orden de detención Córdoba | Comercial/urgente | Pendiente |
+| 2026-10-08 | Las primeras 24 horas después de una detención | primeras horas persona detenida | GSC: “asistencia detenido Córdoba” | Pendiente |
+| 2026-10-12 | Excarcelación denegada: qué puede revisarse | apelación excarcelación denegada | Ubersuggest/autocomplete | Pendiente |
+| 2026-10-15 | Caución juratoria, personal o real: qué cambia en una excarcelación | caución excarcelación | Long tail de excarcelación | Pendiente |
+| 2026-10-19 | Investigación penal preparatoria en Córdoba: etapas y decisiones | investigación penal preparatoria Córdoba | Comercial/procesal | Pendiente |
+| 2026-10-22 | Probation en Córdoba: cuándo puede evaluarse | probation Córdoba causa penal | Comercial/procesal | Pendiente |
+| 2026-10-26 | Juicio abreviado: qué conviene revisar antes de aceptar | juicio abreviado Córdoba | Comercial/decisión | Pendiente |
+| 2026-10-29 | Sobreseimiento: alcance y momento procesal | sobreseimiento causa penal | Comercial/procesal | Pendiente |
+| 2026-11-02 | Secuestro del teléfono o bienes en una causa penal | secuestro celular causa penal | Urgente/probatorio | Pendiente |
+| 2026-11-05 | Defensa ante una denuncia por amenazas | abogado amenazas Córdoba | Comercial por tipo de causa | Pendiente |
+| 2026-11-09 | Defensa penal en causas por estafa | abogado estafa Córdoba | Comercial por tipo de causa | Pendiente |
+| 2026-11-12 | Tenencia de drogas: por qué la jurisdicción cambia la estrategia | abogado drogas Córdoba | Comercial/federal | Pendiente |
+| 2026-11-16 | Causa penal en el interior de Córdoba: cómo iniciar la consulta | abogado penalista interior Córdoba | Comercial/local | Pendiente |
+| 2026-11-19 | Cuánto cobra un abogado penalista y qué debe incluir el presupuesto | abogado penalista cuánto cobra | Ubersuggest: vol. 50, SD 23 | Pendiente |
 
 ## Reglas editoriales
 
