@@ -22,7 +22,7 @@ Elegí la guía que corresponda a la duda concreta:
 
 ### Denuncia o investigación inicial
 
-- [Me denunciaron penalmente: qué hacer antes de declarar](/me-denunciaron-penalmente-cordoba/): qué comprobar, qué preservar y qué conductas evitar desde el primer momento.
+- [Me denunciaron penalmente: cuándo consultar](/me-denunciaron-penalmente-cordoba/): por qué conviene hablar cuanto antes con un abogado sobre los pasos a seguir.
 - [Qué significa estar imputado](/orientacion-penal/que-significa-estar-imputado/): diferencia entre investigación, imputación y condena.
 
 ### Detenciones
