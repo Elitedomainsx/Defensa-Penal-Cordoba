@@ -22,5 +22,5 @@
 - **Acción:** reescritura de la guía tras revisión del titular. Se eliminaron las listas de acciones, advertencias pormenorizadas y preguntas que podían sugerir conductas. El título, la respuesta inmediata y el cuerpo ahora invitan a consultar cuanto antes con un abogado. Se ajustó también el texto del enlace en `/orientacion-penal/`.
 - **Fuentes:** Código Procesal Penal de Córdoba, Ley 8123, art. 80, texto actualizado; Ley 10.457 que lo modifica, en los enlaces oficiales arriba consignados.
 - **Enlaces internos:** `/orientacion-penal/`, `/citacion-a-declarar-cordoba/`, `/orientacion-penal/que-significa-estar-imputado/`, `/contacto/`; WhatsApp al estudio.
-- **Estado:** commits de corrección `7407d83fb133b2eb32d79ffc856ace6c3b43c7e4` y `5b856d8429ffb65bd67f9fba4c4318dd862913f1` en `main`; verificación pública pendiente mientras GitHub Pages actualiza.
+- **Estado:** publicada y verificada en la URL pública; título, H1, respuesta rápida y CTA ya muestran la versión nueva. Commits de corrección `7407d83fb133b2eb32d79ffc856ace6c3b43c7e4` y `5b856d8429ffb65bd67f9fba4c4318dd862913f1` en `main`.
 - **Próxima oportunidad:** para contenidos de urgencia penal, aplicar el mismo criterio: explicación breve, consulta profesional clara, ninguna enumeración que pueda inspirar conductas indebidas.
