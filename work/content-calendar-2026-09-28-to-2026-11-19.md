@@ -25,7 +25,7 @@ Fuentes: Search Console (28/90/480 días) + Ubersuggest Argentina, español, ext
 | Fecha | Página propuesta | Keyword/intención principal | Señal | Estado |
 |---|---|---|---|---|
 | 2026-09-28 | Me denunciaron penalmente en Córdoba: qué hacer antes de declarar | me denunciaron penalmente qué hago | Comercial/urgente; calendario y universo congelado | Publicada y verificada |
-| 2026-10-01 | Allanamiento en Córdoba: derechos, documentación y primeros pasos | qué hacer ante un allanamiento | Urgente; cluster penal | Pendiente |
+| 2026-10-01 | **Publicada: /allanamiento-penal-cordoba/** — consulta penal ante un allanamiento | qué hacer ante un allanamiento | Urgente; cluster penal; sin volumen verificado para esta frase | Publicada y verificada |
 | 2026-10-05 | Orden de detención o captura: cómo actuar sin agravar la situación | orden de detención Córdoba | Comercial/urgente | Pendiente |
 | 2026-10-08 | Las primeras 24 horas después de una detención | primeras horas persona detenida | GSC: “asistencia detenido Córdoba” | Pendiente |
 | 2026-10-12 | Excarcelación denegada: qué puede revisarse | apelación excarcelación denegada | Ubersuggest/autocomplete | Pendiente |
