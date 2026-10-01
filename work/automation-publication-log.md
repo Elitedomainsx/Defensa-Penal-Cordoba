@@ -35,3 +35,15 @@
 - **Enlaces internos:** `/citacion-a-declarar-cordoba/`, `/orientacion-penal/que-significa-estar-imputado/`, `/contacto/` mediante layout; WhatsApp al estudio.
 - **Estado:** publicada y verificada en el dominio público; título, H1, respuesta rápida, cuerpo nuevo y CTA visibles. Commit `b5f524128b7dea2958a3cde4eac85675f0616e8c`.
 - **Próxima oportunidad:** aplicar el mismo criterio de coherencia y prudencia a la siguiente URL sobre allanamientos antes de publicarla.
+
+## 2026-10-01 — Consulta penal ante un allanamiento
+
+- **URL:** https://www.defensapenalcordoba.com.ar/allanamiento-penal-cordoba/
+- **Keyword / cluster:** “qué hacer ante un allanamiento”; urgencia penal y consulta temprana. No se atribuyó volumen ni dificultad a la frase.
+- **Intención:** comprender el significado de un allanamiento en Córdoba y contactar a un abogado para revisar la medida y la situación procesal concreta.
+- **Acción:** se creó una guía breve y coherente, centrada en la consulta profesional, diferenciada de la página general de urgencias. Explica que la medida no equivale a condena ni implica necesariamente que todos los presentes estén imputados; presenta qué puede revisar la defensa y los datos suficientes para iniciar la consulta. Se enlazó desde `/orientacion-penal/`, con CTA visible a WhatsApp arriba y al cierre. No incluye instrucciones que puedan sugerir obstruir la diligencia o la investigación.
+- **Datos usados:** CSV Search Console compartido, período 2026-08-29 a 2026-09-25; no registra la consulta específica sobre allanamientos, por lo que la prioridad proviene del calendario comercial y la intención urgente. Universo Ubersuggest Argentina/es extraído 2026-09-24; sin métrica verificada para la keyword exacta. La fecha de Search Console no se presenta como rendimiento posterior al 25 de septiembre.
+- **Fuente jurídica comprobada 2026-10-01:** Código Procesal Penal de Córdoba, Ley 8123, texto actualizado, arts. 203, 206 y 207: https://www.argentina.gob.ar/normativa/provincial/ley-8123-123456789-0abc-defg-321-8000ovorpyel/actualizacion . Información general, sin garantía de resultado; cada caso depende de prueba, etapa y decisiones competentes.
+- **Enlaces internos:** `/orientacion-penal/` hacia la nueva guía; desde la guía a `/familiar-detenido-cordoba/` y `/citacion-a-declarar-cordoba/`; contacto del layout a `/contacto/`.
+- **Publicación y controles:** commits de página `db92eccc71488add475f33463b47cd3393f0a7c4` y enlace de navegación `a87fe8ff62439a21540854a7043df0d194247d64` en `main`. Jekyll Pages build y despliegue exitosos en https://github.com/Elitedomainsx/Defensa-Penal-Cordoba/actions/runs/36833589065 . La URL pública y `/sitemap.xml` devolvieron HTTP 200; se verificaron title, meta description, H1 único, canonical, viewport móvil, JSON-LD válido, enlaces y CTA. La página usa el layout y CSS responsivo existentes.
+- **Próxima oportunidad:** 2026-10-05, revisar la intención “orden de detención Córdoba” frente a URLs actuales antes de crear contenido nuevo.
