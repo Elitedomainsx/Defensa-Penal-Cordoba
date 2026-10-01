@@ -4,8 +4,8 @@ title: "Orientación penal en Córdoba | Guías prácticas"
 h1: "Orientación penal en Córdoba"
 description: "Guías breves para comprender denuncias, detenciones, citaciones y declaraciones en causas penales de Córdoba, y saber cuándo consultar."
 quick: "Estas guías explican situaciones frecuentes con lenguaje claro. Sirven para ordenar preguntas y evitar decisiones apresuradas, pero no reemplazan el análisis del expediente ni el asesoramiento de un abogado penalista."
-last_updated: "28 de septiembre de 2026"
-last_modified_at: "2026-09-28"
+last_updated: "1 de octubre de 2026"
+last_modified_at: "2026-10-01"
 hide_related_services: true
 faq:
   - q: "¿Estas guías reemplazan una consulta con abogado?"
@@ -24,6 +24,10 @@ Elegí la guía que corresponda a la duda concreta:
 
 - [Me denunciaron penalmente: cuándo consultar](/me-denunciaron-penalmente-cordoba/): por qué conviene hablar cuanto antes con un abogado sobre los pasos a seguir.
 - [Qué significa estar imputado](/orientacion-penal/que-significa-estar-imputado/): diferencia entre investigación, imputación y condena.
+
+### Allanamientos
+
+- [Allanamiento en Córdoba: cuándo consultar](/allanamiento-penal-cordoba/): qué significa la medida y cómo iniciar una consulta con un abogado.
 
 ### Detenciones
 
